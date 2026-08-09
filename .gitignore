@@ -1,0 +1,12 @@
+# Sekrety — NIGDY nie commitowac!
+secrets.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# smieci robocze
+*.html
+cookies.txt
+*.output
