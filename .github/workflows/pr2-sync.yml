@@ -28,10 +28,12 @@ jobs:
 
       - name: Uruchom sync PR2
         env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          # jawne (Client ID jest publiczny z natury, Playlist ID to zwykly identyfikator)
+          SPOTIFY_CLIENT_ID: "0fef0c2097a2403fb77e3db052d1aa37"
+          SPOTIFY_PLAYLIST_ID: "3hdsfKIX3McCTV995EZuFn"
+          # tajne — z GitHub Secrets
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          SPOTIFY_PLAYLIST_ID: ${{ secrets.SPOTIFY_PLAYLIST_ID }}
         run: python3 sync.py
 
       - name: Keepalive (chroni harmonogram przed wylaczeniem po 60 dniach)
