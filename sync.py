@@ -18,6 +18,7 @@ import spotify
 
 PLAYLIST_NAME = "PR2"
 MATCH_THRESHOLD = 0.50
+LOOKBACK_DAYS = 7        # okno kroczące (dni wstecz)
 ENVF = spotify.ENVF
 
 def log(*a): print(*a, flush=True)
@@ -83,21 +84,31 @@ def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     flags = {a for a in sys.argv[1:] if a.startswith("--")}
     dry = "--dry-run" in flags
-    if args:
-        date_iso = args[0]
-    else:
-        tz = zoneinfo.ZoneInfo("Europe/Warsaw")
-        date_iso = (datetime.datetime.now(tz).date() - datetime.timedelta(days=1)).isoformat()
+    tz = zoneinfo.ZoneInfo("Europe/Warsaw")
+    end = datetime.date.fromisoformat(args[0]) if args else (
+        datetime.datetime.now(tz).date() - datetime.timedelta(days=1))
+    # okno kroczące: 'end' i wcześniejsze dni, łącznie LOOKBACK_DAYS
+    dates = [(end - datetime.timedelta(days=i)).isoformat() for i in range(LOOKBACK_DAYS)]
 
-    log(f"== PR2 sync — dzien {date_iso}  {'(DRY-RUN)' if dry else ''} ==")
-    tracks = prlist.scrape_day(date_iso)
-    keep = []
-    for tr in tracks:
-        verdict, reason = prlist.classify(tr["name"])
-        if verdict == "keep":
+    log(f"== PR2 sync — okno kroczące {LOOKBACK_DAYS} dni ({dates[-1]} .. {dates[0]}) "
+        f"{'(DRY-RUN)' if dry else ''} ==")
+    keep, seen_names, total = [], set(), 0
+    for d in dates:
+        day_tracks = prlist.scrape_day(d)
+        total += len(day_tracks)
+        for tr in day_tracks:
+            verdict, reason = prlist.classify(tr["name"])
+            if verdict != "keep":
+                continue
+            key = tr["name"].strip().lower()
+            if key in seen_names:
+                continue
+            seen_names.add(key)
             a, t = prlist.split_artist_title(tr["name"])
-            keep.append({"time": tr["time"], "artist": a, "title": t, "raw": tr["name"]})
-    log(f"Pobrano {len(tracks)} utworow; po odfiltrowaniu klasyki zostaje {len(keep)}.")
+            keep.append({"time": tr["time"], "artist": a, "title": t,
+                         "raw": tr["name"], "date": d})
+    log(f"Pobrano {total} utworow z {LOOKBACK_DAYS} dni; "
+        f"po filtrze klasyki i dedup zostaje {len(keep)}.")
 
     env = spotify.load_env()
     sp = spotify.Spotify(spotify.get_access_token(env))
@@ -115,7 +126,7 @@ def main():
     log(f"Dopasowano na Spotify: {len(uris)} / {len(keep)}")
     log("\n-- DOPASOWANE (ida na playliste) --")
     for k, cand, score in matched:
-        log(f"  [{score:.2f}] {k['time']}  {cand}")
+        log(f"  [{score:.2f}] {k['date']} {k['time']}  {cand}")
     if missed:
         log("\n-- NIEDOPASOWANE (pominiete) --")
         for k, cand, score in missed:
@@ -132,8 +143,8 @@ def main():
     if not env.get("SPOTIFY_PLAYLIST_ID"):
         save_env_kv("SPOTIFY_PLAYLIST_ID", pid)
     replace_tracks(sp, pid, uris)
-    desc = (f"Dwojka (Program 2 PR) — utwory z {date_iso} bez muzyki klasycznej. "
-            f"Auto-aktualizacja codziennie rano. Zrodlo: radiospis.pl")
+    desc = (f"Dwojka (Program 2 PR) — utwory z ostatnich {LOOKBACK_DAYS} dni bez muzyki "
+            f"klasycznej. Krocząca aktualizacja. Zrodlo: radiospis.pl")
     sp.put(f"/playlists/{pid}", {"description": desc})
     st, js = sp.get(f"/playlists/{pid}", fields="external_urls,name")
     url = (js.get("external_urls") or {}).get("spotify", f"spotify:playlist:{pid}")

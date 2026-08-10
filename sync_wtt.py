@@ -16,7 +16,7 @@ import prlist, spotify
 
 # --- konfiguracja audycji ---------------------------------------------------
 STATION = "trojka"
-AIR_WEEKDAYS = {0}             # dni tygodnia audycji: 0=pon (1=wt, 3=czw ...)
+AIR_WEEKDAYS = {0, 1, 2, 3, 4}  # dni audycji: pon–pt (0=pon ... 4=pt)
 WINDOW = ("14:00", "16:00")    # godziny audycji (od–do)
 LOOKBACK_DAYS = 7              # okno kroczące
 PLAYLIST_NAME = "W tonacji Trójki"
@@ -102,7 +102,7 @@ def main():
 
     log(f"== W tonacji Trójki — okno {LOOKBACK_DAYS} dni do {today} {'(DRY-RUN)' if dry else ''} ==")
     tracks = collect_window(today)
-    log(f"Utworów z audycji (pon 14-16) w oknie: {len(tracks)}")
+    log(f"Utworów ze slotu 14-16 (pon–pt) w oknie: {len(tracks)}")
     if not tracks:
         log("Brak utworów w oknie — nie ruszam playlisty."); return
 
