@@ -14,6 +14,7 @@ import sys
 import unicodedata
 import datetime
 import zoneinfo
+import time
 
 BASE = "https://radiospis.pl"
 STATION = "dwojka"
@@ -122,7 +123,7 @@ def classify(text: str):
 def fetch(url: str) -> str:
     req = urllib.request.Request(url, headers={
         "User-Agent": UA, "Accept-Language": "pl-PL,pl;q=0.9"})
-    with urllib.request.urlopen(req, timeout=30) as r:
+    with urllib.request.urlopen(req, timeout=15) as r:
         return r.read().decode("utf-8", "replace")
 
 def scrape_day(date_iso: str):
@@ -143,6 +144,7 @@ def scrape_day(date_iso: str):
             key = (tm, name.lower())
             if key not in seen:
                 seen[key] = {"time": tm, "name": name, "slug": slug}
+        time.sleep(0.35)   # grzeczność wobec radiospis (unikamy throttlingu)
     return sorted(seen.values(), key=lambda x: x["time"])
 
 def split_artist_title(name: str):

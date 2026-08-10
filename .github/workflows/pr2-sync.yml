@@ -19,6 +19,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 25          # twardy limit — bieg nie może wisieć w nieskonczonosc
     steps:
       - uses: actions/checkout@v4
 

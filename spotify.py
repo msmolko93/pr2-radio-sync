@@ -22,9 +22,10 @@ def load_env(path=ENVF):
     return d
 
 # ------------------------- HTTP ---------------------------------------------
-def _req(method, url, headers=None, data=None, timeout=30):
+def _req(method, url, headers=None, data=None, timeout=12):
     req = urllib.request.Request(url, method=method, headers=headers or {}, data=data)
-    for attempt in range(5):
+    for attempt in range(3):
+        time.sleep(0.08)   # lagodny globalny rate-limit (unikamy 429/throttlingu)
         try:
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 body = r.read().decode("utf-8")
@@ -38,9 +39,9 @@ def _req(method, url, headers=None, data=None, timeout=30):
             except Exception: err = {"raw": body}
             return e.code, err
         except Exception as e:
-            if attempt == 4:
+            if attempt == 2:
                 return 0, {"error": str(e)}
-            time.sleep(1.5)
+            time.sleep(1.0)
     return 0, {"error": "retry_exhausted"}
 
 def get_access_token(env):
