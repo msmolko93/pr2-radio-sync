@@ -1,4 +1,4 @@
-name: PR2 daily sync
+name: Radio sync (PR2 + W tonacji Trójki)
 
 on:
   schedule:
@@ -35,6 +35,14 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: python3 sync.py
+
+      - name: Uruchom sync "W tonacji Trójki"
+        env:
+          SPOTIFY_CLIENT_ID: "0fef0c2097a2403fb77e3db052d1aa37"
+          SPOTIFY_WTT_PLAYLIST_ID: "52vFjYeh1pIlNu1SDDFVhy"
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python3 sync_wtt.py
 
       - name: Keepalive (chroni harmonogram przed wylaczeniem po 60 dniach)
         if: always()
