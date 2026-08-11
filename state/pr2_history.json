@@ -1,56 +1,4 @@
 {
- "2026-08-03": [
-  {
-   "name": "Kreisler Chanson Louis Xiii Et Pavane In The Style - Chanson Louis Xiii Et Pavane In The Style Of Coupe",
-   "time": "04:50",
-   "uri": "spotify:track:4T4Ly1s677g57hKehl794C"
-  },
-  {
-   "name": "Gorczycki Illuxit Sol The Sixteen Dougan - Illuxit Sol",
-   "time": "05:01",
-   "uri": "spotify:track:68vimoUvjTgjuYe7LhP6ST"
-  },
-  {
-   "name": "Rappe Jadwiga (Alt) - Demeter",
-   "time": "05:21",
-   "uri": "spotify:track:4IybLxtg3ScWcskmg9FUds"
-  },
-  {
-   "name": "Szarzyński Litania Cursoria Wrocław Baroque Ensemble Kosendiak - Litania Cursoria",
-   "time": "05:30",
-   "uri": "spotify:track:731DiCjf2xPmJfmDxXNQAR"
-  },
-  {
-   "name": "Stanisław Soyka - Sonet 116",
-   "time": "08:17",
-   "uri": "spotify:track:3GMlnRyavNmTAsMwllcECq"
-  },
-  {
-   "name": "Anfossi Lucio Silla - A Partir Tu Mi Condanni Mine - Lucio Silla - A Partir Tu Mi Condanni",
-   "time": "09:15",
-   "uri": "spotify:track:0nxGM9TMXy8CccEFFxcspP"
-  },
-  {
-   "name": "Salieri Europa Riconosciuta - Perder L' Oggetto Am - Europa Riconosciuta - Perder L' Oggetto Amato",
-   "time": "09:27",
-   "uri": "spotify:track:3gt71S0QroOJNaVDf1fYGs"
-  },
-  {
-   "name": "Duparc L'invitation Au Voyage Bernheim Matheson - L'invitation Au Voyage",
-   "time": "09:43",
-   "uri": "spotify:track:47aDuEtRylUM2ASbqHZAMC"
-  },
-  {
-   "name": "Duparc Extase Bernheim Matheson - Extase",
-   "time": "10:21",
-   "uri": "spotify:track:5J58SGtCKWArnq3GEqbKlB"
-  },
-  {
-   "name": "Hayato Sumino White Keys - White Keys",
-   "time": "14:02",
-   "uri": "spotify:track:1OcjvRe6mAPGLCFklY3Dbg"
-  }
- ],
  "2026-08-04": [
   {
    "name": "Kreisler Liebesleid - Liebesleid",
@@ -421,6 +369,88 @@
    "name": "Canzoniere Grecanico Salentino Pizzica A Marino - Pizzica A Marino",
    "time": "13:53",
    "uri": "spotify:track:64RrbGVWHIDxfsK7efRIAd"
+  }
+ ],
+ "2026-08-10": [
+  {
+   "name": "Benny Goodman Orchestra Dont Be That Way - Dont Be That Way",
+   "time": "06:02",
+   "uri": "spotify:track:7Bto5shUBaNnD3YDv1rnXv"
+  },
+  {
+   "name": "Lehar Dein Ist Mein Ganzes Herz Beczala Staatskape - Dein Ist Mein Ganzes Herz",
+   "time": "06:08",
+   "uri": "spotify:track:2yPVFRc7P5g24T1eua121P"
+  },
+  {
+   "name": "David Sanborn Hideaway - Hideaway",
+   "time": "06:52",
+   "uri": "spotify:track:7APrXg58BJdWrVHwBOliTr"
+  },
+  {
+   "name": "Schifrin Tango Del Atardecer (Ii) - Lalo Schifrin Orchestra - Tango Del Atardecer (Ii)",
+   "time": "07:33",
+   "uri": "spotify:track:5jS6fL2RZjewwbkRYPdEl1"
+  },
+  {
+   "name": "Keith Jarrett Trio Ain' T Misbehavin - Ain' T Misbehavin",
+   "time": "07:53",
+   "uri": "spotify:track:0T4KV1pj8as2xvdHZAP5ae"
+  },
+  {
+   "name": "Jeff Lorber Fusion City - City",
+   "time": "08:01",
+   "uri": "spotify:track:2fxGPywX81rSSodsGtH7d9"
+  },
+  {
+   "name": "Jordi Savall Cachua Serranita La Capella Reial De - Cachua Serranita, Nombrada El Huicho Nuebo E 192",
+   "time": "08:26",
+   "uri": "spotify:track:3GOSlLsJiLKRfFRW0Ah6r5"
+  },
+  {
+   "name": "Pat Metheny Episode D Azur - Episode D Azur",
+   "time": "08:50",
+   "uri": "spotify:track:19aSRPdR0NeGFCC1abW87I"
+  },
+  {
+   "name": "Sierra Salseando Flores Royal Liverpool Pho Hindoy - Salseando",
+   "time": "09:54",
+   "uri": "spotify:track:1QfLSjk3vtXXUsKSSMs0FI"
+  },
+  {
+   "name": "Marais Sonnerie De Ste. Genevieve Du Mont-De-Paris Savall Biondi Lislevand Hantai - Sonnerie De Ste. Genevieve Du Mont-De-Paris",
+   "time": "11:25",
+   "uri": "spotify:track:7f9iwK3Z2eZ9tqNurjiuRh"
+  },
+  {
+   "name": "Marais La Reveuse - 4Eme Livre De Pieces De Viole Savall - 08 La Reveuse - 4Eme Livre De Pieces De Viole (Marin Marais) (2)",
+   "time": "11:35",
+   "uri": "spotify:track:5ZluUhzmFXC0nJI2NyNz1g"
+  },
+  {
+   "name": "Marais L'arabesque - 4Eme Livre De Pieces De Viole - 10 L'arabesque - 4Eme Livre De Pieces De Viole",
+   "time": "11:39",
+   "uri": "spotify:track:1ePjnsa6dQiLvvRCP2b0gs"
+  },
+  {
+   "name": "Falconiero Ciaconna Savall & Hesperion Xxi - Ciaconna",
+   "time": "11:53",
+   "uri": "spotify:track:7uaSrat2urtzkE41trx27n"
+  },
+  {
+   "name": "Iga Cembrzyńska - Mówiłam Żartem",
+   "time": "16:21",
+   "uri": "spotify:track:7FSwurNrpUFergpZAXGFdj"
+  },
+  {
+   "name": "Carroubel Spagnolette Le Poeme Harmonique Dumestre - Spagnolette",
+   "time": "16:55",
+   "uri": "spotify:track:4Ad1L4dIujOFDJNOxokQjS"
+  },
+  {
+   "name": "La Llorona Capezzuto + L'arpeggiata + Pluhar - 03 - Trad. La Llorona (Arr. Pluhar)",
+   "time": "17:31",
+   "uri": "spotify:track:53YLPKWWlrgD2PmCxjkOY2"
   }
  ]
 }
