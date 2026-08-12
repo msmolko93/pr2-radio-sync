@@ -14,11 +14,11 @@ def load_env(path=ENVF):
             line = line.strip()
             if line and not line.startswith("#") and "=" in line:
                 k, v = line.split("=", 1); d[k] = v
-    # Zmienne srodowiskowe maja pierwszenstwo (GitHub Actions / chmura)
-    for k in ("SPOTIFY_CLIENT_ID", "SPOTIFY_CLIENT_SECRET", "SPOTIFY_REFRESH_TOKEN",
-              "SPOTIFY_USER_ID", "SPOTIFY_PLAYLIST_ID", "SPOTIFY_REDIRECT_URI"):
-        if os.environ.get(k):
-            d[k] = os.environ[k]
+    # Zmienne srodowiskowe maja pierwszenstwo (GitHub Actions / chmura).
+    # Bierzemy WSZYSTKIE SPOTIFY_* (w tym per-playlista, np. SPOTIFY_WTT_PLAYLIST_ID).
+    for k, v in os.environ.items():
+        if k.startswith("SPOTIFY_") and v:
+            d[k] = v
     return d
 
 # ------------------------- HTTP ---------------------------------------------

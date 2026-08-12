@@ -22,7 +22,8 @@ def find_or_create(sp, env, cfg):
         if st != 200:
             break
         for pl in js.get("items", []):
-            if pl and pl.get("name") == cfg["playlist_name"] and (pl.get("owner") or {}).get("id") == uid:
+            if pl and pl.get("name") == cfg["playlist_name"] and \
+               (uid is None or (pl.get("owner") or {}).get("id") == uid):
                 return pl["id"], False
         if js.get("next"):
             offset += 50
