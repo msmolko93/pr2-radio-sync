@@ -1,26 +1,4 @@
 {
- "2026-08-04": [
-  {
-   "name": "Kreisler Liebesleid - Liebesleid",
-   "time": "03:20",
-   "uri": "spotify:track:14guNyQkBgjCX1deJyImfS"
-  },
-  {
-   "name": "Tarnatella Patrizia Bovi + Pino De Vittorio + Le P - Tarantella",
-   "time": "06:27",
-   "uri": "spotify:track:5CVSC6Ehnko15JmOuGYFwA"
-  },
-  {
-   "name": "Gershwin I Got Rhythm Anima Eterna Mcfadden Brugge - I Got Rhythm",
-   "time": "07:15",
-   "uri": "spotify:track:4IyVwprcPBmRj6TqMA6Lhl"
-  },
-  {
-   "name": "Petrus Wilhelmi De Grudencz Prelustri Elucentia Vox Clamantis - Prelustri Elucentia",
-   "time": "17:45",
-   "uri": "spotify:track:0v5f9TCLbSCTYN4MgcgiJi"
-  }
- ],
  "2026-08-05": [
   {
    "name": "Clyne Restless Oceans - Restless Oceans",
@@ -451,6 +429,58 @@
    "name": "La Llorona Capezzuto + L'arpeggiata + Pluhar - 03 - Trad. La Llorona (Arr. Pluhar)",
    "time": "17:31",
    "uri": "spotify:track:53YLPKWWlrgD2PmCxjkOY2"
+  }
+ ],
+ "2026-08-11": [
+  {
+   "name": "Louis Prima Just A Gigolo - Just A Gigolo",
+   "time": "06:01",
+   "uri": "spotify:track:03EpQ63wgYcMYHn2qOiCPW"
+  },
+  {
+   "name": "Józef Wojtan - Moja Mała Dziewczynka Z Ak",
+   "time": "06:42",
+   "uri": "spotify:track:3TAGEmpzU35EkckgbKbQG1"
+  },
+  {
+   "name": "Chick Corea The Spanish Heart Band My Spanish Heart - My Spanish Heart",
+   "time": "06:54",
+   "uri": "spotify:track:0rKO5V71iJRCKr0dBuNI2D"
+  },
+  {
+   "name": "Iga Cembrzyńska - Mówiłam Żartem",
+   "time": "07:41",
+   "uri": "spotify:track:7FSwurNrpUFergpZAXGFdj"
+  },
+  {
+   "name": "Tania Maria 210 West - 210 West",
+   "time": "08:01",
+   "uri": "spotify:track:708kBzoFPQsFjaqLhwUZxX"
+  },
+  {
+   "name": "Michel Petrucciani Band Looking Up - Looking Up",
+   "time": "08:53",
+   "uri": "spotify:track:6i1WORWeJD92fYDhww2wYE"
+  },
+  {
+   "name": "Folias Criollas Hesperion Xxi Savall - Folias Criollas",
+   "time": "09:07",
+   "uri": "spotify:track:7mrMopCfUC4Eds5WTwmCWa"
+  },
+  {
+   "name": "Lanchas Para Bailar Hesperion Xxi Capella Reial De Catalunya Tembebe Ens Continuo Savall - Lanchas, Para Bailar E 186",
+   "time": "11:16",
+   "uri": "spotify:track:0MSU5BqxtNXmX7TgFYt081"
+  },
+  {
+   "name": "Satie Meditation A Albert Roussel Lautten Compagne - Iii. Meditation, A Albert Roussel (Arr. For Baroqu",
+   "time": "13:48",
+   "uri": "spotify:track:2KyWLDKPsItqIU8unAKC9p"
+  },
+  {
+   "name": "Satie Je Te Veux Masecki - Je Te Veux",
+   "time": "16:08",
+   "uri": "spotify:track:46zk3Gvx98LB9rzMTMoUWf"
   }
  ]
 }
