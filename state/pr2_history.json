@@ -1,51 +1,4 @@
 {
- "2026-08-05": [
-  {
-   "name": "Clyne Restless Oceans - Restless Oceans",
-   "time": "02:01",
-   "uri": "spotify:track:2oSr81lvcxeaD4sMbdp8Bk"
-  },
-  {
-   "name": "Halvorsen Veslemoys Sang - Veslemoys Sang",
-   "time": "02:29",
-   "uri": "spotify:track:1gxqsn7g90oWw1Ext2o0YU"
-  },
-  {
-   "name": "Göransson Smokestack Twins (Sinners) - Goransson - Smokestack Twins (Sinners)",
-   "time": "06:55",
-   "uri": "spotify:track:7bC8wBzEbugsYjLDBkFnSO"
-  },
-  {
-   "name": "Syrtos Dance Petrakis - Syrtos Dance- Pare Me Nyhta-Syrtos Nikaias",
-   "time": "07:42",
-   "uri": "spotify:track:3HfjPMWRsNjIrPbnpeJ1FY"
-  },
-  {
-   "name": "Emil Miszk+The Sonic Syndicate Pixel - Pixel",
-   "time": "07:56",
-   "uri": "spotify:track:1WkDyVBruGc6VSYJR9n6HQ"
-  },
-  {
-   "name": "(Anonyme) - En Passant Par La Lorraine",
-   "time": "08:08",
-   "uri": "spotify:track:2P88E7nxPHRxKfUvNd6kZr"
-  },
-  {
-   "name": "Marcin Masecki Cachito - Cachito",
-   "time": "08:52",
-   "uri": "spotify:track:1y88Db0MbEjaHCPk3SwGa1"
-  },
-  {
-   "name": "Briceno Villano 'El Cavallo Del Marques' Le Poeme Harmonique Dumestre - Villano 'El Cavallo Del Marques'",
-   "time": "17:56",
-   "uri": "spotify:track:1KSujO9NJOtAtjvNLM3FS1"
-  },
-  {
-   "name": "Briceno Romance 'Todos Se Burlan De Mi' Le Poeme Harmonique Dumestre - Romance 'Todos Se Burlan De Mi'",
-   "time": "21:55",
-   "uri": "spotify:track:1L8v6Glxa6SiOWKJNoC2ID"
-  }
- ],
  "2026-08-06": [
   {
    "name": "Shaw The Observatory - The Observatory",
@@ -431,56 +384,122 @@
    "uri": "spotify:track:53YLPKWWlrgD2PmCxjkOY2"
   }
  ],
- "2026-08-11": [
+ "2026-08-11": [],
+ "2026-08-12": [
   {
-   "name": "Louis Prima Just A Gigolo - Just A Gigolo",
-   "time": "06:01",
-   "uri": "spotify:track:03EpQ63wgYcMYHn2qOiCPW"
+   "name": "Symposium Musicum - Takt",
+   "time": "00:29",
+   "uri": "spotify:track:0EAymk7YW57VetoXZOdOBf"
   },
   {
-   "name": "Józef Wojtan - Moja Mała Dziewczynka Z Ak",
-   "time": "06:42",
-   "uri": "spotify:track:3TAGEmpzU35EkckgbKbQG1"
+   "name": "Symposium Musicum - Simultan Camps",
+   "time": "00:30",
+   "uri": "spotify:track:28RNeP6CJRAC2Fe0SVmQ7A"
   },
   {
-   "name": "Chick Corea The Spanish Heart Band My Spanish Heart - My Spanish Heart",
-   "time": "06:54",
-   "uri": "spotify:track:0rKO5V71iJRCKr0dBuNI2D"
+   "name": "Symposium Musicum - Romane Gila",
+   "time": "00:35",
+   "uri": "spotify:track:4sckVlm2gkjufnpUd8iNIS"
   },
   {
-   "name": "Iga Cembrzyńska - Mówiłam Żartem",
-   "time": "07:41",
-   "uri": "spotify:track:7FSwurNrpUFergpZAXGFdj"
+   "name": "Symposium Musicum - Adapting",
+   "time": "00:39",
+   "uri": "spotify:track:0tsS5rPYwyx16dupPiEdzi"
   },
   {
-   "name": "Tania Maria 210 West - 210 West",
-   "time": "08:01",
-   "uri": "spotify:track:708kBzoFPQsFjaqLhwUZxX"
+   "name": "Symposium Musicum - Anonymous",
+   "time": "00:43",
+   "uri": "spotify:track:1rKEgWRfS97s2lbSGi4kig"
   },
   {
-   "name": "Michel Petrucciani Band Looking Up - Looking Up",
-   "time": "08:53",
-   "uri": "spotify:track:6i1WORWeJD92fYDhww2wYE"
+   "name": "Marek Pospieszalski Octet - Ever",
+   "time": "00:52",
+   "uri": "spotify:track:7lFwFux1gf7shHECO8BBjL"
   },
   {
-   "name": "Folias Criollas Hesperion Xxi Savall - Folias Criollas",
-   "time": "09:07",
-   "uri": "spotify:track:7mrMopCfUC4Eds5WTwmCWa"
+   "name": "Mielczewski Canzona Terza A Tre Wroclaw Baroque Ensemble Kosendiak - Canzona Terza A Tre",
+   "time": "05:46",
+   "uri": "spotify:track:0lC6mEDwMaRPgYpqMeSwIw"
   },
   {
-   "name": "Lanchas Para Bailar Hesperion Xxi Capella Reial De Catalunya Tembebe Ens Continuo Savall - Lanchas, Para Bailar E 186",
-   "time": "11:16",
-   "uri": "spotify:track:0MSU5BqxtNXmX7TgFYt081"
+   "name": "Mielczewski Canzona Seconda A Due Wrocław Baroque Ensemble Kosendiak - Canzona Seconda A Due",
+   "time": "05:49",
+   "uri": "spotify:track:0lC6mEDwMaRPgYpqMeSwIw"
   },
   {
-   "name": "Satie Meditation A Albert Roussel Lautten Compagne - Iii. Meditation, A Albert Roussel (Arr. For Baroqu",
-   "time": "13:48",
-   "uri": "spotify:track:2KyWLDKPsItqIU8unAKC9p"
+   "name": "Mulgrew Miller+Kluvers Big Band Samba D' Blue - Samba D' Blue",
+   "time": "06:52",
+   "uri": "spotify:track:0zFNOD1u8YZylvdlXsCcRZ"
   },
   {
-   "name": "Satie Je Te Veux Masecki - Je Te Veux",
-   "time": "16:08",
-   "uri": "spotify:track:46zk3Gvx98LB9rzMTMoUWf"
+   "name": "Alberti Gallyard Hesperion Xx Savall - Gallyard",
+   "time": "09:06",
+   "uri": "spotify:track:2ucgiRhAHCcOouf4xrWQoq"
+  },
+  {
+   "name": "La Sirena Capezzuto Mancini L'arpeggiata Pluhar - La Sirena",
+   "time": "09:10",
+   "uri": "spotify:track:4WgxChFWSCz5wYYamaBhIF"
+  },
+  {
+   "name": "Mudarra Se Me Ilaman Scheen L'arpeggiata Pluhar - Se Me Ilaman",
+   "time": "09:15",
+   "uri": "spotify:track:6XFToAeTrPzPTVYQwyFHkO"
+  },
+  {
+   "name": "Murcia Fandango L'arpeggiata Pluhar - Fandango",
+   "time": "09:18",
+   "uri": "spotify:track:29b0zSNajQPuxAF4Er71tp"
+  },
+  {
+   "name": "Herrera La Diablera Mancini L'arpeggiata Pluhar - La Diablera (Zamba)",
+   "time": "09:26",
+   "uri": "spotify:track:4Y8L9Xzwd3x3gjMD3cgP23"
+  },
+  {
+   "name": "Canarios Jordi Savall & Hesperion Xxi - Improvisation : Canarios",
+   "time": "11:28",
+   "uri": "spotify:track:3oXhYPAGmU9v7yDbCQVCTf"
+  },
+  {
+   "name": "Coll Folias Savall - D'aprees Le Mss. Flores De Muusica",
+   "time": "11:38",
+   "uri": "spotify:track:5LOszsG4D9K7NIRXjH4Fjr"
+  },
+  {
+   "name": "Greensleeves To A Ground - Greensleeves To A Ground",
+   "time": "11:47",
+   "uri": "spotify:track:6lplrNISUrubMmjzKdjEY8"
+  },
+  {
+   "name": "Dale Radiance Gromes Deutsches Symphonie-Orchester - Radiance For Cello & Orchestra",
+   "time": "15:53",
+   "uri": "spotify:track:3nEJHYNXMeVAR9nakVK8Jz"
+  },
+  {
+   "name": "Marquez Danzon Nr 2 Simon Bolivar O Of Venezuela D - Danzon Nr 2",
+   "time": "19:16",
+   "uri": "spotify:track:1XQJ8rbgkausevCZMvbRxt"
+  },
+  {
+   "name": "Ortiz 5 Pa 2 Deutsch Cicchillitti - 5 Pa 2, No. 2 Dialogando",
+   "time": "19:27",
+   "uri": "spotify:track:7N0T7mMJwjq8mW2qmaMd4N"
+  },
+  {
+   "name": "Ortiz Altar De Cuerda Duenas Los Angeles Pho Dudam - Altar De Cuerda - I. Morisco Chilango",
+   "time": "19:30",
+   "uri": "spotify:track:6T73GuWQjvZxQIlgWDQCrU"
+  },
+  {
+   "name": "Ortiz Aroma Foliado Southwest Chamber Music - Aroma Foliado",
+   "time": "19:40",
+   "uri": "spotify:track:1RUVXYAUyZ763jp6JusBX3"
+  },
+  {
+   "name": "Ortiz Su-Muy-Key Ruiz - Su-Muy-Key",
+   "time": "19:55",
+   "uri": "spotify:track:3ZiE03mlYZKBVeQr7lau9f"
   }
  ]
 }
