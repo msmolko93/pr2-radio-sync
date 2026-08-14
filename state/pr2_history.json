@@ -1,71 +1,4 @@
 {
- "2026-08-06": [
-  {
-   "name": "Shaw The Observatory - The Observatory",
-   "time": "02:28",
-   "uri": "spotify:track:5umwigOVJnPCUSdVhRfzdZ"
-  },
-  {
-   "name": "Newley Feelin Good - Feelin Good",
-   "time": "03:28",
-   "uri": "spotify:track:4H4fKpdoAGJiai4rRwGALT"
-  },
-  {
-   "name": "Strozzi Amor Dormiglione Leblanc Constantinople Tabassian - Amor Dormiglione",
-   "time": "06:19",
-   "uri": "spotify:track:0LhfRUyZlLu075THebL8Sa"
-  },
-  {
-   "name": "L'arpeggiata Luna Lunedda (Pizzica) Beasley Antico L'arpeggiata Pluhar - Luna Lunedda (Pizzica)",
-   "time": "07:13",
-   "uri": "spotify:track:3QffS4AlzNcDUQcDrUc28Z"
-  },
-  {
-   "name": "Aboulker L'inconctante (Roset+Manoff) - 03 - Isabelle Aboulker L'inconstante",
-   "time": "08:07",
-   "uri": "spotify:track:41O3mTlWqGyjeAQbd6AdTt"
-  },
-  {
-   "name": "Buena Vista Social Club Candela - Candela",
-   "time": "08:52",
-   "uri": "spotify:track:1caT2YklnqZq35IcQ0oRLj"
-  },
-  {
-   "name": "Frescobaldi Canzona Ix Ensemble Conserto Musico - Canzona Ix",
-   "time": "16:25",
-   "uri": "spotify:track:0az7osizjPpRpKzx8yk68F"
-  },
-  {
-   "name": "Keith Jarrett+Jan Garbarek Quartet Long As You Know You're Living Yours - Long As You Know You're Living Yours",
-   "time": "18:02",
-   "uri": "spotify:track:5z7deaTe21B7QVPhSDouL1"
-  },
-  {
-   "name": "Keith Jarrett+Jan Garbarek Quartet The Windup - The Windup",
-   "time": "18:08",
-   "uri": "spotify:track:78zX3x0pFjsz6qSzNc7gA3"
-  },
-  {
-   "name": "Keith Jarrett Quartet New Dance - New Dance",
-   "time": "18:17",
-   "uri": "spotify:track:4jVrkUwjBFP7pv2BpRcjM5"
-  },
-  {
-   "name": "Keith Jarrett & Charlie Haden Dance Of The Infidels - Dance Of The Infidels",
-   "time": "18:35",
-   "uri": "spotify:track:1YK82DryhN2OriBBBAGkoR"
-  },
-  {
-   "name": "Keith Jarrett + Charlie Haden Every Time We Say Go - Every Time We Say Goodbye",
-   "time": "18:39",
-   "uri": "spotify:track:1wiuECsyvTaiaHxdnuXzm9"
-  },
-  {
-   "name": "Keith Jarrett Trio Ain' T Misbehavin - Ain' T Misbehavin",
-   "time": "18:52",
-   "uri": "spotify:track:0T4KV1pj8as2xvdHZAP5ae"
-  }
- ],
  "2026-08-07": [
   {
    "name": "Soderman Agnus Dei - Agnus Dei",
@@ -385,121 +318,52 @@
   }
  ],
  "2026-08-11": [],
- "2026-08-12": [
+ "2026-08-12": [],
+ "2026-08-13": [
   {
-   "name": "Symposium Musicum - Takt",
-   "time": "00:29",
-   "uri": "spotify:track:0EAymk7YW57VetoXZOdOBf"
+   "name": "Passos Rosa - O Pato",
+   "time": "06:01",
+   "uri": "spotify:track:2L1siYBMy4ZJeWZmlDOlEM"
   },
   {
-   "name": "Symposium Musicum - Simultan Camps",
-   "time": "00:30",
-   "uri": "spotify:track:28RNeP6CJRAC2Fe0SVmQ7A"
+   "name": "Richard Bona Jokoh Tokoh - Jokoh Tokoh",
+   "time": "08:01",
+   "uri": "spotify:track:2uSbweEwH0g3JwFmXPO6xV"
   },
   {
-   "name": "Symposium Musicum - Romane Gila",
-   "time": "00:35",
-   "uri": "spotify:track:4sckVlm2gkjufnpUd8iNIS"
+   "name": "Teoniki Rożynek Center Of Gravity - Copy Of Center Of Gravity - Fragm",
+   "time": "08:19",
+   "uri": "spotify:track:7x8OwfFEhEqDY6tFvCXy5R"
   },
   {
-   "name": "Symposium Musicum - Adapting",
-   "time": "00:39",
-   "uri": "spotify:track:0tsS5rPYwyx16dupPiEdzi"
+   "name": "Ortiz Altar De Bronce Flores Royal Liverpool Pho H - Altar De Bronce - I. Estano. Blanco Plateado De Es",
+   "time": "10:08",
+   "uri": "spotify:track:17P6V3oNa4S3RqnaVQhK5C"
   },
   {
-   "name": "Symposium Musicum - Anonymous",
-   "time": "00:43",
-   "uri": "spotify:track:1rKEgWRfS97s2lbSGi4kig"
+   "name": "Williams Main Theme Z Filmu Jurrasic Park Orkiestr - Main Theme Z Filmu Jurrasic Park",
+   "time": "20:29",
+   "uri": "spotify:track:1MvnlCsuAFTTvx0gQMwFCs"
   },
   {
-   "name": "Marek Pospieszalski Octet - Ever",
-   "time": "00:52",
-   "uri": "spotify:track:7lFwFux1gf7shHECO8BBjL"
+   "name": "Williams Raider’s March Z Poszukiwaczy Zaginionej - Raider’s March",
+   "time": "20:46",
+   "uri": "spotify:track:5duZVZ4m1TaJDTCbeHG8TG"
   },
   {
-   "name": "Mielczewski Canzona Terza A Tre Wroclaw Baroque Ensemble Kosendiak - Canzona Terza A Tre",
-   "time": "05:46",
-   "uri": "spotify:track:0lC6mEDwMaRPgYpqMeSwIw"
+   "name": "Williams Princess Leia's Theme Orkiestra Filharmon - Princess Leia's Theme",
+   "time": "21:37",
+   "uri": "spotify:track:3EpH8si2yAAl9iOb1NoFet"
   },
   {
-   "name": "Mielczewski Canzona Seconda A Due Wrocław Baroque Ensemble Kosendiak - Canzona Seconda A Due",
-   "time": "05:49",
-   "uri": "spotify:track:0lC6mEDwMaRPgYpqMeSwIw"
+   "name": "Williams The Throne Room And Finale Orkiestra Filh - The Throne Room And Finale",
+   "time": "21:48",
+   "uri": "spotify:track:5OoDfs5p4sp8hMvSE52R00"
   },
   {
-   "name": "Mulgrew Miller+Kluvers Big Band Samba D' Blue - Samba D' Blue",
-   "time": "06:52",
-   "uri": "spotify:track:0zFNOD1u8YZylvdlXsCcRZ"
-  },
-  {
-   "name": "Alberti Gallyard Hesperion Xx Savall - Gallyard",
-   "time": "09:06",
-   "uri": "spotify:track:2ucgiRhAHCcOouf4xrWQoq"
-  },
-  {
-   "name": "La Sirena Capezzuto Mancini L'arpeggiata Pluhar - La Sirena",
-   "time": "09:10",
-   "uri": "spotify:track:4WgxChFWSCz5wYYamaBhIF"
-  },
-  {
-   "name": "Mudarra Se Me Ilaman Scheen L'arpeggiata Pluhar - Se Me Ilaman",
-   "time": "09:15",
-   "uri": "spotify:track:6XFToAeTrPzPTVYQwyFHkO"
-  },
-  {
-   "name": "Murcia Fandango L'arpeggiata Pluhar - Fandango",
-   "time": "09:18",
-   "uri": "spotify:track:29b0zSNajQPuxAF4Er71tp"
-  },
-  {
-   "name": "Herrera La Diablera Mancini L'arpeggiata Pluhar - La Diablera (Zamba)",
-   "time": "09:26",
-   "uri": "spotify:track:4Y8L9Xzwd3x3gjMD3cgP23"
-  },
-  {
-   "name": "Canarios Jordi Savall & Hesperion Xxi - Improvisation : Canarios",
-   "time": "11:28",
-   "uri": "spotify:track:3oXhYPAGmU9v7yDbCQVCTf"
-  },
-  {
-   "name": "Coll Folias Savall - D'aprees Le Mss. Flores De Muusica",
-   "time": "11:38",
-   "uri": "spotify:track:5LOszsG4D9K7NIRXjH4Fjr"
-  },
-  {
-   "name": "Greensleeves To A Ground - Greensleeves To A Ground",
-   "time": "11:47",
-   "uri": "spotify:track:6lplrNISUrubMmjzKdjEY8"
-  },
-  {
-   "name": "Dale Radiance Gromes Deutsches Symphonie-Orchester - Radiance For Cello & Orchestra",
-   "time": "15:53",
-   "uri": "spotify:track:3nEJHYNXMeVAR9nakVK8Jz"
-  },
-  {
-   "name": "Marquez Danzon Nr 2 Simon Bolivar O Of Venezuela D - Danzon Nr 2",
-   "time": "19:16",
-   "uri": "spotify:track:1XQJ8rbgkausevCZMvbRxt"
-  },
-  {
-   "name": "Ortiz 5 Pa 2 Deutsch Cicchillitti - 5 Pa 2, No. 2 Dialogando",
-   "time": "19:27",
-   "uri": "spotify:track:7N0T7mMJwjq8mW2qmaMd4N"
-  },
-  {
-   "name": "Ortiz Altar De Cuerda Duenas Los Angeles Pho Dudam - Altar De Cuerda - I. Morisco Chilango",
-   "time": "19:30",
-   "uri": "spotify:track:6T73GuWQjvZxQIlgWDQCrU"
-  },
-  {
-   "name": "Ortiz Aroma Foliado Southwest Chamber Music - Aroma Foliado",
-   "time": "19:40",
-   "uri": "spotify:track:1RUVXYAUyZ763jp6JusBX3"
-  },
-  {
-   "name": "Ortiz Su-Muy-Key Ruiz - Su-Muy-Key",
-   "time": "19:55",
-   "uri": "spotify:track:3ZiE03mlYZKBVeQr7lau9f"
+   "name": "Williams Family Plot End Credits - Family Plot End Credits",
+   "time": "21:57",
+   "uri": "spotify:track:6sre9kDkS8mH2Lv49YLJNV"
   }
  ]
 }
