@@ -1,66 +1,4 @@
 {
- "2026-08-08": [
-  {
-   "name": "Basiani Ensemble - Gandagana",
-   "time": "07:07",
-   "uri": "spotify:track:7eks8WR2fxPgn82kCdTLXz"
-  },
-  {
-   "name": "Quintet Bumbac - Les Étoiles Comme Héritage",
-   "time": "07:21",
-   "uri": "spotify:track:0ajSyDt4gZ7WZI9GvyZfsk"
-  },
-  {
-   "name": "Floating Sofa Quartet - Hunting",
-   "time": "07:43",
-   "uri": "spotify:track:6r6tUWYdofCd8Fkk1Ee4bZ"
-  },
-  {
-   "name": "Bester Quartet - Two Men And A Wardrobe",
-   "time": "07:54",
-   "uri": "spotify:track:0RevyrhfGy48pNoAbjLlIE"
-  },
-  {
-   "name": "The Gurdjieff Ensemble · Levon Eskenian - Hov Arek",
-   "time": "08:21",
-   "uri": "spotify:track:1EE8N0BdI5ORbj4WZEyB4Q"
-  },
-  {
-   "name": "Kapela Maliszów - Dziwok",
-   "time": "08:44",
-   "uri": "spotify:track:1iRmWN1vRf6WYHug6d39x6"
-  },
-  {
-   "name": "Ray Lema - Mimouna",
-   "time": "08:56",
-   "uri": "spotify:track:2V93dJwWZp1X0LiQYiJwBz"
-  },
-  {
-   "name": "Seán Keegan - Blackberry Blossom - The Swallow’s Tail",
-   "time": "09:09",
-   "uri": "spotify:track:0t0UpK89gImWiDMM8H2HfE"
-  },
-  {
-   "name": "Burdon Folk Band - Segoiner Polka",
-   "time": "09:51",
-   "uri": "spotify:track:1RAtrMa2XPqtnmGiJKP9L6"
-  },
-  {
-   "name": "Mongo Santamaria - Summertime",
-   "time": "09:54",
-   "uri": "spotify:track:5qpYF7nkfjBziQFn4AtyAO"
-  },
-  {
-   "name": "Masecki-Młynarski Jazz Band Yo-Yo - Yo - Yo",
-   "time": "15:03",
-   "uri": "spotify:track:5rhald3WqJoFRFY21nQrXT"
-  },
-  {
-   "name": "Bastarda Sutari Skuduciai - Skuduciai",
-   "time": "15:38",
-   "uri": "spotify:track:6EUxNHCzb5VpkBbhreIwmB"
-  }
- ],
  "2026-08-09": [
   {
    "name": "Karski Glimmer Flute Oclock - Glimmer",
@@ -230,6 +168,11 @@
    "uri": "spotify:track:0Wd4iJUBfI4Pu13xM3V6eR"
   },
   {
+   "name": "Roy Hargrove Big-Band+Roberta Gambarini September - September In The Rain",
+   "time": "06:16",
+   "uri": "spotify:track:2qnw6oYuN4NAkJtG6g8UdU"
+  },
+  {
    "name": "Muzykoterapia Winobranie - Winobranie",
    "time": "06:24",
    "uri": "spotify:track:5GmXf9FvZ1jNUSBGEo0ilE"
@@ -323,11 +266,68 @@
    "name": "Fokos Zenekar - Jaj, De Huncut Legény Vagy! - Mezőkölpényi Csárdás",
    "time": "12:38",
    "uri": "spotify:track:7dzTzwaSvV7cjFjRFVgJ60"
+  }
+ ],
+ "2026-08-15": [
+  {
+   "name": "Art'n'voices - 04 Rocławska Musiałczyk Destructivity",
+   "time": "02:25",
+   "uri": "spotify:track:7EnZ4HgazNQZmXqlvEXniv"
   },
   {
-   "name": "Francoeur Lj Chaconne Que Jai Faitte Pour Donner A - Chaconne Que J'ai Faitte Pour Donner A Mon Oncle",
-   "time": "17:45",
-   "uri": "spotify:track:2btqlugpRENmBj1CmVXQxX"
+   "name": "Raczyński Jealousy Art'n'voices - 5 Raczyński Marek Jealousy",
+   "time": "02:56",
+   "uri": "spotify:track:7m1sQYyXJiTAF6tt0w74HX"
+  },
+  {
+   "name": "Raczyński Marek Triumph Art'n'voices - 06 Raczyński Marek Triumph",
+   "time": "02:59",
+   "uri": "spotify:track:0dOye9CIEd8zrvpr3qMgNv"
+  },
+  {
+   "name": "Raczyński Tenderness Art'n'voices - 7 Raczyński Marek Tenderness",
+   "time": "03:04",
+   "uri": "spotify:track:0tNLOLUjbnbgCQ8nt7pttC"
+  },
+  {
+   "name": "Art'n Voices - 08 Rocławska Musiałczyk Anna Isolation",
+   "time": "03:57",
+   "uri": "spotify:track:3M8WeTo2bvkNF0XHwFWzJQ"
+  },
+  {
+   "name": "Rocławska Pride Art'n'voices - 9 Rocławska Musiałczyk Anna Pride",
+   "time": "04:04",
+   "uri": "spotify:track:37pXGpQDcRdJvV9aa7faN2"
+  },
+  {
+   "name": "Karolina Matuszkiewicz - Kamien Milowy",
+   "time": "07:11",
+   "uri": "spotify:track:3Ykiy04F5HaYcefzJoLq94"
+  },
+  {
+   "name": "Samaia - Lo Boier",
+   "time": "07:34",
+   "uri": "spotify:track:2YcPLvXMOLd897269GqHUH"
+  },
+  {
+   "name": "Surorile Osoianu - Trece-Un Nouras Pe Sus",
+   "time": "09:08",
+   "uri": "spotify:track:58Utrrc6zxGxK4J0UTP7Mp"
+  },
+  {
+   "name": "Karolina Matuszkiewicz - Kalinowy Ober",
+   "time": "09:26",
+   "uri": "spotify:track:5iZrFNMXn3dmmfCjKJ5LDM"
+  },
+  {
+   "name": "Wowakin - Rutka",
+   "time": "09:52",
+   "uri": "spotify:track:2leMjWcAPJT9vhSe3GEj7m"
+  },
+  {
+   "name": "Obara Flying Pixies - Flying Pixies",
+   "time": "16:05",
+   "uri": "spotify:track:7yfhQ7yrVidGRZ76vk4IeZ"
   }
  ]
 }
