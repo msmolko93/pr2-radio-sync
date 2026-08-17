@@ -1,36 +1,4 @@
 {
- "2026-08-09": [
-  {
-   "name": "Karski Glimmer Flute Oclock - Glimmer",
-   "time": "06:21",
-   "uri": "spotify:track:1VfAcvO4WV06lNvLRq1XGr"
-  },
-  {
-   "name": "L'arpeggiata Antidotum Tarantulae - Antidotum Tarantulae",
-   "time": "12:12",
-   "uri": "spotify:track:33cvC9M4zgslWbiQ6M9kBf"
-  },
-  {
-   "name": "L'arpeggiata Christina Pluhar Tarantella Napoletan - Tarantella Napoletana Tono Hypodorico",
-   "time": "12:14",
-   "uri": "spotify:track:39YIe48S8lyYaotZ3F7Egh"
-  },
-  {
-   "name": "L'arpeggiata Pluchar Tarantella Del Gargano Beasly - Tarantella Del Gargano",
-   "time": "12:17",
-   "uri": "spotify:track:66eyseAkUt3QSv0m5yBNKx"
-  },
-  {
-   "name": "Falconieri La Suave Melodia La Ritirata Obregon - La Suave Melodia",
-   "time": "12:48",
-   "uri": "spotify:track:2PuUsONpl5PpSC8pyR4tX3"
-  },
-  {
-   "name": "Canzoniere Grecanico Salentino Pizzica A Marino - Pizzica A Marino",
-   "time": "13:53",
-   "uri": "spotify:track:64RrbGVWHIDxfsK7efRIAd"
-  }
- ],
  "2026-08-10": [
   {
    "name": "Benny Goodman Orchestra Dont Be That Way - Dont Be That Way",
@@ -308,26 +276,48 @@
    "name": "Samaia - Lo Boier",
    "time": "07:34",
    "uri": "spotify:track:2YcPLvXMOLd897269GqHUH"
+  }
+ ],
+ "2026-08-16": [
+  {
+   "name": "Swider Modlitwa Do Bogarodzicy Chor Pr Piotrowska - Modlitwa Do Bogarodzicy - Na Chór Mieszany A Cappe",
+   "time": "05:54",
+   "uri": "spotify:track:7iiTChAE36ZvTvyfd1U57a"
   },
   {
-   "name": "Surorile Osoianu - Trece-Un Nouras Pe Sus",
-   "time": "09:08",
-   "uri": "spotify:track:58Utrrc6zxGxK4J0UTP7Mp"
+   "name": "Kondracki Oberek Por Borowicz - Oberek",
+   "time": "06:44",
+   "uri": "spotify:track:4Qq4FXhkbAbisszLHG9UqS"
   },
   {
-   "name": "Karolina Matuszkiewicz - Kalinowy Ober",
-   "time": "09:26",
-   "uri": "spotify:track:5iZrFNMXn3dmmfCjKJ5LDM"
+   "name": "Elvis Presley Rubberneckin' - Rubberneckin'",
+   "time": "07:26",
+   "uri": "spotify:track:4cXnUi6qulwgj0fLSu0VYE"
   },
   {
-   "name": "Wowakin - Rutka",
-   "time": "09:52",
-   "uri": "spotify:track:2leMjWcAPJT9vhSe3GEj7m"
+   "name": "Matthieu Saglio+Camille Saglio Amelui - Amelui",
+   "time": "07:44",
+   "uri": "spotify:track:0ryPFDxN2hgIyBrPh0ZpIC"
   },
   {
-   "name": "Obara Flying Pixies - Flying Pixies",
-   "time": "16:05",
-   "uri": "spotify:track:7yfhQ7yrVidGRZ76vk4IeZ"
+   "name": "De Falla 7 Canciones Populares Espanolas Nr 4 Jota - 7 Canciones Populares Espanolas Nr 4 Jota",
+   "time": "08:56",
+   "uri": "spotify:track:1VpskgpP21B1lyKvmBwxKe"
+  },
+  {
+   "name": "Tullio Pane Torna A Surriento - Torna A Surriento",
+   "time": "09:10",
+   "uri": "spotify:track:78Irz0MNpS8ss14nYkBSmI"
+  },
+  {
+   "name": "Tarrega Gran Vals Orozco - Gran Vals",
+   "time": "09:49",
+   "uri": "spotify:track:5eXXTEkRC7HGv6mlTV2LmG"
+  },
+  {
+   "name": "Waed Bouhassoun + Qays (Le Fou De Layla) - Qays (Le Fou De Layla)",
+   "time": "17:57",
+   "uri": "spotify:track:7d8vGjB6iGrMGpC0WVwC8V"
   }
  ]
 }
