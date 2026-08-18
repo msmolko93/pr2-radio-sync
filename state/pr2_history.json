@@ -1,86 +1,4 @@
 {
- "2026-08-10": [
-  {
-   "name": "Benny Goodman Orchestra Dont Be That Way - Dont Be That Way",
-   "time": "06:02",
-   "uri": "spotify:track:7Bto5shUBaNnD3YDv1rnXv"
-  },
-  {
-   "name": "Lehar Dein Ist Mein Ganzes Herz Beczala Staatskape - Dein Ist Mein Ganzes Herz",
-   "time": "06:08",
-   "uri": "spotify:track:2yPVFRc7P5g24T1eua121P"
-  },
-  {
-   "name": "David Sanborn Hideaway - Hideaway",
-   "time": "06:52",
-   "uri": "spotify:track:7APrXg58BJdWrVHwBOliTr"
-  },
-  {
-   "name": "Schifrin Tango Del Atardecer (Ii) - Lalo Schifrin Orchestra - Tango Del Atardecer (Ii)",
-   "time": "07:33",
-   "uri": "spotify:track:5jS6fL2RZjewwbkRYPdEl1"
-  },
-  {
-   "name": "Keith Jarrett Trio Ain' T Misbehavin - Ain' T Misbehavin",
-   "time": "07:53",
-   "uri": "spotify:track:0T4KV1pj8as2xvdHZAP5ae"
-  },
-  {
-   "name": "Jeff Lorber Fusion City - City",
-   "time": "08:01",
-   "uri": "spotify:track:2fxGPywX81rSSodsGtH7d9"
-  },
-  {
-   "name": "Jordi Savall Cachua Serranita La Capella Reial De - Cachua Serranita, Nombrada El Huicho Nuebo E 192",
-   "time": "08:26",
-   "uri": "spotify:track:3GOSlLsJiLKRfFRW0Ah6r5"
-  },
-  {
-   "name": "Pat Metheny Episode D Azur - Episode D Azur",
-   "time": "08:50",
-   "uri": "spotify:track:19aSRPdR0NeGFCC1abW87I"
-  },
-  {
-   "name": "Sierra Salseando Flores Royal Liverpool Pho Hindoy - Salseando",
-   "time": "09:54",
-   "uri": "spotify:track:1QfLSjk3vtXXUsKSSMs0FI"
-  },
-  {
-   "name": "Marais Sonnerie De Ste. Genevieve Du Mont-De-Paris Savall Biondi Lislevand Hantai - Sonnerie De Ste. Genevieve Du Mont-De-Paris",
-   "time": "11:25",
-   "uri": "spotify:track:7f9iwK3Z2eZ9tqNurjiuRh"
-  },
-  {
-   "name": "Marais La Reveuse - 4Eme Livre De Pieces De Viole Savall - 08 La Reveuse - 4Eme Livre De Pieces De Viole (Marin Marais) (2)",
-   "time": "11:35",
-   "uri": "spotify:track:5ZluUhzmFXC0nJI2NyNz1g"
-  },
-  {
-   "name": "Marais L'arabesque - 4Eme Livre De Pieces De Viole - 10 L'arabesque - 4Eme Livre De Pieces De Viole",
-   "time": "11:39",
-   "uri": "spotify:track:1ePjnsa6dQiLvvRCP2b0gs"
-  },
-  {
-   "name": "Falconiero Ciaconna Savall & Hesperion Xxi - Ciaconna",
-   "time": "11:53",
-   "uri": "spotify:track:7uaSrat2urtzkE41trx27n"
-  },
-  {
-   "name": "Iga Cembrzyńska - Mówiłam Żartem",
-   "time": "16:21",
-   "uri": "spotify:track:7FSwurNrpUFergpZAXGFdj"
-  },
-  {
-   "name": "Carroubel Spagnolette Le Poeme Harmonique Dumestre - Spagnolette",
-   "time": "16:55",
-   "uri": "spotify:track:4Ad1L4dIujOFDJNOxokQjS"
-  },
-  {
-   "name": "La Llorona Capezzuto + L'arpeggiata + Pluhar - 03 - Trad. La Llorona (Arr. Pluhar)",
-   "time": "17:31",
-   "uri": "spotify:track:53YLPKWWlrgD2PmCxjkOY2"
-  }
- ],
  "2026-08-11": [],
  "2026-08-12": [],
  "2026-08-13": [],
@@ -290,6 +208,11 @@
    "uri": "spotify:track:4Qq4FXhkbAbisszLHG9UqS"
   },
   {
+   "name": "Rawik Joanna Jest Nic - 3 Jest Nic",
+   "time": "07:09",
+   "uri": "spotify:track:7MCEsPVwAcDLB5Ma8p15Sx"
+  },
+  {
    "name": "Elvis Presley Rubberneckin' - Rubberneckin'",
    "time": "07:26",
    "uri": "spotify:track:4cXnUi6qulwgj0fLSu0VYE"
@@ -318,6 +241,73 @@
    "name": "Waed Bouhassoun + Qays (Le Fou De Layla) - Qays (Le Fou De Layla)",
    "time": "17:57",
    "uri": "spotify:track:7d8vGjB6iGrMGpC0WVwC8V"
+  }
+ ],
+ "2026-08-17": [
+  {
+   "name": "Pat Metheny Group San Lorenzo - San Lorenzo",
+   "time": "00:58",
+   "uri": "spotify:track:6Cnq3giYBnvFrhl2DG8p8J"
+  },
+  {
+   "name": "Karalow Interweaving - Interweaving",
+   "time": "01:33",
+   "uri": "spotify:track:18qZQJuAgDSocGvNnd8WbO"
+  },
+  {
+   "name": "Cabezon Diferencias Sobre El Canto Llano Del Caval - Diferencias Sobre El Canto Llano Del Cavallero",
+   "time": "02:10",
+   "uri": "spotify:track:2aHIz7rJp2PqEDUm29jSA3"
+  },
+  {
+   "name": "Arauxo Tiento De Medio Registro De Tiple De Decimo - Tiento De Medio Registro De Tiple De Decimo Tono",
+   "time": "02:35",
+   "uri": "spotify:track:4pqhWGl3pQRlGsE7iPMxjO"
+  },
+  {
+   "name": "Arauxo Tres Glosas Sobre El Canto Llano De La Imma - Tres Glosas Sobre El Canto Llano De La Immaculada",
+   "time": "02:50",
+   "uri": "spotify:track:0kHvjkHkV6ShBwUjA7NUhz"
+  },
+  {
+   "name": "Merula La Monteverde Ricercar Consort - La Monteverde",
+   "time": "02:58",
+   "uri": "spotify:track:4gD50kHpRH0yEVWRU0pDwL"
+  },
+  {
+   "name": "Cabanilles Corrente Italiana Joan Boronat Sanz - Corrente Italiana",
+   "time": "03:02",
+   "uri": "spotify:track:3pQU27ycYCfFbFXxHoPaHL"
+  },
+  {
+   "name": "Frescobaldi Canzona Quinta A 3 Les Basses Reunies Cocset - Canzona Quinta A 3, Due Canti E Basso",
+   "time": "16:31",
+   "uri": "spotify:track:08G4ZZEf1f5Uy8Jo1G8MnU"
+  },
+  {
+   "name": "Zemlinsky Humoreska Les Vents Francais - Humoreska",
+   "time": "17:44",
+   "uri": "spotify:track:0oNM0l2XIXc46CbS6IgAl6"
+  },
+  {
+   "name": "Miles Davis Generique - Generique",
+   "time": "18:01",
+   "uri": "spotify:track:1ctKm2cPWL8wf6G64MVesX"
+  },
+  {
+   "name": "Davis L'assassinat De Carala - L'assassinat De Carala",
+   "time": "18:07",
+   "uri": "spotify:track:0wwQZkcJduOof3xFf60ba1"
+  },
+  {
+   "name": "Frisell+Sverrisson - A Little Closer",
+   "time": "18:22",
+   "uri": "spotify:track:019zaVh9xBC2PCrF0SdKyL"
+  },
+  {
+   "name": "Miles Davis Au Bar Du Petit Bac - Au Bar Du Petit Bac",
+   "time": "18:45",
+   "uri": "spotify:track:0o7lGj9QWHCLDPC95ekKz5"
   }
  ]
 }
