@@ -1,5 +1,4 @@
 {
- "2026-08-11": [],
  "2026-08-12": [],
  "2026-08-13": [],
  "2026-08-14": [
@@ -278,36 +277,53 @@
    "name": "Cabanilles Corrente Italiana Joan Boronat Sanz - Corrente Italiana",
    "time": "03:02",
    "uri": "spotify:track:3pQU27ycYCfFbFXxHoPaHL"
+  }
+ ],
+ "2026-08-18": [
+  {
+   "name": "Salonen Gemini - Gemini",
+   "time": "02:18",
+   "uri": "spotify:track:7Fawh98MAlCd2TZ5mmAaHH"
   },
   {
-   "name": "Frescobaldi Canzona Quinta A 3 Les Basses Reunies Cocset - Canzona Quinta A 3, Due Canti E Basso",
-   "time": "16:31",
-   "uri": "spotify:track:08G4ZZEf1f5Uy8Jo1G8MnU"
+   "name": "Collet Mówię Z Sobą Bronikowski Axoum Duo - Mówię Z Sobą",
+   "time": "05:02",
+   "uri": "spotify:track:6Yk9jbBja0XfICeUmlsJqJ"
   },
   {
-   "name": "Zemlinsky Humoreska Les Vents Francais - Humoreska",
-   "time": "17:44",
-   "uri": "spotify:track:0oNM0l2XIXc46CbS6IgAl6"
+   "name": "Wiera Gran Trzy Listy - Trzy Listy",
+   "time": "08:49",
+   "uri": "spotify:track:0bdAAJXmezFVaZZAy4pe98"
   },
   {
-   "name": "Miles Davis Generique - Generique",
-   "time": "18:01",
-   "uri": "spotify:track:1ctKm2cPWL8wf6G64MVesX"
+   "name": "Zoot Sims Quartet Rosemarys Baby - Rosemarys Baby",
+   "time": "08:53",
+   "uri": "spotify:track:0mIeVgmN1wF8mI2A2sZQ7L"
   },
   {
-   "name": "Davis L'assassinat De Carala - L'assassinat De Carala",
-   "time": "18:07",
-   "uri": "spotify:track:0wwQZkcJduOof3xFf60ba1"
+   "name": "Arnold English Dances Set No 1 Lso Bancroft - English Dances – Set No. 1",
+   "time": "14:55",
+   "uri": "spotify:track:4yPZxZBLmYaUYTBcGn0MPf"
   },
   {
-   "name": "Frisell+Sverrisson - A Little Closer",
-   "time": "18:22",
-   "uri": "spotify:track:019zaVh9xBC2PCrF0SdKyL"
+   "name": "Grainger Country Gardens Lso Bancroft - Country Gardens",
+   "time": "15:14",
+   "uri": "spotify:track:5P53Y6FvSGw1hTPNZrRkvy"
   },
   {
-   "name": "Miles Davis Au Bar Du Petit Bac - Au Bar Du Petit Bac",
-   "time": "18:45",
-   "uri": "spotify:track:0o7lGj9QWHCLDPC95ekKz5"
+   "name": "Karłowicz Z Nową Wiosną Beczała Deutsch - 20 M. Karłowicz Z Nową Wiosną",
+   "time": "15:36",
+   "uri": "spotify:track:4fec1eH2YRBhzK94pQsUfi"
+  },
+  {
+   "name": "Karłowicz Mów Do Mnie Jeszcze Beczała Deutsch - 06 M. Karłowicz Mów Do Mnie Jeszcze",
+   "time": "15:50",
+   "uri": "spotify:track:7kKO5mRh3yjMBTkHk4vvla"
+  },
+  {
+   "name": "Karłowicz Pamiętam Ciche Jasne Złote Dnie Beczała - 04 M. Karłowicz Pamiętam Ciche, Jasne, Złote Dnie",
+   "time": "15:54",
+   "uri": "spotify:track:4PHdK51TzDSGU5Qd9UzbXn"
   }
  ]
 }
