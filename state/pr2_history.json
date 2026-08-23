@@ -1,46 +1,4 @@
 {
- "2026-08-15": [
-  {
-   "name": "Art'n'voices - 04 Rocławska Musiałczyk Destructivity",
-   "time": "02:25",
-   "uri": "spotify:track:7EnZ4HgazNQZmXqlvEXniv"
-  },
-  {
-   "name": "Raczyński Jealousy Art'n'voices - 5 Raczyński Marek Jealousy",
-   "time": "02:56",
-   "uri": "spotify:track:7m1sQYyXJiTAF6tt0w74HX"
-  },
-  {
-   "name": "Raczyński Marek Triumph Art'n'voices - 06 Raczyński Marek Triumph",
-   "time": "02:59",
-   "uri": "spotify:track:0dOye9CIEd8zrvpr3qMgNv"
-  },
-  {
-   "name": "Raczyński Tenderness Art'n'voices - 7 Raczyński Marek Tenderness",
-   "time": "03:04",
-   "uri": "spotify:track:0tNLOLUjbnbgCQ8nt7pttC"
-  },
-  {
-   "name": "Art'n Voices - 08 Rocławska Musiałczyk Anna Isolation",
-   "time": "03:57",
-   "uri": "spotify:track:3M8WeTo2bvkNF0XHwFWzJQ"
-  },
-  {
-   "name": "Rocławska Pride Art'n'voices - 9 Rocławska Musiałczyk Anna Pride",
-   "time": "04:04",
-   "uri": "spotify:track:37pXGpQDcRdJvV9aa7faN2"
-  },
-  {
-   "name": "Karolina Matuszkiewicz - Kamien Milowy",
-   "time": "07:11",
-   "uri": "spotify:track:3Ykiy04F5HaYcefzJoLq94"
-  },
-  {
-   "name": "Samaia - Lo Boier",
-   "time": "07:34",
-   "uri": "spotify:track:2YcPLvXMOLd897269GqHUH"
-  }
- ],
  "2026-08-16": [
   {
    "name": "Swider Modlitwa Do Bogarodzicy Chor Pr Piotrowska - Modlitwa Do Bogarodzicy - Na Chór Mieszany A Cappe",
@@ -294,11 +252,48 @@
    "name": "Slawek Jaskulke Sextet Epilog - Epilog",
    "time": "13:48",
    "uri": "spotify:track:27mm9y4yG1xFL3RxRoGTAa"
+  }
+ ],
+ "2026-08-22": [
+  {
+   "name": "Paul-Marie Barbier Wonderland - Wonderland",
+   "time": "07:08",
+   "uri": "spotify:track:1eG7AWRxyLJARyBEGRalhP"
   },
   {
-   "name": "Satie Gnossienne Nr 1 Ott - Gnossienne Nr 1",
-   "time": "14:59",
-   "uri": "spotify:track:4820SC1xnUaabzzYQTDkP2"
+   "name": "Foliba - Jarabi",
+   "time": "07:49",
+   "uri": "spotify:track:2MRBbftoVVBuUbKHuFxvyQ"
+  },
+  {
+   "name": "Tercet Imperial - Lesie",
+   "time": "08:22",
+   "uri": "spotify:track:3vp78L5Sgdoba7bkIGsXf7"
+  },
+  {
+   "name": "Sam Kowalski - Gaca",
+   "time": "08:30",
+   "uri": "spotify:track:4pDgRlLdn2h6UtQiFwYrZT"
+  },
+  {
+   "name": "Kujawski Ansambl - Matulu Moja",
+   "time": "09:09",
+   "uri": "spotify:track:2zOQWtwBjk9utQ6mmIaYil"
+  },
+  {
+   "name": "Kapela Fedaków Kochaj Mnie Ja Ciebie - Kochaj Mnie Ja Ciebie",
+   "time": "09:25",
+   "uri": "spotify:track:2R1IYd07zdi626VEUqaHUb"
+  },
+  {
+   "name": "Glenn Miller Orchestra In The Mood - In The Mood",
+   "time": "15:03",
+   "uri": "spotify:track:6dZKWYSx5YBIme4SfpIHJ0"
+  },
+  {
+   "name": "Gershwin Fascinating Rhythm Harmonie Ensemble Ny Richman - Facinating Rhythm",
+   "time": "16:16",
+   "uri": "spotify:track:0aRO0zEpE5RZIJrm0TXB4p"
   }
  ]
 }
