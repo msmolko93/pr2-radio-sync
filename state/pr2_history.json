@@ -1,51 +1,4 @@
 {
- "2026-08-16": [
-  {
-   "name": "Swider Modlitwa Do Bogarodzicy Chor Pr Piotrowska - Modlitwa Do Bogarodzicy - Na Chór Mieszany A Cappe",
-   "time": "05:54",
-   "uri": "spotify:track:7iiTChAE36ZvTvyfd1U57a"
-  },
-  {
-   "name": "Kondracki Oberek Por Borowicz - Oberek",
-   "time": "06:44",
-   "uri": "spotify:track:4Qq4FXhkbAbisszLHG9UqS"
-  },
-  {
-   "name": "Rawik Joanna Jest Nic - 3 Jest Nic",
-   "time": "07:09",
-   "uri": "spotify:track:7MCEsPVwAcDLB5Ma8p15Sx"
-  },
-  {
-   "name": "Elvis Presley Rubberneckin' - Rubberneckin'",
-   "time": "07:26",
-   "uri": "spotify:track:4cXnUi6qulwgj0fLSu0VYE"
-  },
-  {
-   "name": "Matthieu Saglio+Camille Saglio Amelui - Amelui",
-   "time": "07:44",
-   "uri": "spotify:track:0ryPFDxN2hgIyBrPh0ZpIC"
-  },
-  {
-   "name": "De Falla 7 Canciones Populares Espanolas Nr 4 Jota - 7 Canciones Populares Espanolas Nr 4 Jota",
-   "time": "08:56",
-   "uri": "spotify:track:1VpskgpP21B1lyKvmBwxKe"
-  },
-  {
-   "name": "Tullio Pane Torna A Surriento - Torna A Surriento",
-   "time": "09:10",
-   "uri": "spotify:track:78Irz0MNpS8ss14nYkBSmI"
-  },
-  {
-   "name": "Tarrega Gran Vals Orozco - Gran Vals",
-   "time": "09:49",
-   "uri": "spotify:track:5eXXTEkRC7HGv6mlTV2LmG"
-  },
-  {
-   "name": "Waed Bouhassoun + Qays (Le Fou De Layla) - Qays (Le Fou De Layla)",
-   "time": "17:57",
-   "uri": "spotify:track:7d8vGjB6iGrMGpC0WVwC8V"
-  }
- ],
  "2026-08-17": [
   {
    "name": "Pat Metheny Group San Lorenzo - San Lorenzo",
@@ -294,6 +247,28 @@
    "name": "Gershwin Fascinating Rhythm Harmonie Ensemble Ny Richman - Facinating Rhythm",
    "time": "16:16",
    "uri": "spotify:track:0aRO0zEpE5RZIJrm0TXB4p"
+  }
+ ],
+ "2026-08-23": [
+  {
+   "name": "De Faye-Jozin Mirage Dans La Grotte Des Sirenes - Mirage, Dans La Grotte Des Sirenes",
+   "time": "09:53",
+   "uri": "spotify:track:6DqI4VWN7Wz4558PIr9yPj"
+  },
+  {
+   "name": "Kenge Labe - O Ju Djemte Qe Çate Detin",
+   "time": "17:00",
+   "uri": "spotify:track:0416hNGw3FCojqEjhYtDYv"
+  },
+  {
+   "name": "Kenge Labe Mer Koburen Vrame Moj - Mer Koburen Vrame Moj",
+   "time": "17:08",
+   "uri": "spotify:track:6VFgtno1i15hEQXDFYdYDE"
+  },
+  {
+   "name": "Saz'iso Kaba Me Violinë - Kaba Me Violinë",
+   "time": "18:19",
+   "uri": "spotify:track:7LSIw21yJciMsYJs841p6Q"
   }
  ]
 }
