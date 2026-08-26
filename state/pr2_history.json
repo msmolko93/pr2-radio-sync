@@ -1,51 +1,4 @@
 {
- "2026-08-18": [
-  {
-   "name": "Salonen Gemini - Gemini",
-   "time": "02:18",
-   "uri": "spotify:track:7Fawh98MAlCd2TZ5mmAaHH"
-  },
-  {
-   "name": "Collet Mówię Z Sobą Bronikowski Axoum Duo - Mówię Z Sobą",
-   "time": "05:02",
-   "uri": "spotify:track:6Yk9jbBja0XfICeUmlsJqJ"
-  },
-  {
-   "name": "Wiera Gran Trzy Listy - Trzy Listy",
-   "time": "08:49",
-   "uri": "spotify:track:0bdAAJXmezFVaZZAy4pe98"
-  },
-  {
-   "name": "Zoot Sims Quartet Rosemarys Baby - Rosemarys Baby",
-   "time": "08:53",
-   "uri": "spotify:track:0mIeVgmN1wF8mI2A2sZQ7L"
-  },
-  {
-   "name": "Arnold English Dances Set No 1 Lso Bancroft - English Dances – Set No. 1",
-   "time": "14:55",
-   "uri": "spotify:track:4yPZxZBLmYaUYTBcGn0MPf"
-  },
-  {
-   "name": "Grainger Country Gardens Lso Bancroft - Country Gardens",
-   "time": "15:14",
-   "uri": "spotify:track:5P53Y6FvSGw1hTPNZrRkvy"
-  },
-  {
-   "name": "Karłowicz Z Nową Wiosną Beczała Deutsch - 20 M. Karłowicz Z Nową Wiosną",
-   "time": "15:36",
-   "uri": "spotify:track:4fec1eH2YRBhzK94pQsUfi"
-  },
-  {
-   "name": "Karłowicz Mów Do Mnie Jeszcze Beczała Deutsch - 06 M. Karłowicz Mów Do Mnie Jeszcze",
-   "time": "15:50",
-   "uri": "spotify:track:7kKO5mRh3yjMBTkHk4vvla"
-  },
-  {
-   "name": "Karłowicz Pamiętam Ciche Jasne Złote Dnie Beczała - 04 M. Karłowicz Pamiętam Ciche, Jasne, Złote Dnie",
-   "time": "15:54",
-   "uri": "spotify:track:4PHdK51TzDSGU5Qd9UzbXn"
-  }
- ],
  "2026-08-19": [],
  "2026-08-20": [],
  "2026-08-21": [
@@ -258,41 +211,58 @@
    "name": "Olivia Newton-John & Elo - Xanadu",
    "time": "00:57",
    "uri": "spotify:track:7xIFHLqjwE5iFSGRBNeTJQ"
+  }
+ ],
+ "2026-08-25": [
+  {
+   "name": "Meitei Nami - Nami",
+   "time": "00:51",
+   "uri": "spotify:track:45m8T6QIgYoCZnUNxYeyml"
   },
   {
-   "name": "Marcin Masecki Cachito - Cachito",
-   "time": "06:43",
-   "uri": "spotify:track:1y88Db0MbEjaHCPk3SwGa1"
+   "name": "Meitei Touba - Touba",
+   "time": "00:55",
+   "uri": "spotify:track:1Ip6UZBjvIp7LfF0Aj44Ow"
   },
   {
-   "name": "L'arpeggiata Espanoletas L’arpeggiata Pluhar - Espanoletas",
-   "time": "06:54",
-   "uri": "spotify:track:6nkgn06lcHjzhZLneZ8mpq"
+   "name": "Zubel Agata; Duchnowski Cezary; Bauer Andrzej - Daleka Podróż",
+   "time": "01:51",
+   "uri": "spotify:track:62c5K2DsmDS18pgkfJQhM2"
   },
   {
-   "name": "Cristina Branco - Cantigas Do Maio",
-   "time": "08:54",
-   "uri": "spotify:track:1eR8PSFCnpp1OuMpvlRZQD"
+   "name": "Astor Piazzolla Prologue Tango Apasionado - Prologue Tango Apasionado",
+   "time": "04:57",
+   "uri": "spotify:track:1jFgrIA3dvv2eZwLruIW4G"
   },
   {
-   "name": "Dziczka Szczasływaja Taja Put - Szczasływaja Taja Put",
-   "time": "09:08",
-   "uri": "spotify:track:0PEHeeU0aIjooH6F3aOUW2"
+   "name": "Fat Freddy's Drop - Cay's Crays",
+   "time": "08:52",
+   "uri": "spotify:track:0cuoNSBm7mXApyoOKYIEmL"
   },
   {
-   "name": "Piazzolla Le Grand Tango Siranossian Gouin - Le Grand Tango",
-   "time": "10:24",
-   "uri": "spotify:track:7hjBYiTIYgn2iR4ZRdo39c"
+   "name": "Oscher Soledad Flores Konzerthausorchester Berlin - Soledad",
+   "time": "11:20",
+   "uri": "spotify:track:2IguSdC9Lz8IUO7iLzmawe"
   },
   {
-   "name": "Herve Espagnoles Et Seguedille Les Siecles Roth - Paris Exhibition - Espagnoles Et Seguedille",
-   "time": "10:56",
-   "uri": "spotify:track:0QzYbUdU66LyHiMLT8IzVt"
+   "name": "Basiani Ensemble - Gandagana",
+   "time": "12:01",
+   "uri": "spotify:track:7eks8WR2fxPgn82kCdTLXz"
   },
   {
-   "name": "Lambert Mes Jours S'en Vont Finir Rondeau Dunford - 08 - Lambert, M - Mes Jours S'en Vont Finir",
-   "time": "15:24",
-   "uri": "spotify:track:1gfONRAa2lPGgpjLMKW7D3"
+   "name": "Kapela Z Zadowic - Polka Od Kalisza",
+   "time": "12:30",
+   "uri": "spotify:track:0YMj7bwzZBe76HPw430aDE"
+  },
+  {
+   "name": "Tailleferre Arabesque - Arabesque",
+   "time": "14:23",
+   "uri": "spotify:track:6OqLDw1AOHf7GNQcaiVETz"
+  },
+  {
+   "name": "Blakey Art (Dr) - Lester Left Town",
+   "time": "16:56",
+   "uri": "spotify:track:5k2IfBnYmS3w9LsQSIYhqG"
   }
  ]
 }
