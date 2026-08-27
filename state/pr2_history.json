@@ -1,5 +1,4 @@
 {
- "2026-08-19": [],
  "2026-08-20": [],
  "2026-08-21": [
   {
@@ -213,56 +212,32 @@
    "uri": "spotify:track:7xIFHLqjwE5iFSGRBNeTJQ"
   }
  ],
- "2026-08-25": [
+ "2026-08-25": [],
+ "2026-08-26": [
   {
-   "name": "Meitei Nami - Nami",
-   "time": "00:51",
-   "uri": "spotify:track:45m8T6QIgYoCZnUNxYeyml"
+   "name": "Anibal Velasquez Y Su Conjunto - Anibal Velasquez Y Su Conjunto",
+   "time": "00:21",
+   "uri": "spotify:track:2MNvm8yDqBmdtrdCEW2e23"
   },
   {
-   "name": "Meitei Touba - Touba",
-   "time": "00:55",
-   "uri": "spotify:track:1Ip6UZBjvIp7LfF0Aj44Ow"
+   "name": "Bertali+Pluhar Chiacona Larpeggiata Pulhar - Chiacona",
+   "time": "07:54",
+   "uri": "spotify:track:4pV0DvR5xLZnV5spM3zLCg"
   },
   {
-   "name": "Zubel Agata; Duchnowski Cezary; Bauer Andrzej - Daleka Podróż",
-   "time": "01:51",
-   "uri": "spotify:track:62c5K2DsmDS18pgkfJQhM2"
+   "name": "Taksim Trio Elfa Laila - Elfa Laila",
+   "time": "08:53",
+   "uri": "spotify:track:2b6ymTFrb3G7cOQHR0VHnt"
   },
   {
-   "name": "Astor Piazzolla Prologue Tango Apasionado - Prologue Tango Apasionado",
-   "time": "04:57",
-   "uri": "spotify:track:1jFgrIA3dvv2eZwLruIW4G"
+   "name": "Gimenez La Boda De Luis Alonso Nr 4 Intermedio De Maistre+Tena - La Boda De Luis Alonso: Nr 4 Intermedio",
+   "time": "16:09",
+   "uri": "spotify:track:61Hpqx3UL77xiRgqembjCH"
   },
   {
-   "name": "Fat Freddy's Drop - Cay's Crays",
-   "time": "08:52",
-   "uri": "spotify:track:0cuoNSBm7mXApyoOKYIEmL"
-  },
-  {
-   "name": "Oscher Soledad Flores Konzerthausorchester Berlin - Soledad",
-   "time": "11:20",
-   "uri": "spotify:track:2IguSdC9Lz8IUO7iLzmawe"
-  },
-  {
-   "name": "Basiani Ensemble - Gandagana",
-   "time": "12:01",
-   "uri": "spotify:track:7eks8WR2fxPgn82kCdTLXz"
-  },
-  {
-   "name": "Kapela Z Zadowic - Polka Od Kalisza",
-   "time": "12:30",
-   "uri": "spotify:track:0YMj7bwzZBe76HPw430aDE"
-  },
-  {
-   "name": "Tailleferre Arabesque - Arabesque",
-   "time": "14:23",
-   "uri": "spotify:track:6OqLDw1AOHf7GNQcaiVETz"
-  },
-  {
-   "name": "Blakey Art (Dr) - Lester Left Town",
-   "time": "16:56",
-   "uri": "spotify:track:5k2IfBnYmS3w9LsQSIYhqG"
+   "name": "Poldowski Tango Frang+Gallardo - Tango",
+   "time": "16:27",
+   "uri": "spotify:track:4j2lZwdgdsRbZGlnx0LYcG"
   }
  ]
 }
