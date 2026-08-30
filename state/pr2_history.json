@@ -1,46 +1,4 @@
 {
- "2026-08-22": [
-  {
-   "name": "Paul-Marie Barbier Wonderland - Wonderland",
-   "time": "07:08",
-   "uri": "spotify:track:1eG7AWRxyLJARyBEGRalhP"
-  },
-  {
-   "name": "Foliba - Jarabi",
-   "time": "07:49",
-   "uri": "spotify:track:2MRBbftoVVBuUbKHuFxvyQ"
-  },
-  {
-   "name": "Tercet Imperial - Lesie",
-   "time": "08:22",
-   "uri": "spotify:track:3vp78L5Sgdoba7bkIGsXf7"
-  },
-  {
-   "name": "Sam Kowalski - Gaca",
-   "time": "08:30",
-   "uri": "spotify:track:4pDgRlLdn2h6UtQiFwYrZT"
-  },
-  {
-   "name": "Kujawski Ansambl - Matulu Moja",
-   "time": "09:09",
-   "uri": "spotify:track:2zOQWtwBjk9utQ6mmIaYil"
-  },
-  {
-   "name": "Kapela Fedaków Kochaj Mnie Ja Ciebie - Kochaj Mnie Ja Ciebie",
-   "time": "09:25",
-   "uri": "spotify:track:2R1IYd07zdi626VEUqaHUb"
-  },
-  {
-   "name": "Glenn Miller Orchestra In The Mood - In The Mood",
-   "time": "15:03",
-   "uri": "spotify:track:6dZKWYSx5YBIme4SfpIHJ0"
-  },
-  {
-   "name": "Gershwin Fascinating Rhythm Harmonie Ensemble Ny Richman - Facinating Rhythm",
-   "time": "16:16",
-   "uri": "spotify:track:0aRO0zEpE5RZIJrm0TXB4p"
-  }
- ],
  "2026-08-23": [],
  "2026-08-24": [
   {
@@ -94,6 +52,21 @@
  "2026-08-27": [],
  "2026-08-28": [
   {
+   "name": "Dolly Parton - Both Sides Now",
+   "time": "00:06",
+   "uri": "spotify:track:3PoNudaUEnS91ogdJBsLLJ"
+  },
+  {
+   "name": "Enzo Favata - The Dreamer",
+   "time": "00:10",
+   "uri": "spotify:track:3H4I305U8G9VjjsubFJ4lc"
+  },
+  {
+   "name": "Elena Ledda - Night In White Satin",
+   "time": "00:19",
+   "uri": "spotify:track:66xWsh5q2dD7fgYaStmT7S"
+  },
+  {
    "name": "Justin Taylor - As Nature Unfolds",
    "time": "00:25",
    "uri": "spotify:track:2JIzXObsgp07Ut8O2y5yEy"
@@ -104,109 +77,101 @@
    "uri": "spotify:track:52b0mp40ad7HWNzw51461T"
   },
   {
-   "name": "Cecile Mclorin Salvant Sophisticated Lady - Sophisticated Lady",
-   "time": "06:08",
-   "uri": "spotify:track:5bt3XKQ05GfwxBYp7gPphI"
+   "name": "Michael Hix - Aeon Ii",
+   "time": "00:46",
+   "uri": "spotify:track:1AYrzH6Vz2XQRrH8E74kXo"
   },
   {
-   "name": "Anna Lundqvist Fragile. Power. - Fragile. Power.",
-   "time": "06:40",
-   "uri": "spotify:track:1naJVRCi4IYZRFoqjDcaoG"
+   "name": "Michael Hix - Aeon Iii",
+   "time": "00:54",
+   "uri": "spotify:track:11O1VM2rmZY6F4TJuF250z"
+  }
+ ],
+ "2026-08-29": [
+  {
+   "name": "Ekier Taniec Goralski - Taniec Góralski",
+   "time": "01:19",
+   "uri": "spotify:track:5usRs1WBGUWtDLrRHipM4h"
   },
   {
-   "name": "Slawek Jaskulke Takitura - Tokitura",
-   "time": "06:53",
-   "uri": "spotify:track:2NvcBpUg3aV7VhEuB9GT4Q"
+   "name": "Dokalski Kainat - Kainat",
+   "time": "01:51",
+   "uri": "spotify:track:1i4qB8gXLNtrJD2BBSIFyN"
   },
   {
-   "name": "Dolly Parton - Jolene",
-   "time": "07:16",
-   "uri": "spotify:track:2SpEHTbUuebeLkgs9QB7Ue"
+   "name": "Pekiel Missa Concertata La Lombardesca - Missa Concertata La Lombardesca",
+   "time": "02:42",
+   "uri": "spotify:track:2T598PoLSrd1HyZTn7UmsW"
   },
   {
-   "name": "Web Web Intersections - Intersections",
-   "time": "07:25",
-   "uri": "spotify:track:13P8m565iah5NX8peepLVw"
+   "name": "Pekiel Missa A 4 Octava Enemble - Missa A 4",
+   "time": "03:07",
+   "uri": "spotify:track:52TbpijLpcd3FTvPdXIZIj"
   },
   {
-   "name": "Joshua Redman Elastic Band Put It In Your Pocket - Put It In Your Pocket",
-   "time": "07:53",
-   "uri": "spotify:track:2eH9fbAlUoeEoW3VIC3Uct"
+   "name": "Júlia Kozáková - Kalo Kalo",
+   "time": "07:09",
+   "uri": "spotify:track:1ki7I2WCobdHLleu4AZlAT"
   },
   {
-   "name": "Hypnotic Brass Ensemble Birthday - Birthday",
-   "time": "08:01",
-   "uri": "spotify:track:3kdsIe9ihK2zvUnnIo1y0F"
+   "name": "Veera Kuisma - Hökköpolska",
+   "time": "07:13",
+   "uri": "spotify:track:1udwCaYRY9Be5UjsoEfIfZ"
   },
   {
-   "name": "Frank Sinatra - Theme From New York, New York",
-   "time": "08:07",
-   "uri": "spotify:track:4ODWgs1CVAZKDbryEodjiz"
+   "name": "Pedro Soler & Gaspar Claus - Caballitos De Mar (Alegria)",
+   "time": "07:24",
+   "uri": "spotify:track:4krkSE9j6SmmikPTqlQlwA"
   },
   {
-   "name": "Soren Bebe Trio Tango For One - Tango For One",
-   "time": "08:17",
-   "uri": "spotify:track:66zKqUaMX5F445Ux0FRNwt"
+   "name": "Karolina Matuszkiewicz - Kamien Milowy",
+   "time": "07:34",
+   "uri": "spotify:track:3Ykiy04F5HaYcefzJoLq94"
   },
   {
-   "name": "Maynard Ferguson Orchestra Airegin - Airegin",
+   "name": "Alam Khan · Arjun K. Verma · Del Sol Quartet · Nil - Two Worlds",
+   "time": "07:55",
+   "uri": "spotify:track:4xxJ2VyItfAfahFiXGlCoN"
+  },
+  {
+   "name": "Bahar Movahed · Navid Dehghan - Early Spring",
+   "time": "08:12",
+   "uri": "spotify:track:2SKXeVSSYbTwhpvWM8jVFt"
+  },
+  {
+   "name": "Warszawska Orkiestra Sentymentalna - Kiedy Będziesz Zakochany",
    "time": "08:22",
-   "uri": "spotify:track:3Bc9U06Rc9HQW1MbAAwlyV"
+   "uri": "spotify:track:40OnkrrLp3E9xsF8gA0Jbg"
   },
   {
-   "name": "David Lindup The Zodiac - The Zodiac",
-   "time": "08:29",
-   "uri": "spotify:track:30VsSM8ZRA7nQcdcpBe3dC"
+   "name": "Sheku Kanneh-Mason - Hallelujah",
+   "time": "08:26",
+   "uri": "spotify:track:7q2DehTTvivpurQfe41iCy"
   },
   {
-   "name": "Cannonball Adderley Blue Funk - Blue Funk",
-   "time": "08:50",
-   "uri": "spotify:track:14vaSRAtRmXKkArkpBgkbP"
+   "name": "Adam Strug - Moj Kapitanie",
+   "time": "09:29",
+   "uri": "spotify:track:1FjO5ni5yRPlu9IgR6UvCa"
   },
   {
-   "name": "Gogo Penguin Saturnine - Saturnine",
-   "time": "08:55",
-   "uri": "spotify:track:4IQuLra1KorSLrHtkE9llq"
+   "name": "Maraire Kutambarara Kronos Quartet - Kutambarara (Spreading)",
+   "time": "17:11",
+   "uri": "spotify:track:1HeCfZVCKlWzb37zd6PP7u"
   },
   {
-   "name": "St Colombe Concert La Vignon La Reveuse - Concert La Vignon",
-   "time": "09:14",
-   "uri": "spotify:track:0Mza1g4RfLx4JcYBmvMTWj"
+   "name": "Shore The Shire Gromes - The Shire (From Lord Of The Rings, Arr. For Cello, Piano & Harp)",
+   "time": "17:25",
+   "uri": "spotify:track:43mXKzdhQV9wqR6sDZ0ubp"
   },
   {
-   "name": "St Colombe Pieces En Re Mineur La Reveuse - Pieces En Re Mineur",
-   "time": "09:23",
-   "uri": "spotify:track:69Sit3PEx5xupKnmOaUQS4"
-  },
-  {
-   "name": "Tercet Imperial - Lesie",
-   "time": "12:01",
-   "uri": "spotify:track:3vp78L5Sgdoba7bkIGsXf7"
-  },
-  {
-   "name": "Windha Ziporyn Kekembangan Gamelan Sekar Jaya - Kekembangan",
-   "time": "12:22",
-   "uri": "spotify:track:5sCnNOpt3vzfDNwzEI6oOB"
+   "name": "Joe Hisaishi Merry Go Round Ruchomy Zamek Hauru - Merry-Go-Round (From 'Howl's Moving Castle')",
+   "time": "17:28",
+   "uri": "spotify:track:39uLYYZytVUwcjgeYLI409"
   },
   {
    "name": "Lou Harrison Main Bersama Sama - Main Bersama-Sama",
-   "time": "12:27",
+   "time": "17:51",
    "uri": "spotify:track:4gX3OITzToiHmYf5vLgfVG"
-  },
-  {
-   "name": "Daniel Schmidt And The Darkest Hour Is Just Before Dawn - And The Darkest Hour Is Just Before Dawn",
-   "time": "12:42",
-   "uri": "spotify:track:4jIsolrxzAUdBu5x5ExGPJ"
-  },
-  {
-   "name": "Tomasz Chyła Quintet - Blooming (Live At Polish Radio 3)",
-   "time": "13:46",
-   "uri": "spotify:track:1UQ53GIoaLSucAIhBm1Fn7"
-  },
-  {
-   "name": "Stan Getz+Chick Corea La Fiesta - La Fiesta",
-   "time": "16:57",
-   "uri": "spotify:track:2VMupZaekfwlaAwTIQiWzF"
   }
  ]
 }
