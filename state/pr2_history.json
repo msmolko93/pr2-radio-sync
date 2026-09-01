@@ -1,51 +1,4 @@
 {
- "2026-08-24": [
-  {
-   "name": "Madonna - True Blue",
-   "time": "00:04",
-   "uri": "spotify:track:7azOuDeJGbxt5mvq3GQHXp"
-  },
-  {
-   "name": "Madonna - La Isla Bonita",
-   "time": "00:08",
-   "uri": "spotify:track:6r8k1vznHrzlEKYxL4dZEe"
-  },
-  {
-   "name": "Madonna - Jimmy Jimmy",
-   "time": "00:12",
-   "uri": "spotify:track:687mfVfetXFntD7DJpBT3N"
-  },
-  {
-   "name": "Madonna - Love Makes The World Go Round",
-   "time": "00:16",
-   "uri": "spotify:track:5TqUghz3FRLeWKkwOVaumY"
-  },
-  {
-   "name": "Madonna - Like A Prayer",
-   "time": "00:30",
-   "uri": "spotify:track:2v7ywbUzCgcVohHaKUcacV"
-  },
-  {
-   "name": "Newton-John & Travolta - Summer Nights",
-   "time": "00:44",
-   "uri": "spotify:track:2AVkArcfALVk2X8sfPRzya"
-  },
-  {
-   "name": "Olivia Newton-John - Hopelessly Devoted To You",
-   "time": "00:47",
-   "uri": "spotify:track:5BUq9bdtsm3LWw5laJeJ4R"
-  },
-  {
-   "name": "Newton-John & Travolta - You're The One That I Want",
-   "time": "00:50",
-   "uri": "spotify:track:0B9x2BRHqj3Qer7biM3pU3"
-  },
-  {
-   "name": "Olivia Newton-John & Elo - Xanadu",
-   "time": "00:57",
-   "uri": "spotify:track:7xIFHLqjwE5iFSGRBNeTJQ"
-  }
- ],
  "2026-08-25": [],
  "2026-08-26": [],
  "2026-08-27": [],
@@ -114,6 +67,11 @@
    "uri": "spotify:track:5ExcrymqrHd9SAuZOMVnLK"
   },
   {
+   "name": "Pivot Ostatni (Sierpień) - Ostatni (Sierpień)",
+   "time": "15:26",
+   "uri": "spotify:track:1gRQbGOfHdHIGUiGhvUvUf"
+  },
+  {
    "name": "Linda Świetliki Filandia - Filandia",
    "time": "15:32",
    "uri": "spotify:track:1FH1SrrTRWypTOUBGsVB88"
@@ -137,16 +95,38 @@
    "name": "Mfsb Summertime - Summertime",
    "time": "15:55",
    "uri": "spotify:track:4wJAYGLzX0EiqI24MB3LEz"
+  }
+ ],
+ "2026-08-31": [
+  {
+   "name": "Pat Metheny Group San Lorenzo - San Lorenzo",
+   "time": "00:57",
+   "uri": "spotify:track:6Cnq3giYBnvFrhl2DG8p8J"
   },
   {
-   "name": "Catia De Franca Quem Vai Quem Vem - Quem Vai Quem Vem",
-   "time": "17:12",
-   "uri": "spotify:track:5Jkl4ADkfDH5mHgx3sM0m1"
+   "name": "Scholl Wild Mountain Thyme Scholl Orphepus Cho - Wild Mountain Thyme",
+   "time": "06:19",
+   "uri": "spotify:track:43fEn0q0W7T9N4Yr0lJnJv"
   },
   {
-   "name": "Susana Baca Sorongo - Sorongo",
-   "time": "17:34",
-   "uri": "spotify:track:5IcPvP3D5xV3Z8m0Xgawg6"
+   "name": "Rittler Ciaccona Lislevand - Ciaccona",
+   "time": "06:53",
+   "uri": "spotify:track:6MNLfft0zIEoTQau9sjl2d"
+  },
+  {
+   "name": "Oswald/O'carolan When She Cam Ben She Bobbit- Kitt - When She Cam Ben She Bobbit- Kitty's Wishes",
+   "time": "08:08",
+   "uri": "spotify:track:2joEadt93qIXPkI71TazLR"
+  },
+  {
+   "name": "Matteis Diverse Bizzarie Sopra La Vecchia Sarabanda O Pur Ciaconna Swarte Dunford - Diverse Bizzarrie Sopra La Vecchia Sarabanda O Pur Ciaccona",
+   "time": "08:45",
+   "uri": "spotify:track:1qbRd5BwtQO1dtEYRwpQMb"
+  },
+  {
+   "name": "Copland El Salón México Geniusas Genushene - 05 - Aaron Copland - El Salón México",
+   "time": "11:42",
+   "uri": "spotify:track:1PTrHhp2SHF9uz5dyw6MUm"
   }
  ]
 }
