@@ -1,5 +1,4 @@
 {
- "2026-08-25": [],
  "2026-08-26": [],
  "2026-08-27": [],
  "2026-08-28": [
@@ -112,21 +111,58 @@
    "name": "Rittler Ciaccona Lislevand - Ciaccona",
    "time": "06:53",
    "uri": "spotify:track:6MNLfft0zIEoTQau9sjl2d"
+  }
+ ],
+ "2026-09-01": [
+  {
+   "name": "Katsushika Trio Bright Life - Bright Life",
+   "time": "00:22",
+   "uri": "spotify:track:6nboMcA31FtNfe2QBYaqZ4"
   },
   {
-   "name": "Oswald/O'carolan When She Cam Ben She Bobbit- Kitt - When She Cam Ben She Bobbit- Kitty's Wishes",
-   "time": "08:08",
-   "uri": "spotify:track:2joEadt93qIXPkI71TazLR"
+   "name": "Katsushika Trio Banana Express - Banana Express",
+   "time": "00:29",
+   "uri": "spotify:track:6tQCI9tQxT74FClybGXzGs"
   },
   {
-   "name": "Matteis Diverse Bizzarie Sopra La Vecchia Sarabanda O Pur Ciaconna Swarte Dunford - Diverse Bizzarrie Sopra La Vecchia Sarabanda O Pur Ciaccona",
-   "time": "08:45",
-   "uri": "spotify:track:1qbRd5BwtQO1dtEYRwpQMb"
+   "name": "Casiopea Vs The Square Asayake - Asayake",
+   "time": "00:55",
+   "uri": "spotify:track:1UjzHYbkXAzMHAemGLa6A1"
   },
   {
-   "name": "Copland El Salón México Geniusas Genushene - 05 - Aaron Copland - El Salón México",
-   "time": "11:42",
-   "uri": "spotify:track:1PTrHhp2SHF9uz5dyw6MUm"
+   "name": "Di Perra Mora Andueza Accademia Del Piacere Alqhai - Di, Perra Mora",
+   "time": "07:28",
+   "uri": "spotify:track:201akKFYXAyFPcLz0rNkf0"
+  },
+  {
+   "name": "Chan Chan The Sarahbanda & Sarah Willis - Chan Chan",
+   "time": "07:53",
+   "uri": "spotify:track:66i9yLPsUshcDiRgOrS1VF"
+  },
+  {
+   "name": "Trad Sona A Battenti Vittorio +Vitale+Massa - Sona A Battenti",
+   "time": "08:07",
+   "uri": "spotify:track:0bpW3bNV1LojdOuwlZGOYW"
+  },
+  {
+   "name": "Moulinie Orilla Del Claro Tajo Jaroussky L'arpeggiata Pluhar - Orilla Del Claro Tajo",
+   "time": "08:51",
+   "uri": "spotify:track:3PTmFc8mDFkhmTvvseHjfq"
+  },
+  {
+   "name": "Bamako Express - Rosa Sohan",
+   "time": "12:40",
+   "uri": "spotify:track:2o5kQ47V97wkSajHAeCjMO"
+  },
+  {
+   "name": "Waclaw Z Szamotul Blogoslawiony Czlowiek Bornus Consort - Błogosławiony Człowiek",
+   "time": "19:02",
+   "uri": "spotify:track:3dQzqt0g6fm7R1u1MFyysy"
+  },
+  {
+   "name": "Ensemble Organum - Dum Pater Familias (Hymnus Peregrinorum)",
+   "time": "21:53",
+   "uri": "spotify:track:75rsG7geaWrdPkBxwCr3rf"
   }
  ]
 }
