@@ -1,5 +1,4 @@
 {
- "2026-08-26": [],
  "2026-08-27": [],
  "2026-08-28": [
   {
@@ -140,11 +139,6 @@
    "uri": "spotify:track:66i9yLPsUshcDiRgOrS1VF"
   },
   {
-   "name": "Trad Sona A Battenti Vittorio +Vitale+Massa - Sona A Battenti",
-   "time": "08:07",
-   "uri": "spotify:track:0bpW3bNV1LojdOuwlZGOYW"
-  },
-  {
    "name": "Moulinie Orilla Del Claro Tajo Jaroussky L'arpeggiata Pluhar - Orilla Del Claro Tajo",
    "time": "08:51",
    "uri": "spotify:track:3PTmFc8mDFkhmTvvseHjfq"
@@ -158,11 +152,58 @@
    "name": "Waclaw Z Szamotul Blogoslawiony Czlowiek Bornus Consort - Błogosławiony Człowiek",
    "time": "19:02",
    "uri": "spotify:track:3dQzqt0g6fm7R1u1MFyysy"
+  }
+ ],
+ "2026-09-02": [
+  {
+   "name": "Ellen Arkbro - For Organ And Brass",
+   "time": "00:47",
+   "uri": "spotify:track:3jNSmIwnmHNj5LzoKi7gwB"
   },
   {
-   "name": "Ensemble Organum - Dum Pater Familias (Hymnus Peregrinorum)",
-   "time": "21:53",
-   "uri": "spotify:track:75rsG7geaWrdPkBxwCr3rf"
+   "name": "Duchnowski Parallels Klangforum Wien + Engel - Parallels (2014) For Ensemble And Electronics Duch",
+   "time": "01:49",
+   "uri": "spotify:track:3BWAw4H9Uxsez6ujlvUml6"
+  },
+  {
+   "name": "Johnson Wakefilde On A Green Le Poeme Harmonique D - Wakefilde On A Green",
+   "time": "06:19",
+   "uri": "spotify:track:3YWSWUc50sHbARG5DM08Hf"
+  },
+  {
+   "name": "Wyatt Cirrus Ensemble Offspring - Cirrus",
+   "time": "07:41",
+   "uri": "spotify:track:3Co0EowjIfALCq9YROaMTM"
+  },
+  {
+   "name": "Marais Sonnerie De Ste. Genevieve Du Mont-De-Paris Savall Biondi Lislevand Hantai - Sonnerie De Ste. Genevieve Du Mont-De-Paris",
+   "time": "07:51",
+   "uri": "spotify:track:7f9iwK3Z2eZ9tqNurjiuRh"
+  },
+  {
+   "name": "Tarantella Del Gargano De Vittorio I Turchini Florio - Tarantella Del Gargano",
+   "time": "08:01",
+   "uri": "spotify:track:22EHJbMI7qGWMxCddBr53A"
+  },
+  {
+   "name": "Glass Primacy Of Number (Naqoyqatsi) Yo-Yo Ma The - Primacy Of Number (Naqoyqatsi)",
+   "time": "08:48",
+   "uri": "spotify:track:5aprQuUcPrH1nPgTlM4jZE"
+  },
+  {
+   "name": "Janusz Wawrowski - Oberek No. 1",
+   "time": "13:58",
+   "uri": "spotify:track:6wHmIb2Ako828oBlYbxWne"
+  },
+  {
+   "name": "Mazurkiewicz Paweł - Concertino",
+   "time": "16:45",
+   "uri": "spotify:track:0SWSDlpSMegrlGgCaSVZt7"
+  },
+  {
+   "name": "Vivaldi Frost Concerto Koln - Iii. Molto Allegro",
+   "time": "17:56",
+   "uri": "spotify:track:5nvXK2OP4fV3pPUSWfFSLR"
   }
  ]
 }
