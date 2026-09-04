@@ -1,5 +1,4 @@
 {
- "2026-08-27": [],
  "2026-08-28": [
   {
    "name": "Dolly Parton - Both Sides Now",
@@ -204,6 +203,73 @@
    "name": "Vivaldi Frost Concerto Koln - Iii. Molto Allegro",
    "time": "17:56",
    "uri": "spotify:track:5nvXK2OP4fV3pPUSWfFSLR"
+  }
+ ],
+ "2026-09-03": [
+  {
+   "name": "Zubel Shades Of Ice Klangforum Wien - Shades Of Ice Zubel Klangforum Wien",
+   "time": "01:48",
+   "uri": "spotify:track:4icBwmDji3bVRXAUUviN34"
+  },
+  {
+   "name": "Scholl Wild Mountain Thyme Scholl Orphepus Cho - Wild Mountain Thyme",
+   "time": "06:07",
+   "uri": "spotify:track:43fEn0q0W7T9N4Yr0lJnJv"
+  },
+  {
+   "name": "Trebunie Tutki - Nutko Moja",
+   "time": "06:39",
+   "uri": "spotify:track:1mhPmbT8B97sh7G8UMYwz0"
+  },
+  {
+   "name": "Simon And Garfunkel - Mrs. Robinson",
+   "time": "06:52",
+   "uri": "spotify:track:6iKSKHgjyeDhD8iisd4PLL"
+  },
+  {
+   "name": "Soler Fandango Larpeggiata Pluhar - Fandango",
+   "time": "07:49",
+   "uri": "spotify:track:29b0zSNajQPuxAF4Er71tp"
+  },
+  {
+   "name": "Briceno Espanoleta Le Poeme Harmonique Dumestre - Espanoleta",
+   "time": "08:51",
+   "uri": "spotify:track:2WtM3dk2akaH21NYITigTl"
+  },
+  {
+   "name": "Satie Trois Melodies Les Anges Hannigan De Leeuw - Trois Melodies Les Anges",
+   "time": "15:13",
+   "uri": "spotify:track:0reN8LGnLWyf71w8UXIC8A"
+  },
+  {
+   "name": "Satie Trois Melodies Elegie Hannigan De Leeuw - Trois Melodies Elegie",
+   "time": "15:16",
+   "uri": "spotify:track:1W8oubeq0vmDaRuwZdRejR"
+  },
+  {
+   "name": "Satie Trois Melodies Sylvie Hannigan Leeuw - Trois Melodies Sylvie",
+   "time": "15:19",
+   "uri": "spotify:track:7i7xt9LWipaRWuJ2760ktk"
+  },
+  {
+   "name": "Cassandra Wilson Skylark - Skylark",
+   "time": "18:02",
+   "uri": "spotify:track:7ksdQCLU2vRsvcJBjpKNzD"
+  },
+  {
+   "name": "John Coltrane Greensleeves - Greensleeves",
+   "time": "18:16",
+   "uri": "spotify:track:2bOWHX96J0N8Ww7wdjExpM"
+  },
+  {
+   "name": "Erykah Badu Crossfade - Crossfade",
+   "time": "18:26",
+   "uri": "spotify:track:7f1qQ6bzCWSh3hiaeVRyHK"
+  },
+  {
+   "name": "Mozdzer+Danielsson+Fresco Suffering - Suffering (Lars Danielsson)",
+   "time": "18:53",
+   "uri": "spotify:track:1svXKrcCjFASC0oIalP6zh"
   }
  ]
 }
