@@ -1,41 +1,4 @@
 {
- "2026-08-28": [
-  {
-   "name": "Dolly Parton - Both Sides Now",
-   "time": "00:06",
-   "uri": "spotify:track:3PoNudaUEnS91ogdJBsLLJ"
-  },
-  {
-   "name": "Enzo Favata - The Dreamer",
-   "time": "00:10",
-   "uri": "spotify:track:3H4I305U8G9VjjsubFJ4lc"
-  },
-  {
-   "name": "Elena Ledda - Night In White Satin",
-   "time": "00:19",
-   "uri": "spotify:track:66xWsh5q2dD7fgYaStmT7S"
-  },
-  {
-   "name": "Justin Taylor - As Nature Unfolds",
-   "time": "00:25",
-   "uri": "spotify:track:2JIzXObsgp07Ut8O2y5yEy"
-  },
-  {
-   "name": "Max Richter - Dream 8",
-   "time": "00:34",
-   "uri": "spotify:track:52b0mp40ad7HWNzw51461T"
-  },
-  {
-   "name": "Michael Hix - Aeon Ii",
-   "time": "00:46",
-   "uri": "spotify:track:1AYrzH6Vz2XQRrH8E74kXo"
-  },
-  {
-   "name": "Michael Hix - Aeon Iii",
-   "time": "00:54",
-   "uri": "spotify:track:11O1VM2rmZY6F4TJuF250z"
-  }
- ],
  "2026-08-29": [],
  "2026-08-30": [
   {
@@ -205,71 +168,187 @@
    "uri": "spotify:track:5nvXK2OP4fV3pPUSWfFSLR"
   }
  ],
- "2026-09-03": [
+ "2026-09-03": [],
+ "2026-09-04": [
   {
-   "name": "Zubel Shades Of Ice Klangforum Wien - Shades Of Ice Zubel Klangforum Wien",
-   "time": "01:48",
-   "uri": "spotify:track:4icBwmDji3bVRXAUUviN34"
+   "name": "Nina Simon - The Last Rose Of Summer",
+   "time": "00:01",
+   "uri": "spotify:track:25j2iO7iukdUHZLYQwP30O"
   },
   {
-   "name": "Scholl Wild Mountain Thyme Scholl Orphepus Cho - Wild Mountain Thyme",
-   "time": "06:07",
-   "uri": "spotify:track:43fEn0q0W7T9N4Yr0lJnJv"
+   "name": "Carles Benavent & Edmar Castaneda - La Casa De Mis Suenos",
+   "time": "00:05",
+   "uri": "spotify:track:5SQcKuQEeBGAGdYG0PSEap"
   },
   {
-   "name": "Trebunie Tutki - Nutko Moja",
-   "time": "06:39",
-   "uri": "spotify:track:1mhPmbT8B97sh7G8UMYwz0"
+   "name": "Cassandra Wilson - Black Crow",
+   "time": "00:13",
+   "uri": "spotify:track:2wuhb2PBgdb9QKUKpJtmAx"
   },
   {
-   "name": "Simon And Garfunkel - Mrs. Robinson",
-   "time": "06:52",
-   "uri": "spotify:track:6iKSKHgjyeDhD8iisd4PLL"
+   "name": "Sinopoulos & Keerim - Stick Dance",
+   "time": "00:18",
+   "uri": "spotify:track:2i8QVHva8AiQ22V00ecCPe"
   },
   {
-   "name": "Soler Fandango Larpeggiata Pluhar - Fandango",
-   "time": "07:49",
-   "uri": "spotify:track:29b0zSNajQPuxAF4Er71tp"
+   "name": "Raske Drenge - Sigmundskvaedid Yngra",
+   "time": "00:27",
+   "uri": "spotify:track:0YsDuwSVJ3oUJ4I9sl9nX5"
   },
   {
-   "name": "Briceno Espanoleta Le Poeme Harmonique Dumestre - Espanoleta",
-   "time": "08:51",
-   "uri": "spotify:track:2WtM3dk2akaH21NYITigTl"
+   "name": "Matt Carmichael - Wide Eyes",
+   "time": "00:33",
+   "uri": "spotify:track:5vSVVvlLiU7EBMU1hRXieV"
   },
   {
-   "name": "Satie Trois Melodies Les Anges Hannigan De Leeuw - Trois Melodies Les Anges",
-   "time": "15:13",
-   "uri": "spotify:track:0reN8LGnLWyf71w8UXIC8A"
+   "name": "Alva Noto & Ryuichi Sakamoto - Conversation 6",
+   "time": "00:41",
+   "uri": "spotify:track:6a0PNajw3bf566IBpXaiYK"
   },
   {
-   "name": "Satie Trois Melodies Elegie Hannigan De Leeuw - Trois Melodies Elegie",
-   "time": "15:16",
-   "uri": "spotify:track:1W8oubeq0vmDaRuwZdRejR"
+   "name": "Michael Hix - Aeon Iv",
+   "time": "00:49",
+   "uri": "spotify:track:6tXicZSEPIx53XmJIeNOM1"
   },
   {
-   "name": "Satie Trois Melodies Sylvie Hannigan Leeuw - Trois Melodies Sylvie",
-   "time": "15:19",
-   "uri": "spotify:track:7i7xt9LWipaRWuJ2760ktk"
+   "name": "Michael Hix - Aeon V",
+   "time": "00:57",
+   "uri": "spotify:track:1XMtJgYwz0uoJ7jceKX7s3"
   },
   {
-   "name": "Cassandra Wilson Skylark - Skylark",
-   "time": "18:02",
-   "uri": "spotify:track:7ksdQCLU2vRsvcJBjpKNzD"
+   "name": "Andrzej Dąbrowski - Zielono Mi",
+   "time": "06:01",
+   "uri": "spotify:track:66rPc7pcVJEd4KB3Mn5YVH"
   },
   {
-   "name": "John Coltrane Greensleeves - Greensleeves",
-   "time": "18:16",
-   "uri": "spotify:track:2bOWHX96J0N8Ww7wdjExpM"
+   "name": "Bireli Lagrene Trio Lullaby Of Birdland - Lullaby Of Birdland",
+   "time": "06:08",
+   "uri": "spotify:track:7iVmDcVcFbRrBNR2HYw4E2"
+  },
+  {
+   "name": "Cassandra Wilson - Lover Come Back To Me",
+   "time": "06:15",
+   "uri": "spotify:track:3RfpcRtLrQEAda6kgcXIbW"
+  },
+  {
+   "name": "Bobby Mcferrin - Don't Worry Be Happy",
+   "time": "06:42",
+   "uri": "spotify:track:5YbgcwHjQhdT1BYQ4rxWlD"
+  },
+  {
+   "name": "Andrzej Kurylewicz Quintet Go Right - Go Right",
+   "time": "06:55",
+   "uri": "spotify:track:6qwBwCmnfqB14Fl9ydDbMw"
+  },
+  {
+   "name": "Gerald Wilson Orchestra Man Of La Mancha - Man Of La Mancha",
+   "time": "07:16",
+   "uri": "spotify:track:5BUeXZHhGwrNlF5QUarpdK"
+  },
+  {
+   "name": "Alabaster Deplume A Gente Acaba (Vento Em Rosa) - A Gente Acaba (Vento Em Rosa)",
+   "time": "07:25",
+   "uri": "spotify:track:1rqRgQc12PV8kgosqubPQd"
   },
   {
    "name": "Erykah Badu Crossfade - Crossfade",
-   "time": "18:26",
+   "time": "07:36",
    "uri": "spotify:track:7f1qQ6bzCWSh3hiaeVRyHK"
   },
   {
-   "name": "Mozdzer+Danielsson+Fresco Suffering - Suffering (Lars Danielsson)",
-   "time": "18:53",
-   "uri": "spotify:track:1svXKrcCjFASC0oIalP6zh"
+   "name": "Brandon Woody Real Love Pt. 1 - Real Love Pt. 1",
+   "time": "07:42",
+   "uri": "spotify:track:3hx6insLLZ8cU7gIs4xp5F"
+  },
+  {
+   "name": "Jacob Collier+Becca Stevens+Chris Thile I Heard Yo - I Heard You Singing",
+   "time": "08:01",
+   "uri": "spotify:track:6AEYJSl89zOrlcta65d5y5"
+  },
+  {
+   "name": "Tawadros+Dejohnette Memories Of Home - Memories Of Home",
+   "time": "08:19",
+   "uri": "spotify:track:7B6BmkyCsh2rP3LogoADPR"
+  },
+  {
+   "name": "Brecker Brothers Keep It Steady - Keep It Steady (Brecker Bump)",
+   "time": "08:25",
+   "uri": "spotify:track:4ckbOvcOsztubqcT4J6IBr"
+  },
+  {
+   "name": "Coltrane+Hartman Autumn Serenade - Autumn Serenade",
+   "time": "08:53",
+   "uri": "spotify:track:3lrcl8bNSUkHMjHEtP5yC1"
+  },
+  {
+   "name": "Kreek O Jesus Machaut Dame Vostre Doulz Viaire Vox - O Jesus, Thy Pain & Dame, Vostre Doulz Viaire",
+   "time": "09:47",
+   "uri": "spotify:track:74U5PFpcVGvriJ0QvtjG7c"
+  },
+  {
+   "name": "Minyo Crusaders Hanagasa Ondo - Hanagasa Ondo",
+   "time": "12:01",
+   "uri": "spotify:track:5UV2rKLzS2CqnFAoB6Lr0H"
+  },
+  {
+   "name": "Kaoru Inoue Malam - Malam",
+   "time": "12:07",
+   "uri": "spotify:track:46E9DiKZakpWTHfebjNNnj"
+  },
+  {
+   "name": "Ryuichi Sakamoto Merry Christmas Mr Lawrence - Merry Christmas, Mr. Lawrence",
+   "time": "12:39",
+   "uri": "spotify:track:4NFIUZzAAJ5cvw6WurI9Kl"
+  },
+  {
+   "name": "Lutosławski (Derwid) Warszawski Dorozkarz Katsaris - 30 - Warszawski Dorozkarz",
+   "time": "15:23",
+   "uri": "spotify:track:1yBmLta0DJYKoFlYbW1X9Y"
+  },
+  {
+   "name": "Petersburski To Ostatnia Niedziela Katsaris - 02 - To Ostatnia Niedziela",
+   "time": "15:39",
+   "uri": "spotify:track:2Lv7bdRJEmqU6lM9KJj78Y"
+  },
+  {
+   "name": "Petersburski Niebieska Chusteczka Katsaris - 06 - Niebieska Chusteczka",
+   "time": "15:43",
+   "uri": "spotify:track:1Wzvj9dOHffwbvL89DcesN"
+  },
+  {
+   "name": "Kilar Wokaliza Z Filmu 9. Wrota Katsaris - 26 - Vocalise, From The Film The Ninth Gate",
+   "time": "15:46",
+   "uri": "spotify:track:7DqsiMdH7kfslFdRX5qAIq"
+  },
+  {
+   "name": "Leszek Mozdzer Trio Hanter-Dro - Hanter-Dro",
+   "time": "18:01",
+   "uri": "spotify:track:6waGegIcQy755yRIdmlNxy"
+  },
+  {
+   "name": "Leszek Mozdzer Trio Hydrospeed - Hydrospeed",
+   "time": "18:29",
+   "uri": "spotify:track:3N2pHQhDTeoQsl80l6CaIO"
+  },
+  {
+   "name": "Leszek Mozdzer Trio In Nomi Santa Maria - In Nomie Santa Maria",
+   "time": "18:33",
+   "uri": "spotify:track:1SZQyh5AS4BlmdsXZgqPAE"
+  },
+  {
+   "name": "Leszek Mozdzer Trio Norgon - Norgon",
+   "time": "18:39",
+   "uri": "spotify:track:02uioDAQWrE0BmIAquJ6jg"
+  },
+  {
+   "name": "Leszek Mozdzer Trio Siodemka - Siodemka",
+   "time": "18:52",
+   "uri": "spotify:track:1VtZ38h0mWP17D7lD4TcoY"
+  },
+  {
+   "name": "Sollima Fandango Kobekina - Fandango",
+   "time": "20:11",
+   "uri": "spotify:track:0kqn8EvtIYsl5FA4YWrSgN"
   }
  ]
 }
