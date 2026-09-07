@@ -1,61 +1,4 @@
 {
- "2026-08-30": [
-  {
-   "name": "Kurdziel Summer Evening Komendarek-Tymendorf - Summer Evening",
-   "time": "04:03",
-   "uri": "spotify:track:7BEQHOe32zdTLcgENc3mpJ"
-  },
-  {
-   "name": "Benevolo Magnificat A 16 Le Concert Spirituel Niquet - Magnificat A 16",
-   "time": "13:01",
-   "uri": "spotify:track:4RHY7WZVH3jPKvffkTFVFI"
-  },
-  {
-   "name": "Frisell Surfer Girl - Surfer Girl",
-   "time": "15:02",
-   "uri": "spotify:track:2Ksw2QttWAoNr9Tkz7IXKA"
-  },
-  {
-   "name": "Kokoroko Abusey Junction - Abusey Junction",
-   "time": "15:08",
-   "uri": "spotify:track:3W4IoNW4011i8qfCwN75Va"
-  },
-  {
-   "name": "Pablopavo Ostatni Dzień Sierpnia - Ostatni Dzień Sierpnia",
-   "time": "15:17",
-   "uri": "spotify:track:5ExcrymqrHd9SAuZOMVnLK"
-  },
-  {
-   "name": "Pivot Ostatni (Sierpień) - Ostatni (Sierpień)",
-   "time": "15:26",
-   "uri": "spotify:track:1gRQbGOfHdHIGUiGhvUvUf"
-  },
-  {
-   "name": "Linda Świetliki Filandia - Filandia",
-   "time": "15:32",
-   "uri": "spotify:track:1FH1SrrTRWypTOUBGsVB88"
-  },
-  {
-   "name": "Aukai Cloudline - Cloudline",
-   "time": "15:39",
-   "uri": "spotify:track:1QnI1KojOakYIGWabQIJxT"
-  },
-  {
-   "name": "The Doors - Summer's Almost Gone",
-   "time": "15:43",
-   "uri": "spotify:track:657O4nJxZktsNDvBimhZ0i"
-  },
-  {
-   "name": "Halsall The Sun In September - The Sun In September",
-   "time": "15:48",
-   "uri": "spotify:track:0YeP4gSyzoUA8O09B0MBaF"
-  },
-  {
-   "name": "Mfsb Summertime - Summertime",
-   "time": "15:55",
-   "uri": "spotify:track:4wJAYGLzX0EiqI24MB3LEz"
-  }
- ],
  "2026-08-31": [
   {
    "name": "Pat Metheny Group San Lorenzo - San Lorenzo",
@@ -285,66 +228,87 @@
    "uri": "spotify:track:74U5PFpcVGvriJ0QvtjG7c"
   }
  ],
- "2026-09-05": [
+ "2026-09-05": [],
+ "2026-09-06": [
   {
-   "name": "Yo-Yo Ma Duncan Meyer Thile Voila! - Voila!",
-   "time": "07:08",
-   "uri": "spotify:track:3R5elu6fCaN3qmBU0Nptkh"
+   "name": "Bartolome De Selma Y Salaverde Canzon Terza Canzon - Canzon Terza",
+   "time": "09:53",
+   "uri": "spotify:track:5p5qsJIpMug0Teia74j26n"
   },
   {
-   "name": "Kapela Niwinskich - Kujawianka",
-   "time": "07:14",
-   "uri": "spotify:track:4Rip53G5I1JkiCx3gyYLuh"
+   "name": "Trad. Polka Prajobka Kapela Braci Metów - Polka Prajobka",
+   "time": "14:26",
+   "uri": "spotify:track:1PJKct3eguRzL7GlgKPuMi"
   },
   {
-   "name": "Ibrahim Ferrer Fuiste Cruel - Fuiste Cruel",
-   "time": "07:24",
-   "uri": "spotify:track:4skxKIv8q6yH9kcb5G7MHY"
+   "name": "Trad. Oberek Weselny Kapela Braci Metów - Oberek Weselny",
+   "time": "14:28",
+   "uri": "spotify:track:1LofI0WG1PwQjJubwI0nsx"
   },
   {
-   "name": "Ahmed Malek Omar Gatlato - Omar Gatlato",
-   "time": "07:45",
-   "uri": "spotify:track:7u66NyMgxzEGhvjnqSe7aP"
+   "name": "Kapela Butrynów Oberek Sulowskich - Oberek Sulowskich",
+   "time": "14:49",
+   "uri": "spotify:track:4xzTvmCBRKgAB25fgVbVAA"
   },
   {
-   "name": "Adam Strug Żal - Żal",
-   "time": "08:20",
-   "uri": "spotify:track:2JeBlJKWOMwLyXmrtaRqiU"
+   "name": "Heard / Prommer Can You Feel It - Can You Feel It",
+   "time": "17:14",
+   "uri": "spotify:track:6ODRkVKzrKqZ5tKAbSoQJV"
   },
   {
-   "name": "Carminho Pop Fado - Pop Fado",
-   "time": "09:09",
-   "uri": "spotify:track:6KHBOX3SfJQoiNIpOK6K6m"
+   "name": "The Budos Band T.i.b.w.f. - T.i.b.w.f.",
+   "time": "17:28",
+   "uri": "spotify:track:7wwLfGqZ5VaTfNGRihJiqu"
   },
   {
-   "name": "Trio Da Kali Kronos Quartet Ladilikan - Ladilikan",
-   "time": "09:23",
-   "uri": "spotify:track:33TdSLzWPCT7GbwROCHAnl"
+   "name": "Moore The Millionaire - D. Moore Trio - The Millionaire",
+   "time": "17:33",
+   "uri": "spotify:track:3A81YoLjTwosRjE55wNn72"
   },
   {
-   "name": "Tegie Chlopy Odchodny - Odchodny",
-   "time": "09:44",
-   "uri": "spotify:track:4aHf9H3XkDlcBVoISoHA0o"
+   "name": "The Olympians Apollo's Mood - Apollo's Mood",
+   "time": "17:39",
+   "uri": "spotify:track:5pvYvvO0IDkuK1FDWPWMXy"
   },
   {
-   "name": "Martin Pavane Couleur Du Temps Quatuor Terpsycorde - 09 - Frank Martin Pavane Couleur Du Temps, For Str",
-   "time": "17:51",
-   "uri": "spotify:track:28oPwiawcyeCdWddoPm7sV"
+   "name": "Drake River Man - B. Mehldau - River Man",
+   "time": "17:46",
+   "uri": "spotify:track:3Uh7rAb7F0XGVpEEDwfH1k"
   },
   {
-   "name": "Duchnowski Cezary - Z Lat Dziecinnych",
-   "time": "21:23",
-   "uri": "spotify:track:1uEKRRfgyt37EdwvhyWCGl"
+   "name": "Sammut Sailing For Phil 1St Movement - V. Vassilev - Sailing For Phil_ 1St Movement",
+   "time": "17:52",
+   "uri": "spotify:track:0zl8u8COv2AmJU2mXgHk3f"
   },
   {
-   "name": "Duchnowski Cezary - Daleka Podróż",
-   "time": "21:33",
-   "uri": "spotify:track:62c5K2DsmDS18pgkfJQhM2"
+   "name": "Rota Time For Us - J. Pass - A Time For Us",
+   "time": "18:08",
+   "uri": "spotify:track:2mrvsVwcStgCm0AB2t9Gux"
   },
   {
-   "name": "Duchnowski Cezary - Jeden Przystanek Dalej",
-   "time": "21:42",
-   "uri": "spotify:track:0VRlu9vnI5bTWJCvOzTb7f"
+   "name": "Zahra Beautiful Tango - H. Zahra - Beautiful Tango - Unplugged",
+   "time": "18:23",
+   "uri": "spotify:track:1AAmQJO43qsQGc1pWRmTxN"
+  },
+  {
+   "name": "Lewis Crushed Velvet - M. Lewis. Three Sacred Soul - Crushed Velvet",
+   "time": "18:39",
+   "uri": "spotify:track:0ot8VA36fmxBlIqa5xbnf7"
+  },
+  {
+   "name": "Iniko Jericho - Jericho",
+   "time": "18:43",
+   "uri": "spotify:track:4ztdjZ2t7BVo5DLIFQBdJh"
+  },
+  {
+   "name": "Autofant Heaven Is Above Me - Heaven Is Above Me",
+   "time": "18:46",
+   "uri": "spotify:track:4WiX35Uhf0vfi0XscwjIsl"
+  },
+  {
+   "name": "Brown On My Way Home - On My Way Home",
+   "time": "18:51",
+   "uri": "spotify:track:25wNPg4ZGmhg9amD2YHJVH"
   }
  ]
 }
