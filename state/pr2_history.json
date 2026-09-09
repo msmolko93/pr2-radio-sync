@@ -1,46 +1,4 @@
 {
- "2026-09-01": [
-  {
-   "name": "Katsushika Trio Bright Life - Bright Life",
-   "time": "00:22",
-   "uri": "spotify:track:6nboMcA31FtNfe2QBYaqZ4"
-  },
-  {
-   "name": "Katsushika Trio Banana Express - Banana Express",
-   "time": "00:29",
-   "uri": "spotify:track:6tQCI9tQxT74FClybGXzGs"
-  },
-  {
-   "name": "Casiopea Vs The Square Asayake - Asayake",
-   "time": "00:55",
-   "uri": "spotify:track:1UjzHYbkXAzMHAemGLa6A1"
-  },
-  {
-   "name": "Di Perra Mora Andueza Accademia Del Piacere Alqhai - Di, Perra Mora",
-   "time": "07:28",
-   "uri": "spotify:track:201akKFYXAyFPcLz0rNkf0"
-  },
-  {
-   "name": "Chan Chan The Sarahbanda & Sarah Willis - Chan Chan",
-   "time": "07:53",
-   "uri": "spotify:track:66i9yLPsUshcDiRgOrS1VF"
-  },
-  {
-   "name": "Moulinie Orilla Del Claro Tajo Jaroussky L'arpeggiata Pluhar - Orilla Del Claro Tajo",
-   "time": "08:51",
-   "uri": "spotify:track:3PTmFc8mDFkhmTvvseHjfq"
-  },
-  {
-   "name": "Bamako Express - Rosa Sohan",
-   "time": "12:40",
-   "uri": "spotify:track:2o5kQ47V97wkSajHAeCjMO"
-  },
-  {
-   "name": "Waclaw Z Szamotul Blogoslawiony Czlowiek Bornus Consort - Błogosławiony Człowiek",
-   "time": "19:02",
-   "uri": "spotify:track:3dQzqt0g6fm7R1u1MFyysy"
-  }
- ],
  "2026-09-02": [
   {
    "name": "Ellen Arkbro - For Organ And Brass",
@@ -244,36 +202,73 @@
    "name": "Quincy Jones Orchestra Bluesette - Bluesette",
    "time": "08:53",
    "uri": "spotify:track:0Xdfxn38LUIK4ihO2h9sVo"
+  }
+ ],
+ "2026-09-08": [
+  {
+   "name": "James Brown With Friends Of Earth Sex Machine Hoso - Sex Machine",
+   "time": "00:03",
+   "uri": "spotify:track:2xTv6Qqa8BhbdHr3Z3Cs6s"
   },
   {
-   "name": "Ponce Estrellita Duenas & Golan - Estrellita",
-   "time": "10:23",
-   "uri": "spotify:track:41A3TVMbwfFQmu5Cs3eHMu"
+   "name": "Urban Dance Dreamer (Old Man Looks Back) - Dreamer(Old Man Looks Back)",
+   "time": "00:45",
+   "uri": "spotify:track:1KLgINIrIZE0XiHxfPPqGG"
   },
   {
-   "name": "Ensemble Ambrosius - Night School",
-   "time": "11:17",
-   "uri": "spotify:track:2wI7nKGoMuxehGvjjPs5c4"
+   "name": "Urban Dance Remaking Of Non-Standard Music - Remaking Of Non-Standard Music",
+   "time": "00:49",
+   "uri": "spotify:track:5lQnn4BciWjloMNCAS7NU5"
   },
   {
-   "name": "Zappa Black Page #2 Ensemble Ambrosius - Black Page #2",
-   "time": "11:51",
-   "uri": "spotify:track:7B66A1xFyZAVRCWzSTrZNw"
+   "name": "Venosa Ardo Per Te Mio Bene La Compagnia Del Madrigale - Ardo Per Te Mio Bene",
+   "time": "06:07",
+   "uri": "spotify:track:0YcGQkqVn6obARNkJE83Jy"
   },
   {
-   "name": "Dinah Washington September In The Rain - September In The Rain",
-   "time": "18:02",
-   "uri": "spotify:track:2csA2nDUNR5TfQEn1I7nt4"
+   "name": "Ordonówna Stara Piosenka - Stara Piosenka",
+   "time": "06:16",
+   "uri": "spotify:track:7aYC0EYR7oThSOYILzXPM3"
   },
   {
-   "name": "Wild Bill Davison September In The Rain - September In The Rain",
-   "time": "18:04",
-   "uri": "spotify:track:5kLuI9Fa1UEFWvOWhzqdcR"
+   "name": "Schmelzer Polnische Sackpfeiffen Freiburger Barock - Polnische Sackpfeiffen",
+   "time": "06:22",
+   "uri": "spotify:track:2C12JeOBQUmmMxu4jK0a5A"
   },
   {
-   "name": "Nat King Cole+George Shearing September Song - September Song",
-   "time": "18:40",
-   "uri": "spotify:track:3ADOpTdAx5CEA2RpJmPQ6x"
+   "name": "Stan Getz-Luiz Bonfa O Morro Năo Tem Vez - O Morro Năo Tem Vez",
+   "time": "06:53",
+   "uri": "spotify:track:1NF8RxcyP6qWaipOfusQp2"
+  },
+  {
+   "name": "Wallace Roney Quintet Daahoud - Daahoud",
+   "time": "07:54",
+   "uri": "spotify:track:2FXnwEMWwDlUA4Y8RtacBj"
+  },
+  {
+   "name": "Gottschalk - Symphonie Romantique, La Nuit Des Tropiques (A Night In The Tropics) Ii Festa Criolla",
+   "time": "08:53",
+   "uri": "spotify:track:53VT9RbDDQiMgx9WGRonrB"
+  },
+  {
+   "name": "East Duo - Chumi",
+   "time": "12:42",
+   "uri": "spotify:track:5piwL3mXsDbpSHeuh6p9po"
+  },
+  {
+   "name": "Casals El Cant Dels Ocells La Marca - El Cant Dels Ocells",
+   "time": "14:48",
+   "uri": "spotify:track:2erVJdVc17dGi26Nvx5HJn"
+  },
+  {
+   "name": "Ninna Nanna Alla Napoletana Jaroussky L'arpeggiata - Ninna Nanna Alla Napoletana",
+   "time": "17:06",
+   "uri": "spotify:track:0XskNgopgVOazGvr3V9dHz"
+  },
+  {
+   "name": "Pepol Soul Is Free - Soul Is Free",
+   "time": "17:35",
+   "uri": "spotify:track:3XiEmepQx5bEBZpdTgOvWl"
   }
  ]
 }
