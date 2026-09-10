@@ -1,56 +1,4 @@
 {
- "2026-09-02": [
-  {
-   "name": "Ellen Arkbro - For Organ And Brass",
-   "time": "00:47",
-   "uri": "spotify:track:3jNSmIwnmHNj5LzoKi7gwB"
-  },
-  {
-   "name": "Duchnowski Parallels Klangforum Wien + Engel - Parallels (2014) For Ensemble And Electronics Duch",
-   "time": "01:49",
-   "uri": "spotify:track:3BWAw4H9Uxsez6ujlvUml6"
-  },
-  {
-   "name": "Johnson Wakefilde On A Green Le Poeme Harmonique D - Wakefilde On A Green",
-   "time": "06:19",
-   "uri": "spotify:track:3YWSWUc50sHbARG5DM08Hf"
-  },
-  {
-   "name": "Wyatt Cirrus Ensemble Offspring - Cirrus",
-   "time": "07:41",
-   "uri": "spotify:track:3Co0EowjIfALCq9YROaMTM"
-  },
-  {
-   "name": "Marais Sonnerie De Ste. Genevieve Du Mont-De-Paris Savall Biondi Lislevand Hantai - Sonnerie De Ste. Genevieve Du Mont-De-Paris",
-   "time": "07:51",
-   "uri": "spotify:track:7f9iwK3Z2eZ9tqNurjiuRh"
-  },
-  {
-   "name": "Tarantella Del Gargano De Vittorio I Turchini Florio - Tarantella Del Gargano",
-   "time": "08:01",
-   "uri": "spotify:track:22EHJbMI7qGWMxCddBr53A"
-  },
-  {
-   "name": "Glass Primacy Of Number (Naqoyqatsi) Yo-Yo Ma The - Primacy Of Number (Naqoyqatsi)",
-   "time": "08:48",
-   "uri": "spotify:track:5aprQuUcPrH1nPgTlM4jZE"
-  },
-  {
-   "name": "Janusz Wawrowski - Oberek No. 1",
-   "time": "13:58",
-   "uri": "spotify:track:6wHmIb2Ako828oBlYbxWne"
-  },
-  {
-   "name": "Mazurkiewicz Paweł - Concertino",
-   "time": "16:45",
-   "uri": "spotify:track:0SWSDlpSMegrlGgCaSVZt7"
-  },
-  {
-   "name": "Vivaldi Frost Concerto Koln - Iii. Molto Allegro",
-   "time": "17:56",
-   "uri": "spotify:track:5nvXK2OP4fV3pPUSWfFSLR"
-  }
- ],
  "2026-09-03": [],
  "2026-09-04": [
   {
@@ -221,6 +169,11 @@
    "uri": "spotify:track:5lQnn4BciWjloMNCAS7NU5"
   },
   {
+   "name": "Noskowski Morskie Oko Nospr Chmura - Morskie Oko",
+   "time": "05:37",
+   "uri": "spotify:track:6hJXgsa2Wy08Upx0MyEEE4"
+  },
+  {
    "name": "Venosa Ardo Per Te Mio Bene La Compagnia Del Madrigale - Ardo Per Te Mio Bene",
    "time": "06:07",
    "uri": "spotify:track:0YcGQkqVn6obARNkJE83Jy"
@@ -254,21 +207,83 @@
    "name": "East Duo - Chumi",
    "time": "12:42",
    "uri": "spotify:track:5piwL3mXsDbpSHeuh6p9po"
+  }
+ ],
+ "2026-09-09": [
+  {
+   "name": "Hatis Noit - Aura",
+   "time": "00:04",
+   "uri": "spotify:track:3yLrFNajQckehtRDyh2FiI"
   },
   {
-   "name": "Casals El Cant Dels Ocells La Marca - El Cant Dels Ocells",
-   "time": "14:48",
-   "uri": "spotify:track:2erVJdVc17dGi26Nvx5HJn"
+   "name": "Anna Von Hausswolff - The Truth, The Glow, The Fall",
+   "time": "00:16",
+   "uri": "spotify:track:3bnH8m7eRB7xiaq9ll7lH2"
   },
   {
-   "name": "Ninna Nanna Alla Napoletana Jaroussky L'arpeggiata - Ninna Nanna Alla Napoletana",
-   "time": "17:06",
-   "uri": "spotify:track:0XskNgopgVOazGvr3V9dHz"
+   "name": "Bill Orcutt - Pylon Pylon!",
+   "time": "00:41",
+   "uri": "spotify:track:4jRMQJrTSfP2FrDa2GsaRy"
   },
   {
-   "name": "Pepol Soul Is Free - Soul Is Free",
-   "time": "17:35",
-   "uri": "spotify:track:3XiEmepQx5bEBZpdTgOvWl"
+   "name": "Saba Alizadeh - Last Ritual",
+   "time": "00:44",
+   "uri": "spotify:track:3J37yXHap0isWPoGNONkei"
+  },
+  {
+   "name": "Seki Taneko - Akemi's Poems",
+   "time": "00:56",
+   "uri": "spotify:track:5DpDRlSiXMbRvUspEn2Li3"
+  },
+  {
+   "name": "Szarzyński Litania Cursoria Wrocław Baroque Ensemble Kosendiak - Litania Cursoria",
+   "time": "05:06",
+   "uri": "spotify:track:731DiCjf2xPmJfmDxXNQAR"
+  },
+  {
+   "name": "Adam Pieronczyk Quintet Kattorna - Kattorna",
+   "time": "07:55",
+   "uri": "spotify:track:2JkLqYx0HQM0fMyfcppV4p"
+  },
+  {
+   "name": "Tre Fontane Oni Wytars - Tre Fontane",
+   "time": "08:01",
+   "uri": "spotify:track:1qWtADJ1p5TKwbDoFgpeiW"
+  },
+  {
+   "name": "Levy Tango Brasileiro Freire - Tango Brasileiro",
+   "time": "08:49",
+   "uri": "spotify:track:7jw0IJ7ck3gu75Wvd2VZjg"
+  },
+  {
+   "name": "Kapela Z Czermna - Polka",
+   "time": "12:08",
+   "uri": "spotify:track:3KWAkdS9W2KWCp26wUDTp5"
+  },
+  {
+   "name": "Saz'iso - Tana",
+   "time": "13:46",
+   "uri": "spotify:track:3sEPxH1BQI4fVFgjEfFRZI"
+  },
+  {
+   "name": "Pixner Augenstern Goldmund Quartett - Augenstern",
+   "time": "15:24",
+   "uri": "spotify:track:6LREFz6QCLq14z5Q0MkcwT"
+  },
+  {
+   "name": "Francesco Trisatno Tristano On Bull Galliard In D - 2. Tristano On Bull Galliard In D",
+   "time": "20:35",
+   "uri": "spotify:track:3d0lGt3YEIe4IZU5vmtLbb"
+  },
+  {
+   "name": "Tristano Serpentina Tristano - 4. Serpentina",
+   "time": "20:42",
+   "uri": "spotify:track:0EIBh5SIVTk24hHT89t6Gn"
+  },
+  {
+   "name": "Tristano On Girolamo Frescobaldi Quattro Correnti Tristano - 6. On Girolamo Frescobaldi Quattro Correnti",
+   "time": "20:48",
+   "uri": "spotify:track:4K1GfLlzoTGzh60Cs7jBki"
   }
  ]
 }
