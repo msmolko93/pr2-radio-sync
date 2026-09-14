@@ -1,16 +1,4 @@
 {
- "2026-09-06": [
-  {
-   "name": "Poplawski Morceau De Concert Sikorzak-Olek Nospr Klauza - Morceau De Concert",
-   "time": "06:29",
-   "uri": "spotify:track:31KWbLYDY0JVpMGy1g74Dv"
-  },
-  {
-   "name": "Bartolome De Selma Y Salaverde Canzon Terza Canzon - Canzon Terza",
-   "time": "09:53",
-   "uri": "spotify:track:5p5qsJIpMug0Teia74j26n"
-  }
- ],
  "2026-09-07": [
   {
    "name": "Caldara Medea In Corinto - Medea In Corinto",
@@ -320,16 +308,63 @@
    "name": "Iggy Pop - Les Feuilles Mortes",
    "time": "09:56",
    "uri": "spotify:track:4jsfwKGrdOLfQM5DHheVz8"
+  }
+ ],
+ "2026-09-13": [
+  {
+   "name": "Murcia Fandango L'arpeggiata Pluhar - Fandango",
+   "time": "09:53",
+   "uri": "spotify:track:29b0zSNajQPuxAF4Er71tp"
   },
   {
-   "name": "Kabaret Starszych Panów Nie Nie Budzcie Mnie - Nie Nie Budzcie Mnie",
-   "time": "15:54",
-   "uri": "spotify:track:13rDtRIQYOUAl5SDf4B6kn"
+   "name": "Hunger Le Vent Nous Portera - Le Vent Nous Portera",
+   "time": "15:07",
+   "uri": "spotify:track:2ZQVJD9I6GCqXmkmMuEoLa"
   },
   {
-   "name": "Maciej Obara Quartet Storyteller - Storyteller",
-   "time": "16:53",
-   "uri": "spotify:track:54dcaG5WDOXPQbA7QouWD2"
+   "name": "Lennon / Mccartney A Hard Day's Night - Q. Jones - A Hard Day's Night",
+   "time": "15:13",
+   "uri": "spotify:track:5gKR2c0RlYSZL4B41vOMYs"
+  },
+  {
+   "name": "Bryan Ferry Orchestra Reason Or Rhyme - Reason Or Rhyme",
+   "time": "15:18",
+   "uri": "spotify:track:7roa6zEs03l2BXQt3D4Kmn"
+  },
+  {
+   "name": "Roseaux Walking On The Moon (Feat. Aloe Blacc) - Walking On The Moon (Feat. Aloe Blacc)",
+   "time": "15:29",
+   "uri": "spotify:track:0BfvGye9zx8ZfwfR22DTMD"
+  },
+  {
+   "name": "Kahn / Donaldson My Baby Just Cares For Me - N. Si - My Baby Just Cares For Me",
+   "time": "15:37",
+   "uri": "spotify:track:2VzKWZ6TdRT3wtGh1Tx3am"
+  },
+  {
+   "name": "The Schwings Band Is This Love - Is This Love",
+   "time": "15:42",
+   "uri": "spotify:track:00fA1fomeN6hVag2XrYiDL"
+  },
+  {
+   "name": "Frank Zappa - G-Spot Tornado - Frank Zappa - G-Spot Tornado",
+   "time": "15:46",
+   "uri": "spotify:track:6K9aktMY6A4ESKcbW82XLT"
+  },
+  {
+   "name": "Bobby Womack California Dreamin' - California Dreamin'",
+   "time": "15:51",
+   "uri": "spotify:track:6G7MHIvSDR3ehXPkuDFAlM"
+  },
+  {
+   "name": "Hermanos Gutierrez Cerca De Ti - Cerca De Ti",
+   "time": "15:58",
+   "uri": "spotify:track:1dmJWX0nWAx5gjDzAohSbO"
+  },
+  {
+   "name": "Kasse Mady Diabate Ko Kuma Magni - Ko Kuma Magni",
+   "time": "18:40",
+   "uri": "spotify:track:7IgvyeOg2MtRq6HtU815Z6"
   }
  ]
 }
