@@ -1,26 +1,4 @@
 {
- "2026-09-07": [
-  {
-   "name": "Caldara Medea In Corinto - Medea In Corinto",
-   "time": "03:27",
-   "uri": "spotify:track:7clCg8sORef2u8ssHxb1z9"
-  },
-  {
-   "name": "Oscar Peterson+Clark Terry Mack The Knife - Mack The Knife",
-   "time": "07:53",
-   "uri": "spotify:track:1N69Cw2WThdhl2Lz5yqWnq"
-  },
-  {
-   "name": "Levy Tango Brasileiro Freire - Tango Brasileiro",
-   "time": "08:07",
-   "uri": "spotify:track:7jw0IJ7ck3gu75Wvd2VZjg"
-  },
-  {
-   "name": "Quincy Jones Orchestra Bluesette - Bluesette",
-   "time": "08:53",
-   "uri": "spotify:track:0Xdfxn38LUIK4ihO2h9sVo"
-  }
- ],
  "2026-09-08": [
   {
    "name": "James Brown With Friends Of Earth Sex Machine Hoso - Sex Machine",
@@ -365,6 +343,63 @@
    "name": "Kasse Mady Diabate Ko Kuma Magni - Ko Kuma Magni",
    "time": "18:40",
    "uri": "spotify:track:7IgvyeOg2MtRq6HtU815Z6"
+  }
+ ],
+ "2026-09-14": [
+  {
+   "name": "Vinci Gismondo Re Di Polonia Fagioli Il Pomo D'oro Valova - 6 Gismondo Re Di Polonia Act I Scene 15 Quell’usignolo Ch’e Innamorato",
+   "time": "07:31",
+   "uri": "spotify:track:4KkJ11VsyOAzpIncpqYN2D"
+  },
+  {
+   "name": "Vaughan Williams Lark Ascending Brown Academy Of S - Lark Ascending",
+   "time": "10:32",
+   "uri": "spotify:track:1wglWrfecdrCSX5NIHlYc8"
+  },
+  {
+   "name": "Ponce La Valentina Segovia - La Valentina",
+   "time": "13:48",
+   "uri": "spotify:track:7IxmtaQayOcK3l3QgBNF7w"
+  },
+  {
+   "name": "Kahane Little Love Mcgill Kahane - Little Love",
+   "time": "14:55",
+   "uri": "spotify:track:0CQ6cbXPUsB9NcJZ2Abuc4"
+  },
+  {
+   "name": "Piazzolla Libertango Balsom Gothenburg So Gardner - Libertango",
+   "time": "16:54",
+   "uri": "spotify:track:1IIydYQ6LTzZpgLXYpNlNy"
+  },
+  {
+   "name": "Orlandini Che M'ami Ti Prega Orliński Il Pomo D'or - Nerone, Act 1 - Che M'ami Ti Prega (Nerone)",
+   "time": "17:45",
+   "uri": "spotify:track:4KqTS14bfAVgGS3QhVKoqo"
+  },
+  {
+   "name": "Stefano Bollani Choro Sim - Choro Sim",
+   "time": "18:12",
+   "uri": "spotify:track:24lvCSzUkDB8qJjLUjO8su"
+  },
+  {
+   "name": "Stefano Bollani Band Il Domatore Di Pulci - Il Domatore Di Pulci",
+   "time": "18:16",
+   "uri": "spotify:track:2LA1lCp50mLEsE4BO13vH7"
+  },
+  {
+   "name": "Enrico Rava-Stefano Bollani Thank You Come Again - Thank You Come Again",
+   "time": "18:21",
+   "uri": "spotify:track:0IfauaCgxCVmJ6ikgSnETt"
+  },
+  {
+   "name": "Gershwin Rialto Ripples Bollani Gewandhausorchester Chailly - Rialto Ripples",
+   "time": "18:42",
+   "uri": "spotify:track:0VEWcDQ9GHPKVlHT3CrGhR"
+  },
+  {
+   "name": "Stefano Bollani Band Bun Ii Vinul Ghiurghiuliu Plu - Ii Vinul Ghiurghiuliu Plus Billy Boy",
+   "time": "18:49",
+   "uri": "spotify:track:1dhEAYLoeTmrAF0dVQVTgN"
   }
  ]
 }
