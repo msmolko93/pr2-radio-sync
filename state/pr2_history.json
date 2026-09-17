@@ -1,81 +1,4 @@
 {
- "2026-09-09": [
-  {
-   "name": "Hatis Noit - Aura",
-   "time": "00:04",
-   "uri": "spotify:track:3yLrFNajQckehtRDyh2FiI"
-  },
-  {
-   "name": "Anna Von Hausswolff - The Truth, The Glow, The Fall",
-   "time": "00:16",
-   "uri": "spotify:track:3bnH8m7eRB7xiaq9ll7lH2"
-  },
-  {
-   "name": "Bill Orcutt - Pylon Pylon!",
-   "time": "00:41",
-   "uri": "spotify:track:4jRMQJrTSfP2FrDa2GsaRy"
-  },
-  {
-   "name": "Saba Alizadeh - Last Ritual",
-   "time": "00:44",
-   "uri": "spotify:track:3J37yXHap0isWPoGNONkei"
-  },
-  {
-   "name": "Seki Taneko - Akemi's Poems",
-   "time": "00:56",
-   "uri": "spotify:track:5DpDRlSiXMbRvUspEn2Li3"
-  },
-  {
-   "name": "Szarzyński Litania Cursoria Wrocław Baroque Ensemble Kosendiak - Litania Cursoria",
-   "time": "05:06",
-   "uri": "spotify:track:731DiCjf2xPmJfmDxXNQAR"
-  },
-  {
-   "name": "Adam Pieronczyk Quintet Kattorna - Kattorna",
-   "time": "07:55",
-   "uri": "spotify:track:2JkLqYx0HQM0fMyfcppV4p"
-  },
-  {
-   "name": "Tre Fontane Oni Wytars - Tre Fontane",
-   "time": "08:01",
-   "uri": "spotify:track:1qWtADJ1p5TKwbDoFgpeiW"
-  },
-  {
-   "name": "Levy Tango Brasileiro Freire - Tango Brasileiro",
-   "time": "08:49",
-   "uri": "spotify:track:7jw0IJ7ck3gu75Wvd2VZjg"
-  },
-  {
-   "name": "Kapela Z Czermna - Polka",
-   "time": "12:08",
-   "uri": "spotify:track:3KWAkdS9W2KWCp26wUDTp5"
-  },
-  {
-   "name": "Saz'iso - Tana",
-   "time": "13:46",
-   "uri": "spotify:track:3sEPxH1BQI4fVFgjEfFRZI"
-  },
-  {
-   "name": "Pixner Augenstern Goldmund Quartett - Augenstern",
-   "time": "15:24",
-   "uri": "spotify:track:6LREFz6QCLq14z5Q0MkcwT"
-  },
-  {
-   "name": "Francesco Trisatno Tristano On Bull Galliard In D - 2. Tristano On Bull Galliard In D",
-   "time": "20:35",
-   "uri": "spotify:track:3d0lGt3YEIe4IZU5vmtLbb"
-  },
-  {
-   "name": "Tristano Serpentina Tristano - 4. Serpentina",
-   "time": "20:42",
-   "uri": "spotify:track:0EIBh5SIVTk24hHT89t6Gn"
-  },
-  {
-   "name": "Tristano On Girolamo Frescobaldi Quattro Correnti Tristano - 6. On Girolamo Frescobaldi Quattro Correnti",
-   "time": "20:48",
-   "uri": "spotify:track:4K1GfLlzoTGzh60Cs7jBki"
-  }
- ],
  "2026-09-10": [],
  "2026-09-11": [
   {
@@ -347,6 +270,11 @@
  ],
  "2026-09-15": [
   {
+   "name": "Windy & Carl With Optigan Observatory Coast Starli - Coast Starlight",
+   "time": "00:51",
+   "uri": "spotify:track:42khDP7Qjwp4VTIPzeiKod"
+  },
+  {
    "name": "Windy & Carl With Optigan Observatory Alvin Loving - Alvin Loving",
    "time": "00:58",
    "uri": "spotify:track:7kfOTTfKaHxHeg7lGkBpbO"
@@ -395,6 +323,48 @@
    "name": "Johnson Wakefilde On A Green Le Poeme Harmonique Dumestre - Wakefilde On A Green",
    "time": "17:29",
    "uri": "spotify:track:3YWSWUc50sHbARG5DM08Hf"
+  }
+ ],
+ "2026-09-16": [
+  {
+   "name": "Eliades Ochoa Píntate Los Labios María Son - Píntate Los Labios María Son",
+   "time": "12:00",
+   "uri": "spotify:track:0A27Pm1SdsQbceOPH2m8SU"
+  },
+  {
+   "name": "Trio Da Kali Bagola - Bagola",
+   "time": "12:07",
+   "uri": "spotify:track:0KFgfoZhXaXmzrAPgjyTSH"
+  },
+  {
+   "name": "Bombino Ayo Nigla - Ayo Nigla",
+   "time": "12:33",
+   "uri": "spotify:track:2F7eeBNBru3Y2bi8EYMUdc"
+  },
+  {
+   "name": "Bombino Alwane - Alwane",
+   "time": "12:38",
+   "uri": "spotify:track:5OGYBYUei75xUpQ41OfQUN"
+  },
+  {
+   "name": "Bombino Ahoulaguine Akaline - Ahoulaguine Akaline",
+   "time": "12:42",
+   "uri": "spotify:track:58TRjx8bPJYkfQ8OzS6NIp"
+  },
+  {
+   "name": "Gershwin I Got Rhythm Anima Eterna Mcfadden Brugge - I Got Rhythm",
+   "time": "16:09",
+   "uri": "spotify:track:4IyVwprcPBmRj6TqMA6Lhl"
+  },
+  {
+   "name": "Bucimis Avital Doari - Bucimis",
+   "time": "16:56",
+   "uri": "spotify:track:4SPaNqT6NAvyk0yohyvnVx"
+  },
+  {
+   "name": "Andreas Scholl+Orpheus Cho Wild Mountain Thyme - Wild Mountain Thyme",
+   "time": "17:06",
+   "uri": "spotify:track:4xi8PXfTGJaPXfCRToDHHe"
   }
  ]
 }
