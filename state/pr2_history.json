@@ -1,5 +1,4 @@
 {
- "2026-09-10": [],
  "2026-09-11": [
   {
    "name": "Old Saw - The Flood Spires",
@@ -327,6 +326,11 @@
  ],
  "2026-09-16": [
   {
+   "name": "Barraine Les Tziganes (Orchestre National De Franace + Macelaru) - 15_Macelaru_Barraine_Les Tziganes",
+   "time": "06:08",
+   "uri": "spotify:track:7EkLQ3OUj71VbOFZ36RTP6"
+  },
+  {
    "name": "Eliades Ochoa Píntate Los Labios María Son - Píntate Los Labios María Son",
    "time": "12:00",
    "uri": "spotify:track:0A27Pm1SdsQbceOPH2m8SU"
@@ -350,21 +354,108 @@
    "name": "Bombino Ahoulaguine Akaline - Ahoulaguine Akaline",
    "time": "12:42",
    "uri": "spotify:track:58TRjx8bPJYkfQ8OzS6NIp"
+  }
+ ],
+ "2026-09-17": [
+  {
+   "name": "Francoeur Lj Chaconne Que Jai Faitte Pour Donner A - Chaconne Que J'ai Faitte Pour Donner A Mon Oncle",
+   "time": "08:01",
+   "uri": "spotify:track:2btqlugpRENmBj1CmVXQxX"
   },
   {
-   "name": "Gershwin I Got Rhythm Anima Eterna Mcfadden Brugge - I Got Rhythm",
-   "time": "16:09",
-   "uri": "spotify:track:4IyVwprcPBmRj6TqMA6Lhl"
+   "name": "Bernstein Chichester Psalms Eeckhout Chór Radia Fl - Chichester Psalms",
+   "time": "14:03",
+   "uri": "spotify:track:1T2vMZ79t7remuNiQfNHTj"
   },
   {
-   "name": "Bucimis Avital Doari - Bucimis",
-   "time": "16:56",
-   "uri": "spotify:track:4SPaNqT6NAvyk0yohyvnVx"
+   "name": "Townshend Running (Clear Sky) - Running",
+   "time": "15:02",
+   "uri": "spotify:track:4wIgciMlzGZvfLLqkDOGpJ"
   },
   {
-   "name": "Andreas Scholl+Orpheus Cho Wild Mountain Thyme - Wild Mountain Thyme",
-   "time": "17:06",
-   "uri": "spotify:track:4xi8PXfTGJaPXfCRToDHHe"
+   "name": "Townshend You’re Not Alone (Clear Sky) - You’re Not Alone",
+   "time": "15:04",
+   "uri": "spotify:track:3Lf4ec6aJgpHJNIRnHmL4r"
+  },
+  {
+   "name": "Goransson Grogu's World (The Mandalorian And Grogu - Grogu's World",
+   "time": "15:09",
+   "uri": "spotify:track:3bHx5o1AFGgYnP9G3QJCkj"
+  },
+  {
+   "name": "Goransson Penelope (The Odyssey) - Penelope",
+   "time": "15:19",
+   "uri": "spotify:track:5CsZuYia3R65X0Z5sNLsak"
+  },
+  {
+   "name": "Goransson Ithaca (The Odyssey) - Ithaca",
+   "time": "15:23",
+   "uri": "spotify:track:7uXHip6O0uQHqHrewyUctI"
+  },
+  {
+   "name": "Rogiewicz Ouverture (1670 S03) - Ouverture",
+   "time": "15:31",
+   "uri": "spotify:track:4KUvDMSBBPIdJ8YUZtZ8AC"
+  },
+  {
+   "name": "Rogiewicz Odlot (1670 S03) - Odlot",
+   "time": "15:32",
+   "uri": "spotify:track:0KNwkiqasZWpetWtaYn5S5"
+  },
+  {
+   "name": "Rogiewicz Projekt (1670 S03) - Projekt",
+   "time": "15:33",
+   "uri": "spotify:track:3KHTwAR4mm2hKpiRZhffHS"
+  },
+  {
+   "name": "Rogiewicz Mirek (1670 S03) - Mirek",
+   "time": "15:34",
+   "uri": "spotify:track:42nN4RZtnKxT1WzLk4oek7"
+  },
+  {
+   "name": "Kołodziejczyk Main Theme (The Blood Of Dawnwalker) - Main Theme",
+   "time": "15:44",
+   "uri": "spotify:track:2xPyK0K7LntzevjxqS5sMw"
+  },
+  {
+   "name": "Kołodziejczyk Coen's Family (The Blood Of Dawnwalk - Coen's Family",
+   "time": "15:47",
+   "uri": "spotify:track:4DXDoInkSvnvLdnn4YFWJs"
+  },
+  {
+   "name": "Kołodziejczyk Uphill Battle (The Blood Of Dawnwalk - Uphill Battle",
+   "time": "15:49",
+   "uri": "spotify:track:2KEy3lATdNWaOK9BWDaU6w"
+  },
+  {
+   "name": "Malaussena Enzo Et Carla (La Frappe) - Enzo Et Carla",
+   "time": "15:53",
+   "uri": "spotify:track:2KCdyh1gh9d8DnN4ohgScD"
+  },
+  {
+   "name": "Tessier Chansons Turcquesques Le Poeme Harmonique - Chansons Turcquesques. Hel Vel Aqueur & Tal Lissi Man",
+   "time": "16:29",
+   "uri": "spotify:track:03CHk5mtDJWckD33M0Kkou"
+  },
+  {
+   "name": "Pluhar+Trovesi+Beasey Turluru Larpeggiata Pluhar - Turlurů",
+   "time": "17:36",
+   "uri": "spotify:track:1N9O5EDWbfocYR9KjOK6PG"
+  },
+  {
+   "name": "Namyslowski+Gulgowski The Last Pharoah - The Last Pharaoh",
+   "time": "18:45",
+   "uri": "spotify:track:4y3f9Bm8Kpl64M1mzEIKxf"
+  },
+  {
+   "name": "Eabs Meets Jaubi Yesterday - Yesterday",
+   "time": "18:52",
+   "uri": "spotify:track:3ar6onMC8TbLlzd2rzcdH1"
+  },
+  {
+   "name": "Wróblewski Jazz Quintet Nana Imboro - Nana Imboro",
+   "time": "18:54",
+   "uri": "spotify:track:2dGdV97MGOPEjjs3sZJwYz"
   }
  ]
 }
