@@ -1,56 +1,4 @@
 {
- "2026-09-11": [
-  {
-   "name": "Old Saw - The Flood Spires",
-   "time": "00:03",
-   "uri": "spotify:track:6as2mej7FINtCmHJt1JbtX"
-  },
-  {
-   "name": "Old Saw - Blood Sumac",
-   "time": "00:12",
-   "uri": "spotify:track:5suW7a70o57FMnAWYmujCE"
-  },
-  {
-   "name": "Roy Montgomery & Martha Skye Murphy - Satellites Against The Milky Way",
-   "time": "00:18",
-   "uri": "spotify:track:3j9T1TK4pPxE1tZimLHpIW"
-  },
-  {
-   "name": "Wojciech Rusin - Flesh Eater",
-   "time": "00:35",
-   "uri": "spotify:track:3baqjTxbMDQQbQpSEpRkYU"
-  },
-  {
-   "name": "Wojciech Rusin - Carpathian Stone Spinners",
-   "time": "00:39",
-   "uri": "spotify:track:3FKChYnkn1DCXI8dP1S5he"
-  },
-  {
-   "name": "Wojciech Rusin - Kittens Meet Puppies For The First Time",
-   "time": "00:43",
-   "uri": "spotify:track:4kDG9ACVvGWqfzqNridXV5"
-  },
-  {
-   "name": "D'eon - Installation Of The Cisterns",
-   "time": "00:48",
-   "uri": "spotify:track:66JXLRPR7uOrSRnUMjz7oW"
-  },
-  {
-   "name": "D'eon - Leviathan",
-   "time": "00:52",
-   "uri": "spotify:track:4tQjmB1yprCKGpNAfXkVH3"
-  },
-  {
-   "name": "Armand Hammer & The Alchemist - California Games (Feat. Earl Sweatshirt)",
-   "time": "00:57",
-   "uri": "spotify:track:1xEqdMfvDPGcwFklsaC35w"
-  },
-  {
-   "name": "Mctee Timepiece - Timepiece",
-   "time": "02:01",
-   "uri": "spotify:track:0FhvCge0rXy2SD4zvofdKJ"
-  }
- ],
  "2026-09-12": [
   {
    "name": "Beryllium Szulik Kumonosu Jo - Arrows",
@@ -356,106 +304,157 @@
    "uri": "spotify:track:58TRjx8bPJYkfQ8OzS6NIp"
   }
  ],
- "2026-09-17": [
+ "2026-09-17": [],
+ "2026-09-18": [
   {
-   "name": "Francoeur Lj Chaconne Que Jai Faitte Pour Donner A - Chaconne Que J'ai Faitte Pour Donner A Mon Oncle",
+   "name": "Kham Meslien - Vaisseaux Fantomes",
+   "time": "00:03",
+   "uri": "spotify:track:5Tx4hMbHomicLD0wbh4AiC"
+  },
+  {
+   "name": "Joni Mitchell - If",
+   "time": "00:08",
+   "uri": "spotify:track:1Yd2N6mFlIGdXAxu2kkVPo"
+  },
+  {
+   "name": "The Brothers Comatose - High Hoping",
+   "time": "00:15",
+   "uri": "spotify:track:6ItSQmtHLj7tuTWs1obPv9"
+  },
+  {
+   "name": "Melingo - Julepe En La Tierra",
+   "time": "00:19",
+   "uri": "spotify:track:4M1teEcIN4khDVNCkeeuDt"
+  },
+  {
+   "name": "Mandy Lerouge & Melingo - La Noche",
+   "time": "00:24",
+   "uri": "spotify:track:02njX0YDVAdKle0RWvSYfn"
+  },
+  {
+   "name": "Melingo - Anda",
+   "time": "00:28",
+   "uri": "spotify:track:5Z2ExXDI4nC5UpMRWuPtDA"
+  },
+  {
+   "name": "Okay Temiz & Pohjantahti - Eftalya",
+   "time": "00:33",
+   "uri": "spotify:track:38dpCaONMzfnUl2ZD3QZr6"
+  },
+  {
+   "name": "Deva Premal & Ajeet - Yemaya",
+   "time": "00:42",
+   "uri": "spotify:track:75ZsLulPqTLpRwACAQ13hL"
+  },
+  {
+   "name": "Midori Takada & Jakob Bro - Falling And Fragmentation",
+   "time": "00:52",
+   "uri": "spotify:track:5uE7CpImPBnxvseuMcFEHh"
+  },
+  {
+   "name": "B.b. King - Blues Man",
+   "time": "06:01",
+   "uri": "spotify:track:4gv1KBi6apyvI7oDvOaAGU"
+  },
+  {
+   "name": "Nils Petter Molvaer Gilimanuk - Gilimanuk",
+   "time": "06:09",
+   "uri": "spotify:track:330Ke2S95HMiuZwykzcFCW"
+  },
+  {
+   "name": "Sarah Vaughan - Lullaby Of Birdland - Lullaby Of Birdland",
+   "time": "06:19",
+   "uri": "spotify:track:1egFecJPKqG7IcsE3sjZCr"
+  },
+  {
+   "name": "John Coltrane Cousin Mary - Cousin Mary",
+   "time": "06:25",
+   "uri": "spotify:track:2QaAqTj1TnRPR4wpq9LDd8"
+  },
+  {
+   "name": "Gregory Porter Don't Lose Your Steam - Don't Lose Your Steam",
+   "time": "06:43",
+   "uri": "spotify:track:19A6DtYrz9n8FDvb7kMVVW"
+  },
+  {
+   "name": "Nubya Garcia Fortify - Fortify",
+   "time": "06:53",
+   "uri": "spotify:track:0oD4SYLAvCK5PI38bUK2jc"
+  },
+  {
+   "name": "Tomasz Stanko Kameleon - Kameleon",
+   "time": "07:16",
+   "uri": "spotify:track:4JXKOFZd8stcAMNCacOQob"
+  },
+  {
+   "name": "Kulakowski Music For R - Music For R",
+   "time": "07:41",
+   "uri": "spotify:track:4GOidYlSTz5GeAxgsXK57J"
+  },
+  {
+   "name": "The Dirty Dozen Brass Band We Gon' Roll - We Gon' Roll",
+   "time": "07:53",
+   "uri": "spotify:track:2jt4EuYJtnwID4qyqM5h8L"
+  },
+  {
+   "name": "Kat Edmonson What Else Can I Do - What Else Can I Do",
    "time": "08:01",
-   "uri": "spotify:track:2btqlugpRENmBj1CmVXQxX"
+   "uri": "spotify:track:1u9dkvRtjzkL8ritczRXsX"
   },
   {
-   "name": "Bernstein Chichester Psalms Eeckhout Chór Radia Fl - Chichester Psalms",
-   "time": "14:03",
-   "uri": "spotify:track:1T2vMZ79t7remuNiQfNHTj"
+   "name": "Ella Fitzgerald Sunny - Sunny",
+   "time": "08:25",
+   "uri": "spotify:track:3OxpLIangiBuyeOAf2SbxW"
   },
   {
-   "name": "Townshend Running (Clear Sky) - Running",
-   "time": "15:02",
-   "uri": "spotify:track:4wIgciMlzGZvfLLqkDOGpJ"
+   "name": "Omasta Kazimierz - Kazimierz",
+   "time": "08:45",
+   "uri": "spotify:track:2rWY6ezKAxZHpWw0iLLm8q"
   },
   {
-   "name": "Townshend You’re Not Alone (Clear Sky) - You’re Not Alone",
-   "time": "15:04",
-   "uri": "spotify:track:3Lf4ec6aJgpHJNIRnHmL4r"
+   "name": "Falconieri Folias Echa Para Mi Senora Dona Tarolil - Folias Echa Para Mi Senora Dona Tarolilla",
+   "time": "09:10",
+   "uri": "spotify:track:2LWcUrz5hh8KBBXcv94oGk"
   },
   {
-   "name": "Goransson Grogu's World (The Mandalorian And Grogu - Grogu's World",
-   "time": "15:09",
-   "uri": "spotify:track:3bHx5o1AFGgYnP9G3QJCkj"
+   "name": "Manchicourt Missa Veni Sancte Spiritus Gli Angeli - Missa Veni Sancte Spiritus",
+   "time": "10:23",
+   "uri": "spotify:track:6OV35ZWLl16kIKF8ZFUXdw"
   },
   {
-   "name": "Goransson Penelope (The Odyssey) - Penelope",
-   "time": "15:19",
-   "uri": "spotify:track:5CsZuYia3R65X0Z5sNLsak"
+   "name": "Kasia Dudziak & Karo Przewłoka / Hania Kocan Beren - Kozerydy",
+   "time": "12:29",
+   "uri": "spotify:track:4JeVNAX5JiK0dZy0VlfY21"
   },
   {
-   "name": "Goransson Ithaca (The Odyssey) - Ithaca",
-   "time": "15:23",
-   "uri": "spotify:track:7uXHip6O0uQHqHrewyUctI"
+   "name": "Orkiestra Św. Mikołaja - A Ty Myla",
+   "time": "12:40",
+   "uri": "spotify:track:3Ey9748zYZInwHGBOx5ICa"
   },
   {
-   "name": "Rogiewicz Ouverture (1670 S03) - Ouverture",
-   "time": "15:31",
-   "uri": "spotify:track:4KUvDMSBBPIdJ8YUZtZ8AC"
+   "name": "Orkiestra Św. Mikołaja - Dobri W Hamerycy",
+   "time": "12:42",
+   "uri": "spotify:track:4zTkKYBGDpQKhJo4hrO7ry"
   },
   {
-   "name": "Rogiewicz Odlot (1670 S03) - Odlot",
-   "time": "15:32",
-   "uri": "spotify:track:0KNwkiqasZWpetWtaYn5S5"
+   "name": "Reich Oktet Ensemble 20. Jahrhundret Burwik - Oktet",
+   "time": "14:18",
+   "uri": "spotify:track:7oJ7duV79RuyXEnTw06liz"
   },
   {
-   "name": "Rogiewicz Projekt (1670 S03) - Projekt",
-   "time": "15:33",
-   "uri": "spotify:track:3KHTwAR4mm2hKpiRZhffHS"
+   "name": "Reich Different Trains Kronos Quartet Wj 1992 - Different Trains",
+   "time": "14:52",
+   "uri": "spotify:track:3h6kVL3Rqu2sbQ70vlkOoT"
   },
   {
-   "name": "Rogiewicz Mirek (1670 S03) - Mirek",
-   "time": "15:34",
-   "uri": "spotify:track:42nN4RZtnKxT1WzLk4oek7"
-  },
-  {
-   "name": "Kołodziejczyk Main Theme (The Blood Of Dawnwalker) - Main Theme",
-   "time": "15:44",
-   "uri": "spotify:track:2xPyK0K7LntzevjxqS5sMw"
-  },
-  {
-   "name": "Kołodziejczyk Coen's Family (The Blood Of Dawnwalk - Coen's Family",
-   "time": "15:47",
-   "uri": "spotify:track:4DXDoInkSvnvLdnn4YFWJs"
-  },
-  {
-   "name": "Kołodziejczyk Uphill Battle (The Blood Of Dawnwalk - Uphill Battle",
-   "time": "15:49",
-   "uri": "spotify:track:2KEy3lATdNWaOK9BWDaU6w"
-  },
-  {
-   "name": "Malaussena Enzo Et Carla (La Frappe) - Enzo Et Carla",
-   "time": "15:53",
-   "uri": "spotify:track:2KCdyh1gh9d8DnN4ohgScD"
-  },
-  {
-   "name": "Tessier Chansons Turcquesques Le Poeme Harmonique - Chansons Turcquesques. Hel Vel Aqueur & Tal Lissi Man",
+   "name": "Piazzolla Otono Porteno Phillips Lausanne Soloists - The Four Seasons Of Buenos Aires Ii. Otono Porteno",
    "time": "16:29",
-   "uri": "spotify:track:03CHk5mtDJWckD33M0Kkou"
+   "uri": "spotify:track:68EdRssEtR6AXnL2JmtI4l"
   },
   {
-   "name": "Pluhar+Trovesi+Beasey Turluru Larpeggiata Pluhar - Turlurů",
-   "time": "17:36",
-   "uri": "spotify:track:1N9O5EDWbfocYR9KjOK6PG"
-  },
-  {
-   "name": "Namyslowski+Gulgowski The Last Pharoah - The Last Pharaoh",
-   "time": "18:45",
-   "uri": "spotify:track:4y3f9Bm8Kpl64M1mzEIKxf"
-  },
-  {
-   "name": "Eabs Meets Jaubi Yesterday - Yesterday",
-   "time": "18:52",
-   "uri": "spotify:track:3ar6onMC8TbLlzd2rzcdH1"
-  },
-  {
-   "name": "Wróblewski Jazz Quintet Nana Imboro - Nana Imboro",
-   "time": "18:54",
-   "uri": "spotify:track:2dGdV97MGOPEjjs3sZJwYz"
+   "name": "Simon Spirit Voices The King's Singers - Spirit Voices",
+   "time": "16:44",
+   "uri": "spotify:track:6bzSqq9LsvUsKwCrJh1Ls4"
   }
  ]
 }
