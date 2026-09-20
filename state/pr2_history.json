@@ -1,106 +1,4 @@
 {
- "2026-09-12": [
-  {
-   "name": "Beryllium Szulik Kumonosu Jo - Arrows",
-   "time": "01:58",
-   "uri": "spotify:track:08f0XO7bYlKtdt2XYaYbw3"
-  },
-  {
-   "name": "Beryllium Szulik Kumonosu Jo - Duke",
-   "time": "02:05",
-   "uri": "spotify:track:6dcVtUg1TtcivUquB1bKkH"
-  },
-  {
-   "name": "Beryllium Szulik Kumonosu Jo - Fog",
-   "time": "02:11",
-   "uri": "spotify:track:5gUaZUMmgD6YKu1vdEjYxn"
-  },
-  {
-   "name": "Beryllium Szulik Kumonosu Jo - Forrest",
-   "time": "02:19",
-   "uri": "spotify:track:6krVO7Y5PXa9FcGa3fdmNV"
-  },
-  {
-   "name": "Beryllium Szulik Kumonosu Jo - Ghosts",
-   "time": "02:23",
-   "uri": "spotify:track:7lfAKQYXUVP12jQrY3idSk"
-  },
-  {
-   "name": "Beryllium Szulik Kumonosu Jo - Oracle",
-   "time": "02:29",
-   "uri": "spotify:track:0Q4uq3ucH9ODdRto2n34Xl"
-  },
-  {
-   "name": "Beryllium Szulik Kumonosu Jo - Son",
-   "time": "02:36",
-   "uri": "spotify:track:5p2C9GgmPI05VZbJCZM1sg"
-  },
-  {
-   "name": "Beryllium Szulik Kumonosu Jo - Transgression",
-   "time": "02:43",
-   "uri": "spotify:track:1H9ATipmkCaEaOrzUAC2L0"
-  },
-  {
-   "name": "Beryllium Szulik Kumonosu Jo - Wife",
-   "time": "02:48",
-   "uri": "spotify:track:3aToFxQC4VAXcgzrLoQ9AX"
-  },
-  {
-   "name": "Chor Sarmacki Im. Grzegorza Gerwazego Gorczyckiego - Missa Pro Defunctis",
-   "time": "03:58",
-   "uri": "spotify:track:3ilja3uZJKJKCF27FD0wdN"
-  },
-  {
-   "name": "Standley Helstroffer's Band Once Loved A Lass - I Once Loved A Lass",
-   "time": "07:08",
-   "uri": "spotify:track:0V8C0VLOfc6WJAjJgSSWRx"
-  },
-  {
-   "name": "Cesária Evora - Sodade",
-   "time": "07:24",
-   "uri": "spotify:track:7smlUb2mNCifTct24UeSsA"
-  },
-  {
-   "name": "Joep Beving Solitude - Solitude",
-   "time": "07:33",
-   "uri": "spotify:track:21UkknmSYISvDaQbaMIOgq"
-  },
-  {
-   "name": "Trio Joubran Douja - Douja",
-   "time": "07:54",
-   "uri": "spotify:track:5p2XyhSzmi2qGhZjvfcECR"
-  },
-  {
-   "name": "Eliades Ochoa And Ibrahim Ferrer - El Cuarto De Tula",
-   "time": "08:17",
-   "uri": "spotify:track:5UjaOsrdoI4shw9gM2eNPC"
-  },
-  {
-   "name": "Girls In Airports Kaikoura - Kaikoura",
-   "time": "08:56",
-   "uri": "spotify:track:11O6nqv6GC4aFPPUPALarM"
-  },
-  {
-   "name": "Trebunie-Tutki & Mario Activator Kiedy Góry Wołają - Kiedy Góry Wołają In Dub",
-   "time": "09:10",
-   "uri": "spotify:track:4gitHOyzT7j6NTzryAtGLW"
-  },
-  {
-   "name": "Trio Da Kali Kronos Quartet Ladilikan - Ladilikan",
-   "time": "09:25",
-   "uri": "spotify:track:33TdSLzWPCT7GbwROCHAnl"
-  },
-  {
-   "name": "Kapela Niwinskich Mazurki - Mazurki",
-   "time": "09:30",
-   "uri": "spotify:track:3DKMg1xrcUJGCYq5ygPYU9"
-  },
-  {
-   "name": "Iggy Pop - Les Feuilles Mortes",
-   "time": "09:56",
-   "uri": "spotify:track:4jsfwKGrdOLfQM5DHheVz8"
-  }
- ],
  "2026-09-13": [
   {
    "name": "Murcia Fandango L'arpeggiata Pluhar - Fandango",
@@ -387,6 +285,11 @@
    "uri": "spotify:track:4JXKOFZd8stcAMNCacOQob"
   },
   {
+   "name": "Bruibeck Quartet I Feel Pretty - I Feel Pretty",
+   "time": "07:26",
+   "uri": "spotify:track:5fsG6sFCQWfO0dO1PO7Jkh"
+  },
+  {
    "name": "Kulakowski Music For R - Music For R",
    "time": "07:41",
    "uri": "spotify:track:4GOidYlSTz5GeAxgsXK57J"
@@ -410,6 +313,11 @@
    "name": "Omasta Kazimierz - Kazimierz",
    "time": "08:45",
    "uri": "spotify:track:2rWY6ezKAxZHpWw0iLLm8q"
+  },
+  {
+   "name": "Terence Blanchard+Olympia Brass Band This Train Is - This Train Is Bound Of Glory",
+   "time": "08:50",
+   "uri": "spotify:track:4DPjS4aPXvUQx6r9GF8kVD"
   },
   {
    "name": "Falconieri Folias Echa Para Mi Senora Dona Tarolil - Folias Echa Para Mi Senora Dona Tarolilla",
@@ -455,6 +363,58 @@
    "name": "Simon Spirit Voices The King's Singers - Spirit Voices",
    "time": "16:44",
    "uri": "spotify:track:6bzSqq9LsvUsKwCrJh1Ls4"
+  }
+ ],
+ "2026-09-19": [
+  {
+   "name": "Infidelis Żegnany - Żegnany",
+   "time": "07:11",
+   "uri": "spotify:track:4jlHKzl9CkCCP9MbDGfd69"
+  },
+  {
+   "name": "Tempvs Fvgit - Ora Iii",
+   "time": "07:27",
+   "uri": "spotify:track:59hlnJaYchCjzPVRXF1qkH"
+  },
+  {
+   "name": "Krajka - Kolomyjka",
+   "time": "07:52",
+   "uri": "spotify:track:74KRjCOs9qjRg0M1zTcSvG"
+  },
+  {
+   "name": "Bela Fleck - Blue Mountain Hop - Live Heart",
+   "time": "07:54",
+   "uri": "spotify:track:6h3IbNOxeuGm2O84GkxMaI"
+  },
+  {
+   "name": "Infidelis - Błądzony",
+   "time": "08:29",
+   "uri": "spotify:track:6r6FzoVMgKjbNQzs5hhwAB"
+  },
+  {
+   "name": "Rhiannon Giddens - Angel Fire Rise",
+   "time": "08:40",
+   "uri": "spotify:track:6xQE5wowns5qhB9lioTouU"
+  },
+  {
+   "name": "Pankisi Ensemble Kurmadila - Kurmadila",
+   "time": "09:43",
+   "uri": "spotify:track:7shborWAvhocHDBY2Nm3U5"
+  },
+  {
+   "name": "Alosa - La Nina D’orbanyà",
+   "time": "09:52",
+   "uri": "spotify:track:5uR2WzrCZJbyOV5AYGRKTt"
+  },
+  {
+   "name": "Chabrier Wesoly Marsz Wiener Phil + Gardiner - Joyeuse Marche Gardiner",
+   "time": "15:47",
+   "uri": "spotify:track:3C8MR4S2LQYxFkqi0VLZyj"
+  },
+  {
+   "name": "Buddy Tate+Harry Sweets Edison September In The Rain - September In The Rain",
+   "time": "16:08",
+   "uri": "spotify:track:525BHxWs8dMAInIURTEhGe"
   }
  ]
 }
