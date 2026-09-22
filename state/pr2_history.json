@@ -1,61 +1,4 @@
 {
- "2026-09-14": [
-  {
-   "name": "Vinci Gismondo Re Di Polonia Fagioli Il Pomo D'oro Valova - 6 Gismondo Re Di Polonia Act I Scene 15 Quell’usignolo Ch’e Innamorato",
-   "time": "07:31",
-   "uri": "spotify:track:4KkJ11VsyOAzpIncpqYN2D"
-  },
-  {
-   "name": "Vaughan Williams Lark Ascending Brown Academy Of S - Lark Ascending",
-   "time": "10:32",
-   "uri": "spotify:track:1wglWrfecdrCSX5NIHlYc8"
-  },
-  {
-   "name": "Ponce La Valentina Segovia - La Valentina",
-   "time": "13:48",
-   "uri": "spotify:track:7IxmtaQayOcK3l3QgBNF7w"
-  },
-  {
-   "name": "Kahane Little Love Mcgill Kahane - Little Love",
-   "time": "14:55",
-   "uri": "spotify:track:0CQ6cbXPUsB9NcJZ2Abuc4"
-  },
-  {
-   "name": "Piazzolla Libertango Balsom Gothenburg So Gardner - Libertango",
-   "time": "16:54",
-   "uri": "spotify:track:1IIydYQ6LTzZpgLXYpNlNy"
-  },
-  {
-   "name": "Orlandini Che M'ami Ti Prega Orliński Il Pomo D'or - Nerone, Act 1 - Che M'ami Ti Prega (Nerone)",
-   "time": "17:45",
-   "uri": "spotify:track:4KqTS14bfAVgGS3QhVKoqo"
-  },
-  {
-   "name": "Stefano Bollani Choro Sim - Choro Sim",
-   "time": "18:12",
-   "uri": "spotify:track:24lvCSzUkDB8qJjLUjO8su"
-  },
-  {
-   "name": "Stefano Bollani Band Il Domatore Di Pulci - Il Domatore Di Pulci",
-   "time": "18:16",
-   "uri": "spotify:track:2LA1lCp50mLEsE4BO13vH7"
-  },
-  {
-   "name": "Enrico Rava-Stefano Bollani Thank You Come Again - Thank You Come Again",
-   "time": "18:21",
-   "uri": "spotify:track:0IfauaCgxCVmJ6ikgSnETt"
-  },
-  {
-   "name": "Gershwin Rialto Ripples Bollani Gewandhausorchester Chailly - Rialto Ripples",
-   "time": "18:42",
-   "uri": "spotify:track:0VEWcDQ9GHPKVlHT3CrGhR"
-  },
-  {
-   "name": "Stefano Bollani Band Bun Ii Vinul Ghiurghiuliu Plu - Ii Vinul Ghiurghiuliu Plus Billy Boy",
-   "time": "18:49",
-   "uri": "spotify:track:1dhEAYLoeTmrAF0dVQVTgN"
-  }
- ],
  "2026-09-15": [
   {
    "name": "Windy & Carl With Optigan Observatory Coast Starli - Coast Starlight",
@@ -354,6 +297,53 @@
    "name": "Fischer-Dieskau Dietrich (Baryton) - Blicke Mir Nicht In Die Lieder",
    "time": "13:27",
    "uri": "spotify:track:7pA7uC1gHN9zD5CJlXukfc"
+  }
+ ],
+ "2026-09-21": [
+  {
+   "name": "Glass Freezing Lavinia Meijer - Freezing",
+   "time": "04:56",
+   "uri": "spotify:track:4lBKmIhRT6FeavZ5OyJkZf"
+  },
+  {
+   "name": "Landowska Bourree D'auvergne - Bourree D'auvergne",
+   "time": "05:44",
+   "uri": "spotify:track:2yptIgOCzhrASB0CwkKeJ2"
+  },
+  {
+   "name": "Anonim La Folia 1490-1701_ Folia_ Rodrigo Martínez - La Folia 1490-1701_ Folia_ Rodrigo Martínez (Anony",
+   "time": "06:17",
+   "uri": "spotify:track:4IlwRQZbiLkgXkqk31eq0u"
+  },
+  {
+   "name": "Motion Trio - Balkan Dance",
+   "time": "06:51",
+   "uri": "spotify:track:3fHm3chcYLhNdDtuYn57C4"
+  },
+  {
+   "name": "Delibes Coppelia - Valse Lente Les Siecles Roth - Coppelia - Valse Lente",
+   "time": "06:57",
+   "uri": "spotify:track:0ImoXC8wCnBg6eBHSmVGow"
+  },
+  {
+   "name": "Krzysztof Komeda Quintet Kattorna - Krzysztof Komeda Quintet Kattorna",
+   "time": "08:52",
+   "uri": "spotify:track:2JkLqYx0HQM0fMyfcppV4p"
+  },
+  {
+   "name": "Ichiko Aoba Amuletum - Amuletum",
+   "time": "14:01",
+   "uri": "spotify:track:1AYVWa4lo91cbbJuRAcH7w"
+  },
+  {
+   "name": "Edouard Lalo Espérance Maria Duenas Itamar Golan - Espérance",
+   "time": "16:19",
+   "uri": "spotify:track:35OsulYspUIFiIsYLWJueo"
+  },
+  {
+   "name": "Michel Petrucciani Chimes - Chimes",
+   "time": "16:46",
+   "uri": "spotify:track:692RAJDbV58Pwdn8rKyzZt"
   }
  ]
 }
