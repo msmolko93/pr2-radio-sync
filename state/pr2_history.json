@@ -1,36 +1,4 @@
 {
- "2026-09-16": [
-  {
-   "name": "Barraine Les Tziganes (Orchestre National De Franace + Macelaru) - 15_Macelaru_Barraine_Les Tziganes",
-   "time": "06:08",
-   "uri": "spotify:track:7EkLQ3OUj71VbOFZ36RTP6"
-  },
-  {
-   "name": "Eliades Ochoa Píntate Los Labios María Son - Píntate Los Labios María Son",
-   "time": "12:00",
-   "uri": "spotify:track:0A27Pm1SdsQbceOPH2m8SU"
-  },
-  {
-   "name": "Trio Da Kali Bagola - Bagola",
-   "time": "12:07",
-   "uri": "spotify:track:0KFgfoZhXaXmzrAPgjyTSH"
-  },
-  {
-   "name": "Bombino Ayo Nigla - Ayo Nigla",
-   "time": "12:33",
-   "uri": "spotify:track:2F7eeBNBru3Y2bi8EYMUdc"
-  },
-  {
-   "name": "Bombino Alwane - Alwane",
-   "time": "12:38",
-   "uri": "spotify:track:5OGYBYUei75xUpQ41OfQUN"
-  },
-  {
-   "name": "Bombino Ahoulaguine Akaline - Ahoulaguine Akaline",
-   "time": "12:42",
-   "uri": "spotify:track:58TRjx8bPJYkfQ8OzS6NIp"
-  }
- ],
  "2026-09-17": [],
  "2026-09-18": [
   {
@@ -285,24 +253,76 @@
    "uri": "spotify:track:2C9Nj9UmmPr18Ia1ZjlOGK"
   },
   {
+   "name": "Guthire The Jolly Pilgrim Barokksolistene Eike - The Jolly Pilgrim",
+   "time": "11:46",
+   "uri": "spotify:track:1zkDGzF8tdR4IgccXe53LC"
+  },
+  {
    "name": "Eike The Newcastle Set Barokksolistene Eike - The Newcastle Set",
    "time": "11:48",
    "uri": "spotify:track:5Axmp59sp0R3TN6fcjHB78"
+  }
+ ],
+ "2026-09-23": [
+  {
+   "name": "Polskey Tanecz Welmy Pekney Gondko - Polskey Tanecz Welmy Pekney",
+   "time": "05:07",
+   "uri": "spotify:track:2K9MBy5375uevAPWVySNPP"
   },
   {
-   "name": "Paolo Angeli · Tenore Murales De Orgosolo - No Sias Isciau (Sèria)",
-   "time": "12:00",
-   "uri": "spotify:track:1QzJaZ3ksLLsSF28e29e1z"
+   "name": "Polnischer Tantz I Gondko - Polnischer Tantz I",
+   "time": "05:10",
+   "uri": "spotify:track:77LcToRk27L5aEkv1tisTN"
   },
   {
-   "name": "Tercet Imperial - Kawalerka",
-   "time": "16:57",
-   "uri": "spotify:track:0TBHnc6ETrxgnkCQfGPB1b"
+   "name": "Polnischer Tantz Iii Gondko - Polnischer Tantz Iii",
+   "time": "05:11",
+   "uri": "spotify:track:0eVSh9Pk3mQAfkhrHjCnHR"
   },
   {
-   "name": "Glass I'm Going To Make A Cake The Hours Lisitsa - I'm Going To Make A Cake (Arr. Michael Riesman)",
-   "time": "19:56",
-   "uri": "spotify:track:4nJvVJPUwrPVOhPtgerjQd"
+   "name": "Polnischer Tantz Iv Gondko - Polnischer Tantz Iv",
+   "time": "05:13",
+   "uri": "spotify:track:5P9xndw0UA3e5tExXTFsRA"
+  },
+  {
+   "name": "Polnischer Tantz V Gondko - Polnischer Tantz V",
+   "time": "05:14",
+   "uri": "spotify:track:0XI6e1NEcBAzQymVFe06I4"
+  },
+  {
+   "name": "Cecilia Bartoli - Se Lente Ancore Il Fulmine - Agrippo",
+   "time": "06:43",
+   "uri": "spotify:track:4q94cfhMeQTEIm02AGeDc4"
+  },
+  {
+   "name": "Hazelius Hedin Frenesin Antons Polska - Frenesin Antons Polska",
+   "time": "06:55",
+   "uri": "spotify:track:0yVB1lraG4Cx3nvmRJjy0V"
+  },
+  {
+   "name": "Stephane Grappelli Autumn Leaves - Autumn Leaves",
+   "time": "08:55",
+   "uri": "spotify:track:2AUbtprbrujKtlXG7SbAVk"
+  },
+  {
+   "name": "Bernard Les Petits Enfants Piau & Kadouch - Trois Chansons De Bilitis - 1 Les Petits Enfants",
+   "time": "09:07",
+   "uri": "spotify:track:751Q5FBMTBV7DCTQQI01Ie"
+  },
+  {
+   "name": "De Falla Noches En Los Jardines De Espana - Manuel De Falla - Noches En Los Jardines De Espana",
+   "time": "14:25",
+   "uri": "spotify:track:27eFg41EFaV7TpcraqQJAf"
+  },
+  {
+   "name": "Glass A Gentleman S Honor - The Photographer Akt I: A Gentleman's Honor",
+   "time": "16:19",
+   "uri": "spotify:track:3JwB8swN8cIx1pt6oFfqr4"
+  },
+  {
+   "name": "Bastarda Sutari Ty Pojdziesz Górą Bastarda & Sutari - Ty Pojdziesz Górą",
+   "time": "16:45",
+   "uri": "spotify:track:0H3pWqkLkt9vg4RoKZDIRk"
   }
  ]
 }
