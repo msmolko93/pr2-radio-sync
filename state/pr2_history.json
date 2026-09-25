@@ -1,5 +1,4 @@
 {
- "2026-09-17": [],
  "2026-09-18": [
   {
    "name": "Kham Meslien - Vaisseaux Fantomes",
@@ -308,21 +307,83 @@
    "name": "Bernard Les Petits Enfants Piau & Kadouch - Trois Chansons De Bilitis - 1 Les Petits Enfants",
    "time": "09:07",
    "uri": "spotify:track:751Q5FBMTBV7DCTQQI01Ie"
+  }
+ ],
+ "2026-09-24": [
+  {
+   "name": "Michel Petrucciani Band Miles Davis Licks - Miles Davis Licks",
+   "time": "06:54",
+   "uri": "spotify:track:1geAKZePrMwN1ewXNZ5yWC"
   },
   {
-   "name": "De Falla Noches En Los Jardines De Espana - Manuel De Falla - Noches En Los Jardines De Espana",
-   "time": "14:25",
-   "uri": "spotify:track:27eFg41EFaV7TpcraqQJAf"
+   "name": "Cristina Branco - Cantigas Do Maio",
+   "time": "07:13",
+   "uri": "spotify:track:35gYeBK9dLPDv4IKt0qirq"
   },
   {
-   "name": "Glass A Gentleman S Honor - The Photographer Akt I: A Gentleman's Honor",
-   "time": "16:19",
-   "uri": "spotify:track:3JwB8swN8cIx1pt6oFfqr4"
+   "name": "Hesperion Xx - L Espagnole - X. Passacaille",
+   "time": "10:54",
+   "uri": "spotify:track:6NvfVg9qqRNbWxIhMnnrR4"
   },
   {
-   "name": "Bastarda Sutari Ty Pojdziesz Górą Bastarda & Sutari - Ty Pojdziesz Górą",
-   "time": "16:45",
-   "uri": "spotify:track:0H3pWqkLkt9vg4RoKZDIRk"
+   "name": "Kapela Brodów - Polka Marka",
+   "time": "12:40",
+   "uri": "spotify:track:0REOWW2bIt6azNyEUACwL9"
+  },
+  {
+   "name": "Korzyński Czołówka (Pierścień I Róża) - Czołówka",
+   "time": "15:05",
+   "uri": "spotify:track:4oSBE5wlnIO1qAZkjrGK5U"
+  },
+  {
+   "name": "Baasch Pokojówka (Lalka) - Pokojowka",
+   "time": "15:24",
+   "uri": "spotify:track:4XZ3W1bltnKFLbkD6gp9Hr"
+  },
+  {
+   "name": "Baasch Arystokracja (Lalka) - Arystokracja",
+   "time": "15:27",
+   "uri": "spotify:track:5jUXJvtv5goL7wZ5zMJHb5"
+  },
+  {
+   "name": "Baasch Przytułek (Lalka) - Przytułek",
+   "time": "15:28",
+   "uri": "spotify:track:1EogY5qHeV4mIA7wV2I64U"
+  },
+  {
+   "name": "Targosz Be Proud Piano (Proud) - Be Proud Piano",
+   "time": "15:34",
+   "uri": "spotify:track:5Lvj2uus2QLYxNFdgLc6xW"
+  },
+  {
+   "name": "Stetson The Girl With The Blue Sweater (The Whispe - The Girl With The Blue Sweater",
+   "time": "15:48",
+   "uri": "spotify:track:3QrKBTq4Ek5TstOzsy9hZI"
+  },
+  {
+   "name": "Stetson Liftoff (Mayday) - Liftoff",
+   "time": "15:50",
+   "uri": "spotify:track:1vGbzybfkWJN8jArxYXuCn"
+  },
+  {
+   "name": "Wanda Warska Oczy Masz Niebiesko-Zielone - Oczy Masz Niebiesko-Zielone",
+   "time": "17:44",
+   "uri": "spotify:track:2U4n6itgIQ08DmgV0MUqly"
+  },
+  {
+   "name": "Leszek Możdżer - Crazy Girl",
+   "time": "18:01",
+   "uri": "spotify:track:59G24ADmNmJBDx9NQi0MMH"
+  },
+  {
+   "name": "Mozdżer Leszek (P) - Sleep Safe And Warm",
+   "time": "18:09",
+   "uri": "spotify:track:1SZQyh5AS4BlmdsXZgqPAE"
+  },
+  {
+   "name": "Jazz Forum Talents My Beautiful Song - My Beautiful Song",
+   "time": "18:34",
+   "uri": "spotify:track:7xCwC1ps7ksMppq6FyEHie"
   }
  ]
 }
