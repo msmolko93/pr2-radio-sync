@@ -1,166 +1,4 @@
 {
- "2026-09-18": [
-  {
-   "name": "Kham Meslien - Vaisseaux Fantomes",
-   "time": "00:03",
-   "uri": "spotify:track:5Tx4hMbHomicLD0wbh4AiC"
-  },
-  {
-   "name": "Joni Mitchell - If",
-   "time": "00:08",
-   "uri": "spotify:track:1Yd2N6mFlIGdXAxu2kkVPo"
-  },
-  {
-   "name": "The Brothers Comatose - High Hoping",
-   "time": "00:15",
-   "uri": "spotify:track:6ItSQmtHLj7tuTWs1obPv9"
-  },
-  {
-   "name": "Melingo - Julepe En La Tierra",
-   "time": "00:19",
-   "uri": "spotify:track:4M1teEcIN4khDVNCkeeuDt"
-  },
-  {
-   "name": "Mandy Lerouge & Melingo - La Noche",
-   "time": "00:24",
-   "uri": "spotify:track:02njX0YDVAdKle0RWvSYfn"
-  },
-  {
-   "name": "Melingo - Anda",
-   "time": "00:28",
-   "uri": "spotify:track:5Z2ExXDI4nC5UpMRWuPtDA"
-  },
-  {
-   "name": "Okay Temiz & Pohjantahti - Eftalya",
-   "time": "00:33",
-   "uri": "spotify:track:38dpCaONMzfnUl2ZD3QZr6"
-  },
-  {
-   "name": "Deva Premal & Ajeet - Yemaya",
-   "time": "00:42",
-   "uri": "spotify:track:75ZsLulPqTLpRwACAQ13hL"
-  },
-  {
-   "name": "Midori Takada & Jakob Bro - Falling And Fragmentation",
-   "time": "00:52",
-   "uri": "spotify:track:5uE7CpImPBnxvseuMcFEHh"
-  },
-  {
-   "name": "B.b. King - Blues Man",
-   "time": "06:01",
-   "uri": "spotify:track:4gv1KBi6apyvI7oDvOaAGU"
-  },
-  {
-   "name": "Nils Petter Molvaer Gilimanuk - Gilimanuk",
-   "time": "06:09",
-   "uri": "spotify:track:330Ke2S95HMiuZwykzcFCW"
-  },
-  {
-   "name": "Sarah Vaughan - Lullaby Of Birdland - Lullaby Of Birdland",
-   "time": "06:19",
-   "uri": "spotify:track:1egFecJPKqG7IcsE3sjZCr"
-  },
-  {
-   "name": "John Coltrane Cousin Mary - Cousin Mary",
-   "time": "06:25",
-   "uri": "spotify:track:2QaAqTj1TnRPR4wpq9LDd8"
-  },
-  {
-   "name": "Gregory Porter Don't Lose Your Steam - Don't Lose Your Steam",
-   "time": "06:43",
-   "uri": "spotify:track:19A6DtYrz9n8FDvb7kMVVW"
-  },
-  {
-   "name": "Nubya Garcia Fortify - Fortify",
-   "time": "06:53",
-   "uri": "spotify:track:0oD4SYLAvCK5PI38bUK2jc"
-  },
-  {
-   "name": "Tomasz Stanko Kameleon - Kameleon",
-   "time": "07:16",
-   "uri": "spotify:track:4JXKOFZd8stcAMNCacOQob"
-  },
-  {
-   "name": "Bruibeck Quartet I Feel Pretty - I Feel Pretty",
-   "time": "07:26",
-   "uri": "spotify:track:5fsG6sFCQWfO0dO1PO7Jkh"
-  },
-  {
-   "name": "Kulakowski Music For R - Music For R",
-   "time": "07:41",
-   "uri": "spotify:track:4GOidYlSTz5GeAxgsXK57J"
-  },
-  {
-   "name": "The Dirty Dozen Brass Band We Gon' Roll - We Gon' Roll",
-   "time": "07:53",
-   "uri": "spotify:track:2jt4EuYJtnwID4qyqM5h8L"
-  },
-  {
-   "name": "Kat Edmonson What Else Can I Do - What Else Can I Do",
-   "time": "08:01",
-   "uri": "spotify:track:1u9dkvRtjzkL8ritczRXsX"
-  },
-  {
-   "name": "Ella Fitzgerald Sunny - Sunny",
-   "time": "08:25",
-   "uri": "spotify:track:3OxpLIangiBuyeOAf2SbxW"
-  },
-  {
-   "name": "Omasta Kazimierz - Kazimierz",
-   "time": "08:45",
-   "uri": "spotify:track:2rWY6ezKAxZHpWw0iLLm8q"
-  },
-  {
-   "name": "Terence Blanchard+Olympia Brass Band This Train Is - This Train Is Bound Of Glory",
-   "time": "08:50",
-   "uri": "spotify:track:4DPjS4aPXvUQx6r9GF8kVD"
-  },
-  {
-   "name": "Falconieri Folias Echa Para Mi Senora Dona Tarolil - Folias Echa Para Mi Senora Dona Tarolilla",
-   "time": "09:10",
-   "uri": "spotify:track:2LWcUrz5hh8KBBXcv94oGk"
-  },
-  {
-   "name": "Manchicourt Missa Veni Sancte Spiritus Gli Angeli - Missa Veni Sancte Spiritus",
-   "time": "10:23",
-   "uri": "spotify:track:6OV35ZWLl16kIKF8ZFUXdw"
-  },
-  {
-   "name": "Kasia Dudziak & Karo Przewłoka / Hania Kocan Beren - Kozerydy",
-   "time": "12:29",
-   "uri": "spotify:track:4JeVNAX5JiK0dZy0VlfY21"
-  },
-  {
-   "name": "Orkiestra Św. Mikołaja - A Ty Myla",
-   "time": "12:40",
-   "uri": "spotify:track:3Ey9748zYZInwHGBOx5ICa"
-  },
-  {
-   "name": "Orkiestra Św. Mikołaja - Dobri W Hamerycy",
-   "time": "12:42",
-   "uri": "spotify:track:4zTkKYBGDpQKhJo4hrO7ry"
-  },
-  {
-   "name": "Reich Oktet Ensemble 20. Jahrhundret Burwik - Oktet",
-   "time": "14:18",
-   "uri": "spotify:track:7oJ7duV79RuyXEnTw06liz"
-  },
-  {
-   "name": "Reich Different Trains Kronos Quartet Wj 1992 - Different Trains",
-   "time": "14:52",
-   "uri": "spotify:track:3h6kVL3Rqu2sbQ70vlkOoT"
-  },
-  {
-   "name": "Piazzolla Otono Porteno Phillips Lausanne Soloists - The Four Seasons Of Buenos Aires Ii. Otono Porteno",
-   "time": "16:29",
-   "uri": "spotify:track:68EdRssEtR6AXnL2JmtI4l"
-  },
-  {
-   "name": "Simon Spirit Voices The King's Singers - Spirit Voices",
-   "time": "16:44",
-   "uri": "spotify:track:6bzSqq9LsvUsKwCrJh1Ls4"
-  }
- ],
  "2026-09-19": [],
  "2026-09-20": [
   {
@@ -309,81 +147,132 @@
    "uri": "spotify:track:751Q5FBMTBV7DCTQQI01Ie"
   }
  ],
- "2026-09-24": [
+ "2026-09-24": [],
+ "2026-09-25": [
   {
-   "name": "Michel Petrucciani Band Miles Davis Licks - Miles Davis Licks",
-   "time": "06:54",
-   "uri": "spotify:track:1geAKZePrMwN1ewXNZ5yWC"
+   "name": "Buck 65 & Jen Grant - Who By Fire",
+   "time": "00:04",
+   "uri": "spotify:track:7rlXdmnSvZCMFQgpMJv6eC"
   },
   {
-   "name": "Cristina Branco - Cantigas Do Maio",
+   "name": "Joni Mitchell - Goodbye Pork Pie Hat",
+   "time": "00:09",
+   "uri": "spotify:track:10lt3FoAtLN0Y4tL9i3FT9"
+  },
+  {
+   "name": "Enzo Favata - Boche E Notte",
+   "time": "00:16",
+   "uri": "spotify:track:1YGYoEEGNuQfvICynUGDe8"
+  },
+  {
+   "name": "Favata & Elizondo - Algarrobo Algarrobal",
+   "time": "00:24",
+   "uri": "spotify:track:5JydXZu2Fdrp2xwSPrlB0v"
+  },
+  {
+   "name": "Newhouse & Le Concert De Lhostel Dieu - La Carpinese",
+   "time": "00:30",
+   "uri": "spotify:track:7w7otKufH6DdJU98mgkxsH"
+  },
+  {
+   "name": "Duo Unicord - Another Rainy Day",
+   "time": "00:36",
+   "uri": "spotify:track:1RqC0O3nr1yaLCMJ0jgc0E"
+  },
+  {
+   "name": "Enzo Favata - For Turiya",
+   "time": "00:41",
+   "uri": "spotify:track:0BVLNOTOHbFebfSRtAfHIx"
+  },
+  {
+   "name": "Max Richter - Now We Can Sing",
+   "time": "00:48",
+   "uri": "spotify:track:67lbY0LFolmrFfIjp5wpNz"
+  },
+  {
+   "name": "Pendofsky Słowik Na Baterie - Słowik Na Baterie",
+   "time": "06:08",
+   "uri": "spotify:track:2mcYZfnjN5ew4Vc58hfHbL"
+  },
+  {
+   "name": "Warszawska Orkiestra Rozrywkowa Czy To Wszystko Ma Sens - Czy To Wszystko Ma Sens",
+   "time": "06:42",
+   "uri": "spotify:track:1vCf1WmzQIUOJiNOEw2NI2"
+  },
+  {
+   "name": "Sammy Miller And The Congregation Black Bottom Stomp - Black Bottom Stomp",
    "time": "07:13",
-   "uri": "spotify:track:35gYeBK9dLPDv4IKt0qirq"
+   "uri": "spotify:track:1J19z0UOUaOa8IF5E8ZkGn"
   },
   {
-   "name": "Hesperion Xx - L Espagnole - X. Passacaille",
-   "time": "10:54",
-   "uri": "spotify:track:6NvfVg9qqRNbWxIhMnnrR4"
+   "name": "The Paxton/Spangler Septet Soweto - Soweto",
+   "time": "07:22",
+   "uri": "spotify:track:7oPWB0KHmXhuqNylLJevhG"
   },
   {
-   "name": "Kapela Brodów - Polka Marka",
-   "time": "12:40",
-   "uri": "spotify:track:0REOWW2bIt6azNyEUACwL9"
+   "name": "Cannonball Adderley Sticks - Sticks",
+   "time": "07:43",
+   "uri": "spotify:track:6XQM0ciQJ4MAV8SgpTCFY8"
   },
   {
-   "name": "Korzyński Czołówka (Pierścień I Róża) - Czołówka",
-   "time": "15:05",
-   "uri": "spotify:track:4oSBE5wlnIO1qAZkjrGK5U"
+   "name": "Kenny Garrett J'ouvert (Homage To Sonny Rollins) - J'ouvert (Homage To Sonny Rollins)",
+   "time": "07:55",
+   "uri": "spotify:track:5tTgTUdAz2DvJFLaYiXRh7"
   },
   {
-   "name": "Baasch Pokojówka (Lalka) - Pokojowka",
-   "time": "15:24",
-   "uri": "spotify:track:4XZ3W1bltnKFLbkD6gp9Hr"
+   "name": "Hegge Feeling - Feeling",
+   "time": "08:10",
+   "uri": "spotify:track:4VH78ilbjz5U3fHbJfEUOU"
   },
   {
-   "name": "Baasch Arystokracja (Lalka) - Arystokracja",
-   "time": "15:27",
-   "uri": "spotify:track:5jUXJvtv5goL7wZ5zMJHb5"
+   "name": "Quincy Jones Comin' Home Baby - Comin' Home Baby",
+   "time": "08:19",
+   "uri": "spotify:track:2Y44Ar0p3f2PPAFasWoLrH"
   },
   {
-   "name": "Baasch Przytułek (Lalka) - Przytułek",
-   "time": "15:28",
-   "uri": "spotify:track:1EogY5qHeV4mIA7wV2I64U"
+   "name": "Kosmonauci Sieka - Sieka",
+   "time": "08:23",
+   "uri": "spotify:track:1NETmVqvZgCQlHkXzjAwsC"
   },
   {
-   "name": "Targosz Be Proud Piano (Proud) - Be Proud Piano",
-   "time": "15:34",
-   "uri": "spotify:track:5Lvj2uus2QLYxNFdgLc6xW"
+   "name": "Goran Kajfes Subtropic Arkestra Ibakish Tarekigne - Ibakish Tarekigne",
+   "time": "08:53",
+   "uri": "spotify:track:6EYT8tCY3Oe62ejZPcb8fZ"
   },
   {
-   "name": "Stetson The Girl With The Blue Sweater (The Whispe - The Girl With The Blue Sweater",
-   "time": "15:48",
-   "uri": "spotify:track:3QrKBTq4Ek5TstOzsy9hZI"
+   "name": "Capricornus Ciaconna In D Ayrton Bucheli Chabard T - Partiturbuch Ludwig No. 37 Ciaconna In D",
+   "time": "11:51",
+   "uri": "spotify:track:0cwPlkdwcaTRoHnvW1FOYy"
   },
   {
-   "name": "Stetson Liftoff (Mayday) - Liftoff",
-   "time": "15:50",
-   "uri": "spotify:track:1vGbzybfkWJN8jArxYXuCn"
+   "name": "Kreisler Liebesleid Jakowicz Malicki - Kreisler Liebesleid",
+   "time": "14:00",
+   "uri": "spotify:track:2kAi8kOS98EN61UNKS50dY"
   },
   {
-   "name": "Wanda Warska Oczy Masz Niebiesko-Zielone - Oczy Masz Niebiesko-Zielone",
-   "time": "17:44",
-   "uri": "spotify:track:2U4n6itgIQ08DmgV0MUqly"
+   "name": "Bernstein Wiest Side Story - Mambo Dupree Lucerne - Wiest Side Story - Mambo",
+   "time": "20:32",
+   "uri": "spotify:track:6ubNfCtYZRPdngiZok8rTa"
   },
   {
-   "name": "Leszek Możdżer - Crazy Girl",
-   "time": "18:01",
-   "uri": "spotify:track:59G24ADmNmJBDx9NQi0MMH"
+   "name": "Copland Fanfare For The Common Man Lucerne Festiva - Fanfare For The Common Man",
+   "time": "20:35",
+   "uri": "spotify:track:3T9HSgS5jBFdXIBPav51gj"
   },
   {
-   "name": "Mozdżer Leszek (P) - Sleep Safe And Warm",
-   "time": "18:09",
-   "uri": "spotify:track:1SZQyh5AS4BlmdsXZgqPAE"
+   "name": "Ryterski Interludium #1 Ryterski - Interludium #1",
+   "time": "22:27",
+   "uri": "spotify:track:5QRJ7LB3DYIVsrt8YmpdAj"
   },
   {
-   "name": "Jazz Forum Talents My Beautiful Song - My Beautiful Song",
-   "time": "18:34",
-   "uri": "spotify:track:7xCwC1ps7ksMppq6FyEHie"
+   "name": "Ryterski Interludium #2 Ryterski - Interludium #2",
+   "time": "22:28",
+   "uri": "spotify:track:1sOYA5FzsElbGThZaWBOHR"
+  },
+  {
+   "name": "Ryterski Interludium #3 Ryterski - Interludium #3",
+   "time": "22:57",
+   "uri": "spotify:track:2haDptF8r2FWOqG9WVvIYa"
   }
  ]
 }
