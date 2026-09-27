@@ -1,5 +1,4 @@
 {
- "2026-09-19": [],
  "2026-09-20": [
   {
    "name": "Kowalska Lason Istnieje Przestrzen Camerata Silesia - Istnieje Przestrzeń",
@@ -245,21 +244,6 @@
    "uri": "spotify:track:0cwPlkdwcaTRoHnvW1FOYy"
   },
   {
-   "name": "Kreisler Liebesleid Jakowicz Malicki - Kreisler Liebesleid",
-   "time": "14:00",
-   "uri": "spotify:track:2kAi8kOS98EN61UNKS50dY"
-  },
-  {
-   "name": "Bernstein Wiest Side Story - Mambo Dupree Lucerne - Wiest Side Story - Mambo",
-   "time": "20:32",
-   "uri": "spotify:track:6ubNfCtYZRPdngiZok8rTa"
-  },
-  {
-   "name": "Copland Fanfare For The Common Man Lucerne Festiva - Fanfare For The Common Man",
-   "time": "20:35",
-   "uri": "spotify:track:3T9HSgS5jBFdXIBPav51gj"
-  },
-  {
    "name": "Ryterski Interludium #1 Ryterski - Interludium #1",
    "time": "22:27",
    "uri": "spotify:track:5QRJ7LB3DYIVsrt8YmpdAj"
@@ -273,6 +257,73 @@
    "name": "Ryterski Interludium #3 Ryterski - Interludium #3",
    "time": "22:57",
    "uri": "spotify:track:2haDptF8r2FWOqG9WVvIYa"
+  }
+ ],
+ "2026-09-26": [
+  {
+   "name": "Aleksandra Slyz - The Ruthless Act",
+   "time": "01:44",
+   "uri": "spotify:track:4ClCH5JRIt5WhQkgVuEqRa"
+  },
+  {
+   "name": "Taniec Woloski Orkiestra Zlotego Wieku Urbaniak - Taniec Woloski",
+   "time": "03:08",
+   "uri": "spotify:track:2vxeHgntogmE2Az6kojhbD"
+  },
+  {
+   "name": "Stelios Petrakis Quartet Syrtos Ts'apomonis - Syrtos Ts'apomonis",
+   "time": "07:15",
+   "uri": "spotify:track:1Li5M5TRBB9oi9wmvQJrLw"
+  },
+  {
+   "name": "Dreamers' Circus North Of Trondheim - North Of Trondheim",
+   "time": "07:25",
+   "uri": "spotify:track:5kLiorlhpKQZJAb948MZRL"
+  },
+  {
+   "name": "Svitlana Nianio Kukulina - Kukulina",
+   "time": "07:28",
+   "uri": "spotify:track:0sro1fKouYEGbH22vIYJZa"
+  },
+  {
+   "name": "Florence Beatrice Price Adoration Hope Zurcher Kammerorchester - Adoration",
+   "time": "07:33",
+   "uri": "spotify:track:1JKtLhbDUsEGWNQfixiOob"
+  },
+  {
+   "name": "Lina_Raul Refree - Foi Deus",
+   "time": "07:42",
+   "uri": "spotify:track:12LEKW0w46BdQxt1Qfgcoa"
+  },
+  {
+   "name": "Szczepko I Tońko - Tylko We Lwowie",
+   "time": "07:49",
+   "uri": "spotify:track:57Oph6f7eTt62NgbkGVhL1"
+  },
+  {
+   "name": "Fahir Atakoglu Sultan Jamal Aliyev Ece Dagistan - Sultan",
+   "time": "07:52",
+   "uri": "spotify:track:6tKCGKTF5sMhPCE6MqIooj"
+  },
+  {
+   "name": "Maniucha Bikont Dam Dyla - Dam Dyla",
+   "time": "08:33",
+   "uri": "spotify:track:51UQDNop8KGXLbVtSLntGT"
+  },
+  {
+   "name": "Piotr Damasiewicz & Into The Roots Roztoka - Roztoka",
+   "time": "08:54",
+   "uri": "spotify:track:5Qg8Is7kzLS1KEql8w0iBp"
+  },
+  {
+   "name": "Chris Thile & Brad Mehldau Tabhair Dom Do Lámh - Tabhair Dom Do Lámh",
+   "time": "09:49",
+   "uri": "spotify:track:69qGhVe4CbzDi5uBeWPPdO"
+  },
+  {
+   "name": "Radical Polish Ansambl Ciele - Ciele",
+   "time": "09:53",
+   "uri": "spotify:track:5bYTByUUO2u2nwfYSkXFoR"
   }
  ]
 }
