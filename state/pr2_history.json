@@ -1,51 +1,4 @@
 {
- "2026-09-20": [
-  {
-   "name": "Kowalska Lason Istnieje Przestrzen Camerata Silesia - Istnieje Przestrzeń",
-   "time": "05:08",
-   "uri": "spotify:track:5kxVk9HbLUuITQnquUt2vd"
-  },
-  {
-   "name": "Nawrocki Karuzel - Karuzel",
-   "time": "06:40",
-   "uri": "spotify:track:1lo61gZVSFVDwc4TvJZrCD"
-  },
-  {
-   "name": "Lutosławski Idzie Grzes Miskiewicz+Kwadrofonik - Idzie Grześ",
-   "time": "07:07",
-   "uri": "spotify:track:6myXoGwED1B8q5OE9DeQ3I"
-  },
-  {
-   "name": "Stepanka Balcarova Joy - Joy",
-   "time": "07:23",
-   "uri": "spotify:track:0a2iM6T4iqIkbIz4eko6ly"
-  },
-  {
-   "name": "Raphael Pannier Capricho De Raphael - Capricho De Raphael",
-   "time": "07:50",
-   "uri": "spotify:track:6WUqEahfuOEDNhmPjNEMri"
-  },
-  {
-   "name": "Trad Wenezuela Polo Margariteno Mancini Larpeggiat - Polo Margariteno (Polo)",
-   "time": "09:08",
-   "uri": "spotify:track:73CIfg2DZG1plJwnfsjRgM"
-  },
-  {
-   "name": "Paco De Lucia Guajiras De Lucía - Guajiras De Lucía",
-   "time": "09:17",
-   "uri": "spotify:track:3Hj5qzQaF3i5xbYUxWREGi"
-  },
-  {
-   "name": "Zemlinsky Waldgesprach Isokoski Gürzenich-Orcheste - Waldgesprach",
-   "time": "12:02",
-   "uri": "spotify:track:2W1R3XAtXzbsP76un5o7U2"
-  },
-  {
-   "name": "Fischer-Dieskau Dietrich (Baryton) - Blicke Mir Nicht In Die Lieder",
-   "time": "13:27",
-   "uri": "spotify:track:7pA7uC1gHN9zD5CJlXukfc"
-  }
- ],
  "2026-09-21": [],
  "2026-09-22": [
   {
@@ -324,6 +277,38 @@
    "name": "Radical Polish Ansambl Ciele - Ciele",
    "time": "09:53",
    "uri": "spotify:track:5bYTByUUO2u2nwfYSkXFoR"
+  }
+ ],
+ "2026-09-27": [
+  {
+   "name": "Volodja Brodsky - Bethanie’s Salt Water Taffy",
+   "time": "00:06",
+   "uri": "spotify:track:5UAetx0rys7zOhy7uM4o3o"
+  },
+  {
+   "name": "Misha Panfilov - Storm",
+   "time": "00:16",
+   "uri": "spotify:track:5zf7zhHYVfgF22V0Gk7vGf"
+  },
+  {
+   "name": "Bryozone - Sub Nautica",
+   "time": "00:24",
+   "uri": "spotify:track:1reAzqZGJ6tj4YbrrOCXR0"
+  },
+  {
+   "name": "Chillera - Schax",
+   "time": "00:31",
+   "uri": "spotify:track:4Xp4ZkPCwOBUjwgKsBX7HG"
+  },
+  {
+   "name": "Nikolaienko - Seasick",
+   "time": "00:39",
+   "uri": "spotify:track:3bpH4zMYmr2UfagQR5DHiA"
+  },
+  {
+   "name": "Dave Holland Secret Places - Secret Places",
+   "time": "09:44",
+   "uri": "spotify:track:7v5J6DmjVhaxukbIGzdGTd"
   }
  ]
 }
