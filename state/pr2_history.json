@@ -1,5 +1,4 @@
 {
- "2026-09-21": [],
  "2026-09-22": [
   {
    "name": "Maklakiewicz Szumy Pasiecznik Piszek - Szumy",
@@ -309,6 +308,23 @@
    "name": "Dave Holland Secret Places - Secret Places",
    "time": "09:44",
    "uri": "spotify:track:7v5J6DmjVhaxukbIGzdGTd"
+  }
+ ],
+ "2026-09-28": [
+  {
+   "name": "Cage In A Landscape Drury - In A Landscape",
+   "time": "05:57",
+   "uri": "spotify:track:5HFF0YWFFwkzSmsr99Yd3k"
+  },
+  {
+   "name": "Płyta Tygodnia Miles Davis Quintet Airegin - Płyta Tygodnia Airegin",
+   "time": "07:09",
+   "uri": "spotify:track:3abEv6s9C36cc9MMaP1aDj"
+  },
+  {
+   "name": "Cavalli Vanne Intrepido O Mio Bene Semenzato La Ve - Vanne Intrepido O Mio Bene",
+   "time": "08:29",
+   "uri": "spotify:track:63EGrumB7kWgHiP3xF0dxM"
   }
  ]
 }
