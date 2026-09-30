@@ -1,56 +1,4 @@
 {
- "2026-09-22": [
-  {
-   "name": "Maklakiewicz Szumy Pasiecznik Piszek - Szumy",
-   "time": "05:41",
-   "uri": "spotify:track:4dbp2q4IPbDvmDlECn3Xii"
-  },
-  {
-   "name": "Bertali+Pluhar Ciaccona L’arpeggiata Pluhar - Ciaccona",
-   "time": "07:41",
-   "uri": "spotify:track:7jOnhe335cbTJyTiZoPkxg"
-  },
-  {
-   "name": "Kiran Ahluwalia Soch Ka - Soch Ka",
-   "time": "07:54",
-   "uri": "spotify:track:2TlTH5YooKiW2WqeyHlSIQ"
-  },
-  {
-   "name": "Szumią Ptaków Loty+ Adam Strug - Szumia Ptakow Loty",
-   "time": "08:01",
-   "uri": "spotify:track:3qixIvsxZFxrvcVcYvwN6f"
-  },
-  {
-   "name": "The Galway Bay Hornpipe Savall King - The Galway Bay Hornpipe",
-   "time": "08:07",
-   "uri": "spotify:track:7EoJoyxOcaWozxiXHCXkJX"
-  },
-  {
-   "name": "Dolly Parton - Jolene",
-   "time": "08:26",
-   "uri": "spotify:track:2SpEHTbUuebeLkgs9QB7Ue"
-  },
-  {
-   "name": "Maria Kalaniemi Cranes Of Spring - Cranes Of Spring",
-   "time": "08:55",
-   "uri": "spotify:track:2FtlFq6kVgSu2K9B6iMr7h"
-  },
-  {
-   "name": "The Willow Song Barokksolistene Eike - The Willow Song",
-   "time": "11:30",
-   "uri": "spotify:track:2C9Nj9UmmPr18Ia1ZjlOGK"
-  },
-  {
-   "name": "Guthire The Jolly Pilgrim Barokksolistene Eike - The Jolly Pilgrim",
-   "time": "11:46",
-   "uri": "spotify:track:1zkDGzF8tdR4IgccXe53LC"
-  },
-  {
-   "name": "Eike The Newcastle Set Barokksolistene Eike - The Newcastle Set",
-   "time": "11:48",
-   "uri": "spotify:track:5Axmp59sp0R3TN6fcjHB78"
-  }
- ],
  "2026-09-23": [
   {
    "name": "Polskey Tanecz Welmy Pekney Gondko - Polskey Tanecz Welmy Pekney",
@@ -310,21 +258,57 @@
    "uri": "spotify:track:7v5J6DmjVhaxukbIGzdGTd"
   }
  ],
- "2026-09-28": [
+ "2026-09-28": [],
+ "2026-09-29": [
   {
-   "name": "Cage In A Landscape Drury - In A Landscape",
-   "time": "05:57",
-   "uri": "spotify:track:5HFF0YWFFwkzSmsr99Yd3k"
-  },
-  {
-   "name": "Płyta Tygodnia Miles Davis Quintet Airegin - Płyta Tygodnia Airegin",
+   "name": "Miles Davis Quintet 1956 No Line - No Line",
    "time": "07:09",
-   "uri": "spotify:track:3abEv6s9C36cc9MMaP1aDj"
+   "uri": "spotify:track:3nLvBv93zK5pseN1zJTr1r"
   },
   {
-   "name": "Cavalli Vanne Intrepido O Mio Bene Semenzato La Ve - Vanne Intrepido O Mio Bene",
-   "time": "08:29",
-   "uri": "spotify:track:63EGrumB7kWgHiP3xF0dxM"
+   "name": "Trio Andrzeja Jagodzińskiego - Lalka",
+   "time": "07:30",
+   "uri": "spotify:track:12YvCKqvNpP7kT6rgCxGMu"
+  },
+  {
+   "name": "Dolphy Jitterbug Waltz - Jitterbug Waltz",
+   "time": "07:55",
+   "uri": "spotify:track:5i6RApb5nLqTlLsEyzF7TZ"
+  },
+  {
+   "name": "De Cambrai Loeir M'estuet La Roine Marie Graindelavoix Schmelzer - Loeir M'estuet La Roine Marie",
+   "time": "08:18",
+   "uri": "spotify:track:5hoeQ9fjn5sZZSMH5CaGZs"
+  },
+  {
+   "name": "De Falla Danza Ritual Del Fuego Euskal Barrokensemble - Danza Ritual Del Fuego",
+   "time": "08:51",
+   "uri": "spotify:track:6goXkf3Gbc8Nix11aGy0y5"
+  },
+  {
+   "name": "Lambert Bien Que L'amour Fasse Toute Ma Peine Les Arts Florissants Christie - Bien Que L'amour Fasse Toute Ma Peine",
+   "time": "11:45",
+   "uri": "spotify:track:5vGKDOKCU5KnN99qFcMk0I"
+  },
+  {
+   "name": "Orkiestra Galicja - Obertyna",
+   "time": "12:00",
+   "uri": "spotify:track:70bxm8dFcuPPUVEp8QXIIb"
+  },
+  {
+   "name": "Janusz Prusinowski Jacek Hałas - Kujawiak Namolny",
+   "time": "12:42",
+   "uri": "spotify:track:5AmtfVyHHrxUARZ0uFOrvF"
+  },
+  {
+   "name": "Matt Wilson Hug - Hug",
+   "time": "18:01",
+   "uri": "spotify:track:1u8n3uVTtityaDhoPL3aeD"
+  },
+  {
+   "name": "Big Band Śląski Big Band Śląski - Początek - Big Band Śląski - Początek",
+   "time": "18:26",
+   "uri": "spotify:track:3u6RoKl1h3MIFX1UP1dgpA"
   }
  ]
 }
