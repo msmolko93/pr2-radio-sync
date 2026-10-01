@@ -1,51 +1,4 @@
 {
- "2026-09-23": [
-  {
-   "name": "Polskey Tanecz Welmy Pekney Gondko - Polskey Tanecz Welmy Pekney",
-   "time": "05:07",
-   "uri": "spotify:track:2K9MBy5375uevAPWVySNPP"
-  },
-  {
-   "name": "Polnischer Tantz I Gondko - Polnischer Tantz I",
-   "time": "05:10",
-   "uri": "spotify:track:77LcToRk27L5aEkv1tisTN"
-  },
-  {
-   "name": "Polnischer Tantz Iii Gondko - Polnischer Tantz Iii",
-   "time": "05:11",
-   "uri": "spotify:track:0eVSh9Pk3mQAfkhrHjCnHR"
-  },
-  {
-   "name": "Polnischer Tantz Iv Gondko - Polnischer Tantz Iv",
-   "time": "05:13",
-   "uri": "spotify:track:5P9xndw0UA3e5tExXTFsRA"
-  },
-  {
-   "name": "Polnischer Tantz V Gondko - Polnischer Tantz V",
-   "time": "05:14",
-   "uri": "spotify:track:0XI6e1NEcBAzQymVFe06I4"
-  },
-  {
-   "name": "Cecilia Bartoli - Se Lente Ancore Il Fulmine - Agrippo",
-   "time": "06:43",
-   "uri": "spotify:track:4q94cfhMeQTEIm02AGeDc4"
-  },
-  {
-   "name": "Hazelius Hedin Frenesin Antons Polska - Frenesin Antons Polska",
-   "time": "06:55",
-   "uri": "spotify:track:0yVB1lraG4Cx3nvmRJjy0V"
-  },
-  {
-   "name": "Stephane Grappelli Autumn Leaves - Autumn Leaves",
-   "time": "08:55",
-   "uri": "spotify:track:2AUbtprbrujKtlXG7SbAVk"
-  },
-  {
-   "name": "Bernard Les Petits Enfants Piau & Kadouch - Trois Chansons De Bilitis - 1 Les Petits Enfants",
-   "time": "09:07",
-   "uri": "spotify:track:751Q5FBMTBV7DCTQQI01Ie"
-  }
- ],
  "2026-09-24": [],
  "2026-09-25": [
   {
@@ -299,16 +252,88 @@
    "name": "Janusz Prusinowski Jacek Hałas - Kujawiak Namolny",
    "time": "12:42",
    "uri": "spotify:track:5AmtfVyHHrxUARZ0uFOrvF"
+  }
+ ],
+ "2026-09-30": [
+  {
+   "name": "Gumiela Time Dilation Zimna+Milek - Time Dilation",
+   "time": "01:13",
+   "uri": "spotify:track:2xPieWbErsq65ByyV3lQAo"
   },
   {
-   "name": "Matt Wilson Hug - Hug",
-   "time": "18:01",
-   "uri": "spotify:track:1u8n3uVTtityaDhoPL3aeD"
+   "name": "Krzanowski Relief Vii Frąckiewicz+Lorent - Krzanowski Relief Vii Frąckiewicz",
+   "time": "01:28",
+   "uri": "spotify:track:0yjMS27CbYfFWGONweaSRW"
   },
   {
-   "name": "Big Band Śląski Big Band Śląski - Początek - Big Band Śląski - Początek",
-   "time": "18:26",
-   "uri": "spotify:track:3u6RoKl1h3MIFX1UP1dgpA"
+   "name": "Paco+Pepe De Lucia Solo Quiero Caminar - Solo Quiero Caminar",
+   "time": "06:55",
+   "uri": "spotify:track:38NeVVMd9R1LWLYOvf4pnC"
+  },
+  {
+   "name": "Płyta Tygodnia Miles Davis Quintet Woodyn You - Płyta Tygodnia Woodyn You",
+   "time": "07:09",
+   "uri": "spotify:track:2DZRzRFNjVqSgZZE2hXalf"
+  },
+  {
+   "name": "Art Tatum Sextet September Song - September Song",
+   "time": "07:56",
+   "uri": "spotify:track:6RdJRjf76r17m4WKFPlUOu"
+  },
+  {
+   "name": "Reich Mallet Quartet Collin Currie Group - 05 - Reich - Mallet Quartet - Iii. Fast",
+   "time": "08:02",
+   "uri": "spotify:track:7CEH1xO0MvMcVmJF3t0CSG"
+  },
+  {
+   "name": "Dubois La Farandole - Valse Des Ames Infideles Les Siecles Roth - La Farandole - Valse Des Ames Infideles",
+   "time": "08:21",
+   "uri": "spotify:track:7didVjqPxMyYaMgUt2xPrn"
+  },
+  {
+   "name": "Badalamenti Twin Peaks Dance Of The Dream Man (Ins - Dance Of The Dream Man (Instrumental)",
+   "time": "08:26",
+   "uri": "spotify:track:5WXIgZes8ntlCwLJfOzeyB"
+  },
+  {
+   "name": "Konieczny Ucisz Serce Umer - Ucisz Serce",
+   "time": "08:45",
+   "uri": "spotify:track:1L5LVHPYjc725FhxPBurRl"
+  },
+  {
+   "name": "Buddy Rich-Lionel Hampton Band Buddy's Cherokee - Buddy's Cherokee",
+   "time": "08:51",
+   "uri": "spotify:track:7HKBXg975zxSVAAJjnEuUg"
+  },
+  {
+   "name": "Falla Manuel De Falla Homenaje Royal Liverpool Pho - Homenaje",
+   "time": "09:12",
+   "uri": "spotify:track:5i7e8SKSSz8IEIzRN5MZwG"
+  },
+  {
+   "name": "Masecki W Błękicie Oczu Twych - W Błękicie Oczu Twych",
+   "time": "17:34",
+   "uri": "spotify:track:0ydRON4YpYAtrktgy8wcNd"
+  },
+  {
+   "name": "Kroll Bajno And Fiddle (Hadelich + Weiss) - Banjo And Fiddle",
+   "time": "17:55",
+   "uri": "spotify:track:4uhIYg1WpZiHbDw6zQvQek"
+  },
+  {
+   "name": "Reich Music For Pieces Of Wood Colin Currie Group - Music For Pieces Of Wood",
+   "time": "20:09",
+   "uri": "spotify:track:4zAeC4qX6aXipNrtjSAuTj"
+  },
+  {
+   "name": "Reich Mallet Quartet Colin Currie Group - Mallet Quartet",
+   "time": "20:24",
+   "uri": "spotify:track:7CEH1xO0MvMcVmJF3t0CSG"
+  },
+  {
+   "name": "Reich Drumming Colin Currie Group - Drumming",
+   "time": "20:41",
+   "uri": "spotify:track:1zkdr7wM37fO7eMEPjVpn3"
   }
  ]
 }
